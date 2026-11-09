@@ -1,0 +1,30 @@
+# ===== 每日新聞 × 單字學習 設定檔 =====
+
+news_count: 5          # 每日新聞數量
+lookback_hours: 24     # 只取過去幾小時內的新聞
+timezone_offset: 8     # 台灣 UTC+8（用來決定檔名日期）
+
+# 新增 / 移除來源：直接增減下面的項目即可（排在前面的優先度較高）
+feeds:
+  - name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+  - name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+  - name: NPR News
+    url: https://feeds.npr.org/1001/rss.xml
+  - name: Reuters (Google News)
+    url: "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US"
+
+# 合計不足 news_count 則時的補充來源
+fallback_feed:
+  name: Google News
+  url: "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+
+gemini:
+  model: gemini-2.5-flash     # 免費額度的 Flash 系列模型，可自行更換
+  retry_wait_seconds: 60      # 遇到 429 等待秒數
+  max_retries: 3              # 429 最多重試次數
+
+learner:
+  level: "多益 500–600 分（約 CEFR A2–B1）"
+  words_per_news: "3–5"
