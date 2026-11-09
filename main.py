@@ -207,6 +207,14 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
     g = cfg["gemini"]
 
     models = [g["model"]] + list(g.get("fallback_models", []))
+    try:  # 自動補上 API 實際可用的 flash 模型作為備援
+        for m in client.models.list():
+            name = (m.name or "").replace("models/", "")
+            if "flash" in name and "generateContent" in (m.supported_actions or [])                     and not any(x in name for x in ("image", "tts", "live", "audio", "preview-")) and name not in models:
+                models.append(name)
+        print(f"[INFO] 候選模型: {models}")
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] 無法列出模型: {e}", file=sys.stderr)
     last_err = None
     for model in models:
         for attempt in range(g["max_retries"] + 1):
@@ -230,6 +238,10 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
                     time.sleep(g["retry_wait_seconds"])
                     continue
                 print(f"[WARN] 模型 {model} 失敗: {code}", file=sys.stderr)
+                break
+            except Exception as e:  # noqa: BLE001  (例如 JSON 解析失敗)
+                last_err = e
+                print(f"[WARN] 模型 {model} 回傳無法解析: {e}", file=sys.stderr)
                 break
     if last_err:
         raise last_err
