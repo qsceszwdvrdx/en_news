@@ -203,7 +203,7 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("未設定環境變數 GEMINI_API_KEY")
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=120_000))  # 毫秒
     g = cfg["gemini"]
 
     models = [g["model"]] + list(g.get("fallback_models", []))
