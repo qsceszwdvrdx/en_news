@@ -21,7 +21,7 @@ fallback_feed:
   url: "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
 gemini:
-  model: gemini-2.5-flash     # 免費額度的 Flash 系列模型，可自行更換
+  model: gemini-3.8-flash     # 免費額度的 Flash 系列模型，可自行更換
   retry_wait_seconds: 60      # 遇到 429 等待秒數
   max_retries: 3              # 429 最多重試次數
 
