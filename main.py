@@ -221,8 +221,8 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
             return result
         except errors.APIError as e:
             code = getattr(e, "code", None)
-            if code == 429 and attempt < g["max_retries"]:
-                print(f"[WARN] 429 超過額度，{g['retry_wait_seconds']} 秒後重試 ({attempt + 1}/{g['max_retries']})", file=sys.stderr)
+            if code in (429, 503) and attempt < g["max_retries"]:
+                print(f"[WARN] {code} 額度或服務暫時不可用，{g['retry_wait_seconds']} 秒後重試 ({attempt + 1}/{g['max_retries']})", file=sys.stderr)
                 time.sleep(g["retry_wait_seconds"])
                 continue
             raise
