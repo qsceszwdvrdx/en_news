@@ -206,26 +206,33 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
     client = genai.Client(api_key=api_key)
     g = cfg["gemini"]
 
-    for attempt in range(g["max_retries"] + 1):
-        try:
-            resp = client.models.generate_content(
-                model=g["model"],
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                    response_schema=DailyResult,
-                    temperature=0.3,
-                ),
-            )
-            result = resp.parsed if isinstance(resp.parsed, DailyResult) else DailyResult.model_validate_json(resp.text)
-            return result
-        except errors.APIError as e:
-            code = getattr(e, "code", None)
-            if code in (429, 503) and attempt < g["max_retries"]:
-                print(f"[WARN] {code} 額度或服務暫時不可用，{g['retry_wait_seconds']} 秒後重試 ({attempt + 1}/{g['max_retries']})", file=sys.stderr)
-                time.sleep(g["retry_wait_seconds"])
-                continue
-            raise
+    models = [g["model"]] + list(g.get("fallback_models", []))
+    last_err = None
+    for model in models:
+        for attempt in range(g["max_retries"] + 1):
+            try:
+                resp = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json",
+                        response_schema=DailyResult,
+                        temperature=0.3,
+                    ),
+                )
+                print(f"[INFO] 使用模型 {model}")
+                return resp.parsed if isinstance(resp.parsed, DailyResult) else DailyResult.model_validate_json(resp.text)
+            except errors.APIError as e:
+                last_err = e
+                code = getattr(e, "code", None)
+                if code in (429, 503) and attempt < g["max_retries"]:
+                    print(f"[WARN] {model} {code}，{g['retry_wait_seconds']} 秒後重試 ({attempt + 1}/{g['max_retries']})", file=sys.stderr)
+                    time.sleep(g["retry_wait_seconds"])
+                    continue
+                print(f"[WARN] 模型 {model} 失敗: {code}", file=sys.stderr)
+                break
+    if last_err:
+        raise last_err
     raise RuntimeError("Gemini 重試次數用盡")
 
 
