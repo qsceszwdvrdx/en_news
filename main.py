@@ -37,7 +37,7 @@ class Vocab(BaseModel):
     kk: str                   # KK 音標
     meaning_zh: str
     definition_en: str        # 簡單英文解釋（給純英文版）
-    sentence_en: str         # 新聞原句
+    sentence_en: str         # 日常生活例句（與新聞無關）
     sentence_zh: str
     synonyms: List[str]       # 1–2 個
     collocations: List[str]   # 1–2 個
@@ -214,7 +214,8 @@ def build_prompt(news: list, cfg: dict) -> str:
 - why_important_en：為什麼重要（簡單英文，1–2 句）；why_important_zh：同上的繁體中文版
 - vocab：挑 {cfg['learner']['words_per_news']} 個「多益常考、日常實用」的單字；略過太艱深的專業術語、專有名詞、人名地名。每個單字：
   - word（原形）、pos（詞性，如 n. / v. / adj.）、kk（KK 音標，如 [ˈkraɪsɪs]）、meaning_zh（繁體中文意思，貼合句中用法）、definition_en（A2–B1 程度的簡單英文解釋，貼合句中用法）
-  - sentence_en：必須是上面提供的標題或內文中「實際出現」該單字的原句；sentence_zh：該句中文翻譯
+  - sentence_en：一個包含該單字的「生活例句」，**不要**使用或改寫新聞內容，也不要與該則新聞主題相關。用美國或英國人日常真的會說的口語、自然的說法（像在工作、購物、旅行、聊天、餐廳、通勤等場合）；若該單字日常很少用到，就直接放一個它最常出現的常見場合句子（例如會議、電子郵件、訂房、面試）。句子簡短（約 8–15 字），符合 A2–B1 程度；sentence_zh：該句中文翻譯
+  - 單字的選擇仍然來自該則新聞，但例句與新聞無關
   - synonyms：最常用的 1–2 個同義詞；collocations：最常見的 1–2 個搭配詞（短語）
   - toeic_common：是否為多益常見字（true/false）
 
