@@ -111,9 +111,10 @@ classDiagram
 flowchart LR
     R[DailyResult] --> M[news/YYYY-MM-DD.md<br/>中文版：英文摘要 + 中文翻譯]
     R --> E[news_en/YYYY-MM-DD.md<br/>純英文版：無中文]
+    R --> W[docs/ 網站 + audio/*.mp3<br/>edge-tts 英文語音]
     R --> A[anki/YYYY-MM-DD.csv<br/>單字;中文意思;例句]
     R --> RD[README.md<br/>最新一期 + 歷史清單]
-    M & E & A & RD --> G[git add / commit / push]
+    M & E & W & A & RD --> G[git add / commit / push]
     G --> REPO[(GitHub repo)]
 ```
 
@@ -142,3 +143,12 @@ flowchart LR
 | 換 Gemini 模型 | `config.yaml` → `gemini.model` / `fallback_models` |
 | 改執行時間 | `.github/workflows/daily-news.yml` → `cron`（UTC，台灣時間減 8 小時） |
 | 暫停排程 | GitHub → Actions → Daily News → ⋯ → Disable workflow |
+
+## 7. 語音與網站（GitHub Pages）
+
+- 網址：https://qsceszwdvrdx.github.io/en_news/
+- 每天產生 `docs/YYYY-MM-DD.html`、`docs/index.html`，以及 `docs/audio/YYYY-MM-DD/*.mp3`。
+- 語音由 `edge-tts` 產生（免費、免 API Key）：每則英文摘要、每個單字、每個例句。聲音與速度在 `config.yaml` 的 `tts` 設定。
+- 某個語音檔產生失敗時，網頁會自動改用瀏覽器內建朗讀，不影響日報。
+- Pages 設定：Settings → Pages → Deploy from a branch → `main` / `/docs`。
+- 每天音檔約 1 MB，一年約 400 MB；之後若太大可刪除舊的 `docs/audio/日期/` 資料夾。
