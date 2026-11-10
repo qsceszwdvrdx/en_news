@@ -10,42 +10,61 @@
    "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
   },
   {
-   "source": "BBC World",
-   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
    "source": "NPR News",
    "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
   },
   {
    "source": "The Guardian World",
    "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
   }
  ],
  "items": [
   {
    "index": 1,
    "title_en": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-   "title_zh": "法國指控伊朗在冰箱攻擊事件中進行網路「破壞」",
-   "summary_en": "French officials say Iranian hackers attacked refrigeration systems. They changed the temperature at 700 stores. This caused a lot of food to go bad.",
-   "summary_zh": "法國官員表示，伊朗駭客攻擊了冷藏系統。他們更改了 700 家商店的溫度，導致大量食物變質。",
-   "why_important_en": "This shows how cyberattacks can damage businesses and food supplies.",
-   "why_important_zh": "這顯示了網路攻擊如何對企業和食品供應造成損害。",
+   "title_zh": "法國指控伊朗發動網路破壞，攻擊冷凍設備",
+   "summary_en": "France stated that Iranian hackers controlled fridge systems at 700 retail stores last month. They raised the temperatures at night, which ruined millions of dollars of food.",
+   "summary_zh": "法國指出，伊朗駭客上個月控制了 700 個零售據點的冷凍系統。他們在夜間調高溫度，導致價值數百萬美元的食物腐敗。",
+   "why_important_en": "Cyberattacks can damage real-world equipment and cause big economic losses for businesses.",
+   "why_important_zh": "網路攻擊可能會破壞現實世界中的設備，並給企業帶來巨大的經濟損失。",
    "vocab": [
     {
      "word": "accuse",
      "pos": "v.",
-     "kk": "[əˈkjuz]",
+     "kk": "[əˈkjuːz]",
      "meaning_zh": "指控",
-     "definition_en": "To say that someone has done something wrong or illegal.",
-     "sentence_en": "Do not accuse your coworker without having clear evidence.",
-     "sentence_zh": "在沒有明確證據的情況下，不要指控你的同事。",
+     "definition_en": "to say that someone has done something wrong",
+     "sentence_en": "She accused her coworker of taking her notebook.",
+     "sentence_zh": "她指責同事拿了她的筆記本。",
      "synonyms": [
       "blame",
       "charge"
      ],
      "collocations": [
-      "accuse someone of"
+      "accuse someone of",
+      "publicly accuse"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "retail",
+     "pos": "adj.",
+     "kk": "[ˈriːteɪl]",
+     "meaning_zh": "零售的",
+     "definition_en": "relating to selling goods directly to consumers",
+     "sentence_en": "The retail price of this jacket is too high.",
+     "sentence_zh": "這件外套的零售價格太高了。",
+     "synonyms": [
+      "commercial",
+      "store-based"
+     ],
+     "collocations": [
+      "retail price",
+      "retail store"
      ],
      "toeic_common": true
     },
@@ -53,17 +72,17 @@
      "word": "spoil",
      "pos": "v.",
      "kk": "[spɔɪl]",
-     "meaning_zh": "變質；損壞",
-     "definition_en": "To become bad or not fit to eat.",
-     "sentence_en": "The milk will spoil if you leave it out.",
-     "sentence_zh": "如果你把牛奶放在外面，它會變質。",
+     "meaning_zh": "腐敗、變質",
+     "definition_en": "to become bad or unplayable to eat",
+     "sentence_en": "Milk will spoil quickly if you leave it out of the fridge.",
+     "sentence_zh": "如果你把牛奶放在冰箱外，它會很快變質。",
      "synonyms": [
       "ruin",
-      "decay"
+      "go bad"
      ],
      "collocations": [
       "spoil food",
-      "spoil the fun"
+      "food spoils"
      ],
      "toeic_common": true
     }
@@ -72,23 +91,23 @@
   {
    "index": 2,
    "title_en": "Supreme Court says border wall construction can continue in west Texas",
-   "title_zh": "最高法院裁定德州西部的邊境牆建設可以繼續",
-   "summary_en": "The US government asked the Supreme Court to allow wall construction. The court said the work can continue. This is happening while a legal case is ongoing.",
-   "summary_zh": "美國政府請求最高法院允許繼續建設邊境牆。法院表示工程可以繼續，目前相關法律訴訟仍在進行中。",
-   "why_important_en": "It highlights the ongoing legal battles over border security policies.",
-   "why_important_zh": "這凸顯了關於邊境安全政策持續進行的法律鬥爭。",
+   "title_zh": "最高法院表示西德州的邊境牆建設可以繼續進行",
+   "summary_en": "The Supreme Court allowed border wall construction in west Texas to keep going. The Trump administration asked the court for emergency permission during an ongoing lawsuit.",
+   "summary_zh": "最高法院允許西德州的邊境牆建設繼續進行。川普政府在一項訴訟進行期間向法院申請了緊急許可。",
+   "why_important_en": "Legal rulings can directly affect major government projects and border policies.",
+   "why_important_zh": "法律裁決可以直接影響政府的大型計畫與邊境政策。",
    "vocab": [
     {
      "word": "construction",
      "pos": "n.",
-     "kk": "[kənˈstrʌkʃən]",
-     "meaning_zh": "建設；施工",
-     "definition_en": "The process of building something.",
-     "sentence_en": "The construction of the new office building is finished.",
-     "sentence_zh": "新辦公大樓的建設已經完成了。",
+     "kk": "[kənˈstrʌkʃn]",
+     "meaning_zh": "建設、施工",
+     "definition_en": "the act or process of building something",
+     "sentence_en": "The new office building is currently under construction.",
+     "sentence_zh": "新的辦公大樓目前正在施工中。",
      "synonyms": [
       "building",
-      "development"
+      "creation"
      ],
      "collocations": [
       "under construction",
@@ -97,20 +116,38 @@
      "toeic_common": true
     },
     {
-     "word": "continue",
-     "pos": "v.",
-     "kk": "[kənˈtɪnju]",
-     "meaning_zh": "繼續",
-     "definition_en": "To keep doing something without stopping.",
-     "sentence_en": "Please continue with your presentation after the break.",
-     "sentence_zh": "休息後請繼續你的簡報。",
+     "word": "request",
+     "pos": "n.",
+     "kk": "[rɪˈkwest]",
+     "meaning_zh": "請求、申請",
+     "definition_en": "an act of asking formally for something",
+     "sentence_en": "Please send your request for vacation days by Friday.",
+     "sentence_zh": "請在星期五之前送出您的休假申請。",
      "synonyms": [
-      "proceed",
-      "persist"
+      "demand",
+      "application"
      ],
      "collocations": [
-      "continue to work",
-      "continue doing"
+      "make a request",
+      "submit a request"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "lawsuit",
+     "pos": "n.",
+     "kk": "[ˈlɔːsuːt]",
+     "meaning_zh": "訴訟",
+     "definition_en": "a legal claim brought to a court",
+     "sentence_en": "The company faced a lawsuit over unpaid bills.",
+     "sentence_zh": "該公司因未付帳款而面臨訴訟。",
+     "synonyms": [
+      "case",
+      "litigation"
+     ],
+     "collocations": [
+      "file a lawsuit",
+      "face a lawsuit"
      ],
      "toeic_common": true
     }
@@ -118,46 +155,64 @@
   },
   {
    "index": 3,
-   "title_en": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-   "title_zh": "我們對輝達執行長與疑似中國間諜的婚外情了解多少？",
-   "summary_en": "Nvidia's CEO is in the news for a personal relationship. People are talking about his reputation. It is unclear how this will affect his work.",
-   "summary_zh": "輝達執行長因一段私人關係登上新聞。人們正在討論他的名聲，目前尚不清楚這會如何影響他的工作。",
-   "why_important_en": "It shows how personal scandals can impact the public image of business leaders.",
-   "why_important_zh": "這顯示了個人醜聞如何影響企業領導人的公眾形象。",
+   "title_en": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+   "title_zh": "英國喜劇演員羅素布蘭德因性侵及侵害罪被判處 10 年以上有期徒刑",
+   "summary_en": "British comedian Russell Brand was sentenced to over 10 years in prison. A court found him guilty of sexual crimes after six women brought a case against him.",
+   "summary_zh": "英國喜劇演員羅素布蘭德被判處 10 年以上有期徒刑。在六名女性提告後，法院判定他性犯罪成立。",
+   "why_important_en": "High-profile legal cases show that celebrities can also face severe consequences for breaking the law.",
+   "why_important_zh": "矚目的法律案件顯示，知名人士若違法同樣會面臨嚴重的法律後果。",
    "vocab": [
     {
-     "word": "reputation",
-     "pos": "n.",
-     "kk": "[ˌrɛpjəˈteʃən]",
-     "meaning_zh": "名聲；聲譽",
-     "definition_en": "The opinion that people have about someone or something.",
-     "sentence_en": "Our company has a great reputation for quality service.",
-     "sentence_zh": "我們公司在優質服務方面享有盛譽。",
+     "word": "sentence",
+     "pos": "v.",
+     "kk": "[ˈsentəns]",
+     "meaning_zh": "判刑",
+     "definition_en": "to state officially in court what someone's punishment will be",
+     "sentence_en": "The judge will sentence the criminal next week.",
+     "sentence_zh": "法官將於下週對罪犯進行判刑。",
      "synonyms": [
-      "fame",
-      "status"
+      "punish",
+      "condemn"
      ],
      "collocations": [
-      "good reputation",
-      "build a reputation"
+      "sentence someone to",
+      "serve a sentence"
      ],
      "toeic_common": true
     },
     {
-     "word": "suspect",
-     "pos": "v.",
-     "kk": "[səˈspɛkt]",
-     "meaning_zh": "懷疑",
-     "definition_en": "To think that someone is guilty of a crime.",
-     "sentence_en": "I suspect that he is lying about his experience.",
-     "sentence_zh": "我懷疑他在工作經驗上撒謊。",
+     "word": "celebrity",
+     "pos": "n.",
+     "kk": "[səˈlebrətɪ]",
+     "meaning_zh": "名人、明星",
+     "definition_en": "a famous person, especially in entertainment",
+     "sentence_en": "Many celebrities attended the charity dinner last night.",
+     "sentence_zh": "許多名人昨晚出席了慈善晚宴。",
      "synonyms": [
-      "doubt",
-      "distrust"
+      "star",
+      "VIP"
      ],
      "collocations": [
-      "suspect someone of",
-      "highly suspect"
+      "famous celebrity",
+      "celebrity status"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "guilty",
+     "pos": "adj.",
+     "kk": "[ˈɡɪltɪ]",
+     "meaning_zh": "有罪的",
+     "definition_en": "responsible for breaking a law or rule",
+     "sentence_en": "He felt guilty for missing his friend's birthday party.",
+     "sentence_zh": "他因為錯過朋友的生日派對而感到內疚。",
+     "synonyms": [
+      "blameworthy",
+      "culpable"
+     ],
+     "collocations": [
+      "found guilty",
+      "feel guilty"
      ],
      "toeic_common": true
     }
@@ -165,70 +220,23 @@
   },
   {
    "index": 4,
-   "title_en": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-   "title_zh": "英國喜劇演員羅素·布蘭德因強姦和性侵被判處 10 年以上徒刑",
-   "summary_en": "A famous British comedian was found guilty of serious crimes. A court sentenced him to more than 10 years in prison. Six women brought the case against him.",
-   "summary_zh": "一位著名的英國喜劇演員被判犯有嚴重罪行。法院判處他 10 年以上監禁。此案由六名女性提出。",
-   "why_important_en": "It marks a significant legal outcome in a high-profile celebrity sexual assault case.",
-   "why_important_zh": "這標誌著一起備受矚目的名人性侵案件取得了重大的法律結果。",
-   "vocab": [
-    {
-     "word": "sentence",
-     "pos": "v.",
-     "kk": "[ˈsɛntəns]",
-     "meaning_zh": "判決；宣判",
-     "definition_en": "To officially say what punishment a person will receive.",
-     "sentence_en": "The judge will sentence the thief tomorrow morning.",
-     "sentence_zh": "法官將在明天早上對小偷進行宣判。",
-     "synonyms": [
-      "convict",
-      "condemn"
-     ],
-     "collocations": [
-      "sentence to prison",
-      "receive a sentence"
-     ],
-     "toeic_common": true
-    },
-    {
-     "word": "guilty",
-     "pos": "adj.",
-     "kk": "[ˈɡɪlti]",
-     "meaning_zh": "有罪的",
-     "definition_en": "Responsible for doing something wrong or illegal.",
-     "sentence_en": "The jury found the man guilty of the crime.",
-     "sentence_zh": "陪審團裁定該男子犯有此罪。",
-     "synonyms": [
-      "responsible",
-      "culpable"
-     ],
-     "collocations": [
-      "found guilty",
-      "guilty of"
-     ],
-     "toeic_common": true
-    }
-   ]
-  },
-  {
-   "index": 5,
    "title_en": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-   "title_zh": "澳洲航空在 AI 驅動的改革下將裁減 850 個澳洲職位並將工作外包至印度",
-   "summary_en": "Qantas is changing how it works using AI. They will cut 850 jobs in Australia. Some work will now be done in India.",
-   "summary_zh": "澳洲航空正在利用人工智慧改變其運作方式。他們將在澳洲裁減 850 個職位，部分工作將改由印度負責。",
-   "why_important_en": "It demonstrates how AI is changing the job market and leading to outsourcing.",
-   "why_important_zh": "這展示了人工智慧如何改變就業市場並導致外包趨勢。",
+   "title_zh": "澳洲航空因應 AI 轉型將裁減 850 個在地職位，並將工作外包至印度",
+   "summary_en": "Qantas will cut 850 jobs in Australia and move some work to India. The airline is changing its business by using artificial intelligence. This is part of a larger trend of job cuts in major Australian companies.",
+   "summary_zh": "澳洲航空將在澳洲裁減 850 個職位，並將部分工作轉移至印度。該航空公司正透過人工智慧進行業務轉型。這是澳洲大型企業裁員趨勢的一部分。",
+   "why_important_en": "Artificial intelligence is changing how companies operate, leading to job losses and corporate changes.",
+   "why_important_zh": "人工智慧正在改變企業的營運方式，導致工作機會減少與企業重組。",
    "vocab": [
     {
      "word": "outsource",
      "pos": "v.",
-     "kk": "[ˈaʊtˌsɔrs]",
+     "kk": "[ˈaʊtsɔːrs]",
      "meaning_zh": "外包",
-     "definition_en": "To pay another company to do work for you.",
-     "sentence_en": "We decided to outsource our customer service to save money.",
-     "sentence_zh": "我們決定將客戶服務外包以節省開支。",
+     "definition_en": "to pay another company to do work for your business",
+     "sentence_en": "Our company decided to outsource customer service to reduce costs.",
+     "sentence_zh": "我們公司決定將客戶服務外包以降低成本。",
      "synonyms": [
-      "subcontract",
+      "delegate",
       "contract out"
      ],
      "collocations": [
@@ -238,20 +246,103 @@
      "toeic_common": true
     },
     {
-     "word": "agreement",
+     "word": "disruption",
      "pos": "n.",
-     "kk": "[əˈɡrimənt]",
-     "meaning_zh": "協議；合約",
-     "definition_en": "A formal decision or promise between two or more people.",
-     "sentence_en": "Both parties signed the agreement this afternoon.",
-     "sentence_zh": "雙方都在今天下午簽署了協議。",
+     "kk": "[dɪsˈrʌpʃn]",
+     "meaning_zh": "干擾、中斷",
+     "definition_en": "a disturbance that interrupts an event or process",
+     "sentence_en": "Bad weather caused major disruption to the flight schedules.",
+     "sentence_zh": "惡劣天氣對航班日程造成了嚴重干擾。",
      "synonyms": [
-      "contract",
-      "deal"
+      "disturbance",
+      "interruption"
      ],
      "collocations": [
-      "reach an agreement",
-      "sign an agreement"
+      "cause disruption",
+      "major disruption"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "corporate",
+     "pos": "adj.",
+     "kk": "[ˈkɔːrpərət]",
+     "meaning_zh": "公司的、企業的",
+     "definition_en": "relating to a large business or company",
+     "sentence_en": "She has worked in the corporate world for over ten years.",
+     "sentence_zh": "她在大企業領域工作了十多年。",
+     "synonyms": [
+      "business",
+      "commercial"
+     ],
+     "collocations": [
+      "corporate culture",
+      "corporate client"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "title_zh": "關於輝達執行長與疑似中國間諜的外遇事件，我們了解多少？",
+   "summary_en": "People are talking about news regarding Nvidia's CEO Jensen Huang and an affair with a suspected spy. He was very popular among supporters, but this news may hurt his public image.",
+   "summary_zh": "人們正在討論關於輝達執行長黃仁勳與疑似間諜外遇的新聞。他先前非常受支持者歡迎，但這則新聞可能會損害他的公眾形象。",
+   "why_important_en": "Personal scandals of top tech executives can affect public trust and company reputation.",
+   "why_important_zh": "頂尖科技高管的個人醜聞會影響公眾信任度與公司聲譽。",
+   "vocab": [
+    {
+     "word": "suspected",
+     "pos": "adj.",
+     "kk": "[səˈspektɪd]",
+     "meaning_zh": "涉嫌的、被懷疑的",
+     "definition_en": "thought to be guilty of something without proof",
+     "sentence_en": "Police questioned a suspected shoplifter outside the store.",
+     "sentence_zh": "警方在店外詢問了一名涉嫌偷竊的人。",
+     "synonyms": [
+      "believed",
+      "alleged"
+     ],
+     "collocations": [
+      "suspected criminal",
+      "suspected leak"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "reputation",
+     "pos": "n.",
+     "kk": "[ˌrepjuˈteɪʃn]",
+     "meaning_zh": "名聲、聲譽",
+     "definition_en": "the opinion that people have about someone or something",
+     "sentence_en": "The restaurant has a good reputation for fresh seafood.",
+     "sentence_zh": "這家餐廳在新鮮海鮮方面擁有良好的聲譽。",
+     "synonyms": [
+      "status",
+      "image"
+     ],
+     "collocations": [
+      "good reputation",
+      "damage one's reputation"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "survive",
+     "pos": "v.",
+     "kk": "[sərˈvaɪv]",
+     "meaning_zh": "挺過、存活",
+     "definition_en": "to continue to live or exist despite difficulties",
+     "sentence_en": "Small businesses struggled to survive during the hard economic times.",
+     "sentence_zh": "在經濟困難時期，小企業努力求生存。",
+     "synonyms": [
+      "endure",
+      "outlast"
+     ],
+     "collocations": [
+      "survive a crisis",
+      "survive the winter"
      ],
      "toeic_common": true
     }
@@ -264,25 +355,35 @@
   "n1-w1-ex": "audio/2026-11-10/n1-w1-ex.mp3",
   "n1-w2": "audio/2026-11-10/n1-w2.mp3",
   "n1-w2-ex": "audio/2026-11-10/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-10/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-10/n1-w3-ex.mp3",
   "n2-summary": "audio/2026-11-10/n2-summary.mp3",
   "n2-w1": "audio/2026-11-10/n2-w1.mp3",
   "n2-w1-ex": "audio/2026-11-10/n2-w1-ex.mp3",
   "n2-w2": "audio/2026-11-10/n2-w2.mp3",
   "n2-w2-ex": "audio/2026-11-10/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-10/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-10/n2-w3-ex.mp3",
   "n3-summary": "audio/2026-11-10/n3-summary.mp3",
   "n3-w1": "audio/2026-11-10/n3-w1.mp3",
   "n3-w1-ex": "audio/2026-11-10/n3-w1-ex.mp3",
   "n3-w2": "audio/2026-11-10/n3-w2.mp3",
   "n3-w2-ex": "audio/2026-11-10/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-10/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-10/n3-w3-ex.mp3",
   "n4-summary": "audio/2026-11-10/n4-summary.mp3",
   "n4-w1": "audio/2026-11-10/n4-w1.mp3",
   "n4-w1-ex": "audio/2026-11-10/n4-w1-ex.mp3",
   "n4-w2": "audio/2026-11-10/n4-w2.mp3",
   "n4-w2-ex": "audio/2026-11-10/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-10/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-10/n4-w3-ex.mp3",
   "n5-summary": "audio/2026-11-10/n5-summary.mp3",
   "n5-w1": "audio/2026-11-10/n5-w1.mp3",
   "n5-w1-ex": "audio/2026-11-10/n5-w1-ex.mp3",
   "n5-w2": "audio/2026-11-10/n5-w2.mp3",
-  "n5-w2-ex": "audio/2026-11-10/n5-w2-ex.mp3"
+  "n5-w2-ex": "audio/2026-11-10/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-10/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-10/n5-w3-ex.mp3"
  }
 }

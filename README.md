@@ -8,9 +8,9 @@
 
 1. France accuses Iran of cyber 'sabotage' in fridge attacks
 2. Supreme Court says border wall construction can continue in west Texas
-3. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
-4. British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
-5. Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul
+3. British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
+4. Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul
+5. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
 
 ## 歷史清單
 

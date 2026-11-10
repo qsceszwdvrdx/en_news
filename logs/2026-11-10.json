@@ -792,6 +792,215 @@
         "errors": [],
         "voice": "en-US-AriaNeural"
       }
+    },
+    {
+      "started_at": "2026-11-10T12:26:14+08:00",
+      "seconds": 420.5,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/42755839216",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 31,
+          "entries_recent": 26,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.21
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 22,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.15
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.12
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.48
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "NPR News",
+          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "Supreme Court says border wall construction can continue in west Texas",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+          "cluster_sources": [
+            "NPR News",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+          "cluster_sources": [
+            "NPR News",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+          "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 0.9
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 2,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 0.3
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 3,
+            "result": "error",
+            "code": 429,
+            "message": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 4,
+            "result": "error",
+            "code": 429,
+            "message": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 0.6
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 2,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 27.2
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 3,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 1.1
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 4,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 0.5
+          },
+          {
+            "model": "gemini-3.5-flash",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 26.5
+          }
+        ],
+        "used_model": "gemini-3.5-flash",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 158,
+      "tts": {
+        "enabled": true,
+        "ok": 10,
+        "failed": 0,
+        "skipped": 25,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
     }
   ]
 }
