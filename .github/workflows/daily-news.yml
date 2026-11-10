@@ -34,10 +34,11 @@ jobs:
         run: python main.py
 
       - name: Commit and push
+        if: always()   # 即使產生失敗也要把 logs 存起來
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news news_en anki README.md
+          git add news news_en anki README.md logs
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

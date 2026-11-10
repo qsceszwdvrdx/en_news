@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 import html
+import json
 import os
 import re
 import sys
@@ -18,6 +19,13 @@ from pydantic import BaseModel
 
 ROOT = Path(__file__).parent
 USER_AGENT = "Mozilla/5.0 (compatible; daily-news-vocab/1.0)"
+
+# 本次執行的過程記錄（最後寫入 logs/YYYY-MM-DD.json）
+LOG: dict = {"feeds": [], "fallback_used": False, "picked": [], "gemini": {"attempts": [], "used_model": None}}
+
+
+def short(e: object, n: int = 200) -> str:
+    return re.sub(r"\s+", " ", str(e))[:n]
 
 
 # --------------------------------------------------------------------------
@@ -79,12 +87,20 @@ def similarity(a: set, b: set) -> float:
 
 def fetch_feed(feed: dict, cutoff: datetime) -> list:
     """抓單一 RSS，失敗時回傳空 list（不中斷流程）。"""
+    t0 = time.time()
+    rec = {"name": feed["name"], "url": feed["url"], "status": "ok", "entries_total": 0, "entries_recent": 0, "error": None}
+    LOG["feeds"].append(rec)
     try:
         parsed = feedparser.parse(feed["url"], agent=USER_AGENT)
+        rec["http_status"] = parsed.get("status")
         if parsed.bozo and not parsed.entries:
             raise RuntimeError(parsed.get("bozo_exception"))
+        rec["entries_total"] = len(parsed.entries)
+        if not parsed.entries:
+            rec["status"] = "empty"
     except Exception as e:  # noqa: BLE001
         print(f"[WARN] 跳過來源 {feed['name']}: {e}", file=sys.stderr)
+        rec.update(status="failed", error=short(e), seconds=round(time.time() - t0, 2))
         return []
 
     out = []
@@ -108,6 +124,7 @@ def fetch_feed(feed: dict, cutoff: datetime) -> list:
             "rank": rank,  # 在該來源中的排序（越前面通常越重要）
             "tokens": tokens(title),
         })
+    rec.update(entries_recent=len(out), seconds=round(time.time() - t0, 2))
     print(f"[INFO] {feed['name']}: {len(out)} 則 24 小時內新聞")
     return out
 
@@ -133,7 +150,9 @@ def cluster_and_pick(articles: list, n: int) -> list:
     picked = []
     for c in ranked:
         # 優先挑摘要較長的版本，Gemini 才有較多內容可用
-        picked.append(max(c, key=lambda x: len(x["summary"])))
+        best = dict(max(c, key=lambda x: len(x["summary"])))
+        best["cluster_sources"] = sorted({x["source"] for x in c})
+        picked.append(best)
         if len(picked) == n:
             break
     return picked
@@ -157,6 +176,7 @@ def collect_news(cfg: dict) -> list:
 
     if len(unique_topics(articles)) < n and cfg.get("fallback_feed"):
         print("[INFO] 新聞不足，使用 Google News 補足")
+        LOG["fallback_used"] = True
         articles.extend(fetch_feed(cfg["fallback_feed"], cutoff))
 
     # 同連結去重
@@ -167,6 +187,11 @@ def collect_news(cfg: dict) -> list:
             deduped.append(a)
 
     picked = cluster_and_pick(deduped, n)
+    LOG["articles_after_dedupe"] = len(deduped)
+    LOG["picked"] = [
+        {"source": a["source"], "title": a["title"], "link": a["link"], "cluster_sources": a["cluster_sources"]}
+        for a in picked
+    ]
     if not picked:
         raise RuntimeError("所有 RSS 都抓不到新聞")
     return picked
@@ -219,8 +244,11 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
     except Exception as e:  # noqa: BLE001
         print(f"[WARN] 無法列出模型: {e}", file=sys.stderr)
     last_err = None
+    glog = LOG["gemini"]
+    glog["candidate_models"] = models
     for model in models:
         for attempt in range(g["max_retries"] + 1):
+            t0 = time.time()
             try:
                 resp = client.models.generate_content(
                     model=model,
@@ -231,11 +259,16 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
                         temperature=0.3,
                     ),
                 )
+                result = resp.parsed if isinstance(resp.parsed, DailyResult) else DailyResult.model_validate_json(resp.text)
                 print(f"[INFO] 使用模型 {model}")
-                return resp.parsed if isinstance(resp.parsed, DailyResult) else DailyResult.model_validate_json(resp.text)
+                glog["attempts"].append({"model": model, "attempt": attempt + 1, "result": "ok", "seconds": round(time.time() - t0, 1)})
+                glog["used_model"] = model
+                return result
             except errors.APIError as e:
                 last_err = e
                 code = getattr(e, "code", None)
+                glog["attempts"].append({"model": model, "attempt": attempt + 1, "result": "error", "code": code,
+                                         "message": short(e), "seconds": round(time.time() - t0, 1)})
                 if code in (429, 503) and attempt < g["max_retries"]:
                     print(f"[WARN] {model} {code}，{g['retry_wait_seconds']} 秒後重試 ({attempt + 1}/{g['max_retries']})", file=sys.stderr)
                     time.sleep(g["retry_wait_seconds"])
@@ -244,6 +277,8 @@ def call_gemini(prompt: str, cfg: dict) -> DailyResult:
                 break
             except Exception as e:  # noqa: BLE001  (例如 JSON 解析失敗)
                 last_err = e
+                glog["attempts"].append({"model": model, "attempt": attempt + 1, "result": "parse_error",
+                                         "message": short(e), "seconds": round(time.time() - t0, 1)})
                 print(f"[WARN] 模型 {model} 回傳無法解析: {e}", file=sys.stderr)
                 break
     if last_err:
@@ -373,11 +408,91 @@ def update_readme(date_str: str, news_titles: list) -> None:
     (ROOT / "README.md").write_text(content, encoding="utf-8")
 
 
+# --------------------------------------------------------------------------
+# 執行記錄：logs/YYYY-MM-DD.json（每次執行一筆）+ logs/summary.md（總表）
+# --------------------------------------------------------------------------
+def write_run_log(date_str: str, run: dict) -> None:
+    logs = ROOT / "logs"
+    logs.mkdir(exist_ok=True)
+    path = logs / f"{date_str}.json"
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        data = {"date": date_str, "runs": []}
+    data["runs"].append(run)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    update_log_summary()
+
+
+def update_log_summary() -> None:
+    files = sorted((ROOT / "logs").glob("2*.json"), reverse=True)
+    rows, stats = [], {}
+    for f in files:
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        runs = data.get("runs", [])
+        if not runs:
+            continue
+        last = runs[-1]
+        feeds = last.get("feeds", [])
+        ok = [x for x in feeds if x["status"] == "ok"]
+        bad = [x["name"] for x in feeds if x["status"] != "ok"]
+        g = last.get("gemini", {})
+        fails = sum(1 for a in g.get("attempts", []) if a["result"] != "ok")
+        status = "✅ 成功" if last["status"] == "success" else "❌ 失敗"
+        err = "" if last["status"] == "success" else md_cell(last.get("error") or "")[:80]
+        rows.append(
+            f"| [{data['date']}]({f.name}) | {status} | {len(ok)}/{len(feeds)}"
+            f"{'（' + '、'.join(bad) + ' 異常）' if bad else ''}"
+            f"{'，用了備援' if last.get('fallback_used') else ''} | {g.get('used_model') or '-'} | {fails} | "
+            f"{last.get('seconds', '-')} | {len(runs)} | {err} |"
+        )
+        for r in runs:  # 各來源可靠度：累計所有執行
+            for x in r.get("feeds", []):
+                s = stats.setdefault(x["name"], [0, 0])
+                s[0 if x["status"] == "ok" else 1] += 1
+    src_rows = [f"| {n} | {a} | {b} |" for n, (a, b) in sorted(stats.items())]
+    text = "\n".join([
+        "# 執行記錄總表", "",
+        "每次執行的詳細過程見同資料夾的 `YYYY-MM-DD.json`（每個 RSS 的狀態、選出的新聞、Gemini 嘗試過程）。", "",
+        "## 每日狀態（取當天最後一次執行）", "",
+        "| 日期 | 結果 | RSS 成功 | 使用模型 | Gemini 失敗次數 | 耗時(秒) | 當天執行次數 | 錯誤 |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |", *rows, "",
+        "## 各來源累計狀況", "",
+        "| 來源 | 成功次數 | 異常次數 |", "| --- | --- | --- |", *src_rows, "",
+    ])
+    (ROOT / "logs" / "summary.md").write_text(text, encoding="utf-8")
+
+
 def main() -> int:
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
     tz = timezone(timedelta(hours=cfg["timezone_offset"]))
-    date_str = datetime.now(tz).strftime("%Y-%m-%d")
+    started = datetime.now(tz)
+    date_str = started.strftime("%Y-%m-%d")
+    t0 = time.time()
+    status, error = "success", None
+    try:
+        run_pipeline(cfg, date_str)
+    except Exception as e:  # noqa: BLE001
+        status, error = "failed", f"{type(e).__name__}: {short(e, 300)}"
+        print(f"[ERROR] {error}", file=sys.stderr)
+    run = {
+        "started_at": started.isoformat(timespec="seconds"),
+        "seconds": round(time.time() - t0, 1),
+        "status": status,
+        "error": error,
+        "run_trigger": os.environ.get("GITHUB_EVENT_NAME", "local"),
+        "run_url": (f"{os.environ['GITHUB_SERVER_URL']}/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
+                    if os.environ.get("GITHUB_RUN_ID") else None),
+        **LOG,
+    }
+    write_run_log(date_str, run)
+    return 0 if status == "success" else 1
 
+
+def run_pipeline(cfg: dict, date_str: str) -> None:
     news = collect_news(cfg)
     print(f"[INFO] 選出 {len(news)} 則新聞")
     result = call_gemini(build_prompt(news, cfg), cfg)
@@ -390,7 +505,6 @@ def main() -> int:
     write_anki(ROOT / "anki" / f"{date_str}.csv", result)
     update_readme(date_str, [it.title_en for it in result.items])
     print(f"[OK] 已輸出 news/{date_str}.md、news_en/{date_str}.md、anki/{date_str}.csv、README.md")
-    return 0
 
 
 if __name__ == "__main__":
