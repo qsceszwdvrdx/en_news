@@ -87,15 +87,15 @@ classDiagram
     class NewsItem {
         index
         title_en / title_zh
-        summary_zh
-        why_important_zh
+        summary_en / summary_zh
+        why_important_en / why_important_zh
         vocab: Vocab[]
     }
     class Vocab {
         word
         pos
         kk
-        meaning_zh
+        meaning_zh / definition_en
         sentence_en / sentence_zh
         synonyms 1-2 個
         collocations 1-2 個
@@ -109,10 +109,11 @@ classDiagram
 
 ```mermaid
 flowchart LR
-    R[DailyResult] --> M[news/YYYY-MM-DD.md<br/>日報]
+    R[DailyResult] --> M[news/YYYY-MM-DD.md<br/>中文版：英文摘要 + 中文翻譯]
+    R --> E[news_en/YYYY-MM-DD.md<br/>純英文版：無中文]
     R --> A[anki/YYYY-MM-DD.csv<br/>單字;中文意思;例句]
     R --> RD[README.md<br/>最新一期 + 歷史清單]
-    M & A & RD --> G[git add / commit / push]
+    M & E & A & RD --> G[git add / commit / push]
     G --> REPO[(GitHub repo)]
 ```
 

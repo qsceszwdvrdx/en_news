@@ -28,7 +28,8 @@ class Vocab(BaseModel):
     pos: str                  # 詞性
     kk: str                   # KK 音標
     meaning_zh: str
-    sentence_en: str          # 新聞原句
+    definition_en: str        # 簡單英文解釋（給純英文版）
+    sentence_en: str         # 新聞原句
     sentence_zh: str
     synonyms: List[str]       # 1–2 個
     collocations: List[str]   # 1–2 個
@@ -39,7 +40,9 @@ class NewsItem(BaseModel):
     index: int
     title_en: str
     title_zh: str
+    summary_en: str
     summary_zh: str
+    why_important_en: str
     why_important_zh: str
     vocab: List[Vocab]
 
@@ -182,10 +185,10 @@ def build_prompt(news: list, cfg: dict) -> str:
 
 每則包含：
 - title_en：原文標題；title_zh：中文翻譯（繁體中文）
-- summary_zh：3 句以內的繁體中文摘要（只根據提供的內容，不要編造細節）
-- why_important_zh：為什麼重要（繁體中文，1–2 句）
+- summary_en：3 句以內的英文摘要，用 A2–B1 程度的簡單英文改寫（只根據提供的內容，不要編造細節）；summary_zh：同一份摘要的繁體中文版
+- why_important_en：為什麼重要（簡單英文，1–2 句）；why_important_zh：同上的繁體中文版
 - vocab：挑 {cfg['learner']['words_per_news']} 個「多益常考、日常實用」的單字；略過太艱深的專業術語、專有名詞、人名地名。每個單字：
-  - word（原形）、pos（詞性，如 n. / v. / adj.）、kk（KK 音標，如 [ˈkraɪsɪs]）、meaning_zh（繁體中文意思，貼合句中用法）
+  - word（原形）、pos（詞性，如 n. / v. / adj.）、kk（KK 音標，如 [ˈkraɪsɪs]）、meaning_zh（繁體中文意思，貼合句中用法）、definition_en（A2–B1 程度的簡單英文解釋，貼合句中用法）
   - sentence_en：必須是上面提供的標題或內文中「實際出現」該單字的原句；sentence_zh：該句中文翻譯
   - synonyms：最常用的 1–2 個同義詞；collocations：最常見的 1–2 個搭配詞（短語）
   - toeic_common：是否為多益常見字（true/false）
@@ -256,7 +259,8 @@ def md_cell(s: str) -> str:
 
 
 def render_markdown(date_str: str, news: list, result: DailyResult) -> str:
-    out = [f"# 每日新聞 × 單字學習 — {date_str}", ""]
+    """中文版（雙語）：英文原文摘要 + 中文翻譯。"""
+    out = [f"# 每日新聞 × 單字學習 — {date_str}", "", f"> 純英文版：[news_en/{date_str}.md](../news_en/{date_str}.md)", ""]
     by_index = {it.index: it for it in result.items}
     for i, a in enumerate(news, 1):
         it = by_index.get(i) or (result.items[i - 1] if i - 1 < len(result.items) else None)
@@ -268,9 +272,17 @@ def render_markdown(date_str: str, news: list, result: DailyResult) -> str:
             "",
             f"來源：[{a['source']}]({a['link']})",
             "",
-            f"**摘要**：{it.summary_zh}",
+            "**摘要 Summary**",
             "",
-            f"**為什麼重要**：{it.why_important_zh}",
+            f"{it.summary_en}",
+            "",
+            f"{it.summary_zh}",
+            "",
+            "**為什麼重要 Why it matters**",
+            "",
+            f"{it.why_important_en}",
+            "",
+            f"{it.why_important_zh}",
             "",
             "### 單字",
             "",
@@ -284,6 +296,39 @@ def render_markdown(date_str: str, news: list, result: DailyResult) -> str:
                 f"  - 例句：{v.sentence_en}",
                 f"  - 翻譯：{v.sentence_zh}",
                 f"  - 同義詞：{syn}　搭配詞：{col}",
+            ]
+        out += [""]
+    return "\n".join(out).rstrip() + "\n"
+
+
+def render_markdown_en(date_str: str, news: list, result: DailyResult) -> str:
+    """純英文版：沒有任何中文內容。"""
+    out = [f"# Daily News × Vocabulary — {date_str}", "", f"> Chinese version: [news/{date_str}.md](../news/{date_str}.md)", ""]
+    by_index = {it.index: it for it in result.items}
+    for i, a in enumerate(news, 1):
+        it = by_index.get(i) or (result.items[i - 1] if i - 1 < len(result.items) else None)
+        if it is None:
+            continue
+        out += [
+            f"## {i}. {it.title_en}",
+            "",
+            f"Source: [{a['source']}]({a['link']})",
+            "",
+            f"**Summary**: {it.summary_en}",
+            "",
+            f"**Why it matters**: {it.why_important_en}",
+            "",
+            "### Vocabulary",
+            "",
+        ]
+        for v in it.vocab:
+            toeic = " — *TOEIC common*" if v.toeic_common else ""
+            syn = ", ".join(v.synonyms[:2]) or "-"
+            col = ", ".join(v.collocations[:2]) or "-"
+            out += [
+                f"- **{v.word}** {v.kk} ({v.pos}) {v.definition_en}{toeic}",
+                f"  - Example: {v.sentence_en}",
+                f"  - Synonyms: {syn}; Collocations: {col}",
             ]
         out += [""]
     return "\n".join(out).rstrip() + "\n"
@@ -305,12 +350,16 @@ def write_anki(path: Path, result: DailyResult) -> None:
 def update_readme(date_str: str, news_titles: list) -> None:
     dates = sorted((p.stem for p in (ROOT / "news").glob("*.md")), reverse=True)
     latest = "\n".join(f"{i}. {t}" for i, t in enumerate(news_titles, 1))
-    history = "\n".join(f"- [{d}](news/{d}.md)（[Anki](anki/{d}.csv)）" for d in dates)
+    def hist(d: str) -> str:
+        en = f"｜[English only](news_en/{d}.md)" if (ROOT / "news_en" / f"{d}.md").exists() else ""
+        return f"- {d}：[中文版](news/{d}.md){en}｜[Anki](anki/{d}.csv)"
+
+    history = "\n".join(hist(d) for d in dates)
     content = f"""# 每日新聞 × 單字學習
 
 每天台灣時間 07:00 由 GitHub Actions 自動產生 5 則英文新聞、中文摘要與多益單字。
 
-## 最新一期：[{date_str}](news/{date_str}.md)
+## 最新一期：{date_str}（[中文版](news/{date_str}.md)｜[English only](news_en/{date_str}.md)）
 
 {latest}
 
@@ -334,11 +383,13 @@ def main() -> int:
     result = call_gemini(build_prompt(news, cfg), cfg)
 
     (ROOT / "news").mkdir(exist_ok=True)
+    (ROOT / "news_en").mkdir(exist_ok=True)
     (ROOT / "anki").mkdir(exist_ok=True)
+    (ROOT / "news_en" / f"{date_str}.md").write_text(render_markdown_en(date_str, news, result), encoding="utf-8")
     (ROOT / "news" / f"{date_str}.md").write_text(render_markdown(date_str, news, result), encoding="utf-8")
     write_anki(ROOT / "anki" / f"{date_str}.csv", result)
     update_readme(date_str, [it.title_en for it in result.items])
-    print(f"[OK] 已輸出 news/{date_str}.md、anki/{date_str}.csv、README.md")
+    print(f"[OK] 已輸出 news/{date_str}.md、news_en/{date_str}.md、anki/{date_str}.csv、README.md")
     return 0
 
 
