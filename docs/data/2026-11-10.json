@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-10",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+   "title_zh": "美國最高法院為川普在德州大彎曲國家公園的邊境牆建設開綠燈",
+   "summary_en": "The US Supreme Court allowed construction of a border wall to continue. This project includes parts of a national park. The court stopped a lower court order that had paused the work.",
+   "summary_zh": "美國最高法院允許邊境牆的建設繼續進行。該計畫包含國家公園的部分區域。法院撤銷了先前下令暫停該工程的下級法院裁決。",
+   "why_important_en": "This decision shows how the government prioritizes border control over environmental concerns.",
+   "why_important_zh": "這項決定顯示政府如何將邊境管制置於環境保護之上。",
+   "vocab": [
+    {
+     "word": "construction",
+     "pos": "n.",
+     "kk": "[kənˈstrʌkʃən]",
+     "meaning_zh": "建設",
+     "definition_en": "The process of building something.",
+     "sentence_en": "The construction of the new office building starts next week.",
+     "sentence_zh": "新辦公大樓的建設將於下週開始。",
+     "synonyms": [
+      "building",
+      "development"
+     ],
+     "collocations": [
+      "under construction",
+      "construction site"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "suspend",
+     "pos": "v.",
+     "kk": "[səˈspɛnd]",
+     "meaning_zh": "暫停",
+     "definition_en": "To stop something for a period of time.",
+     "sentence_en": "The manager decided to suspend the meeting until tomorrow morning.",
+     "sentence_zh": "經理決定將會議暫停至明天早上。",
+     "synonyms": [
+      "pause",
+      "delay"
+     ],
+     "collocations": [
+      "suspend operations",
+      "suspend a service"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "title_zh": "法國指控伊朗透過冰箱攻擊進行網路破壞",
+   "summary_en": "France says hackers from Iran attacked retail stores. They changed the temperatures in refrigerators. This caused a lot of food to spoil.",
+   "summary_zh": "法國表示來自伊朗的駭客攻擊了零售商店。他們改變了冰箱的溫度，導致大量食物腐壞。",
+   "why_important_en": "This highlights the growing threat of cyberattacks on everyday infrastructure.",
+   "why_important_zh": "這凸顯了針對日常基礎設施的網路攻擊威脅日益增加。",
+   "vocab": [
+    {
+     "word": "attack",
+     "pos": "v.",
+     "kk": "[əˈtæk]",
+     "meaning_zh": "攻擊",
+     "definition_en": "To try to hurt or damage something.",
+     "sentence_en": "The computer virus will attack your files if you click that link.",
+     "sentence_zh": "如果你點擊那個連結，電腦病毒將會攻擊你的檔案。",
+     "synonyms": [
+      "assault",
+      "strike"
+     ],
+     "collocations": [
+      "cyber attack",
+      "attack a system"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "spoil",
+     "pos": "v.",
+     "kk": "[spɔɪl]",
+     "meaning_zh": "腐壞",
+     "definition_en": "To become bad and not fit to eat.",
+     "sentence_en": "Don't leave the milk out or it will spoil quickly.",
+     "sentence_zh": "別把牛奶放在外面，否則它很快就會壞掉。",
+     "synonyms": [
+      "rot",
+      "decay"
+     ],
+     "collocations": [
+      "food spoils",
+      "spoil the fun"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "title_zh": "關於輝達執行長與疑似中國間諜外遇的事件，我們知道什麼？",
+   "summary_en": "Nvidia's CEO is facing news about an affair. People are wondering if his reputation will be hurt. The person involved is suspected of being a spy.",
+   "summary_zh": "輝達執行長正面臨外遇新聞的衝擊。人們好奇他的聲譽是否會受損。涉案者被懷疑是一名間諜。",
+   "why_important_en": "High-profile leaders' personal lives can impact their company's public image.",
+   "why_important_zh": "知名領導人的私生活可能會影響其公司的公眾形象。",
+   "vocab": [
+    {
+     "word": "reputation",
+     "pos": "n.",
+     "kk": "[ˌrɛpjʊˈteɪʃən]",
+     "meaning_zh": "聲譽",
+     "definition_en": "The opinion that people have about someone or something.",
+     "sentence_en": "This hotel has a great reputation for excellent customer service.",
+     "sentence_zh": "這家飯店以優質的客戶服務享有盛譽。",
+     "synonyms": [
+      "fame",
+      "status"
+     ],
+     "collocations": [
+      "build a reputation",
+      "ruin a reputation"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "suspect",
+     "pos": "v.",
+     "kk": "[səˈspɛkt]",
+     "meaning_zh": "懷疑",
+     "definition_en": "To believe that something is true or likely.",
+     "sentence_en": "I suspect that the train will be late today.",
+     "sentence_zh": "我懷疑今天的火車會誤點。",
+     "synonyms": [
+      "doubt",
+      "mistrust"
+     ],
+     "collocations": [
+      "suspect someone of",
+      "strongly suspect"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+   "title_zh": "英國喜劇演員羅素·布蘭德因強姦和性侵被判處超過 10 年徒刑",
+   "summary_en": "A famous comedian was found guilty of rape and sexual assault. Six women brought the case against him. He will serve more than 10 years in prison.",
+   "summary_zh": "一位知名喜劇演員被判強姦和性侵罪名成立。六名女性對他提起了訴訟。他將在監獄服刑超過 10 年。",
+   "why_important_en": "This case shows that even celebrities are held accountable for serious crimes.",
+   "why_important_zh": "此案顯示即使是名人也必須為嚴重罪行負責。",
+   "vocab": [
+    {
+     "word": "guilty",
+     "pos": "adj.",
+     "kk": "[ˈɡɪlti]",
+     "meaning_zh": "有罪的",
+     "definition_en": "Having done something wrong or illegal.",
+     "sentence_en": "The jury found him guilty of the crime after the trial.",
+     "sentence_zh": "審判後，陪審團判定他犯下了該罪行。",
+     "synonyms": [
+      "convicted",
+      "responsible"
+     ],
+     "collocations": [
+      "found guilty",
+      "guilty of"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "case",
+     "pos": "n.",
+     "kk": "[kes]",
+     "meaning_zh": "案件",
+     "definition_en": "A legal matter that is decided in a court.",
+     "sentence_en": "The lawyer is busy working on a new legal case.",
+     "sentence_zh": "律師正忙於處理一個新的法律案件。",
+     "synonyms": [
+      "lawsuit",
+      "trial"
+     ],
+     "collocations": [
+      "win a case",
+      "legal case"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+   "title_zh": "澳洲航空在 AI 驅動的改革下將裁減 850 個澳洲職位並將工作外包至印度",
+   "summary_en": "Qantas is cutting 850 jobs in Australia. They will move this work to India. This is part of a plan to use more AI technology.",
+   "summary_zh": "澳洲航空正在裁減澳洲的 850 個職位。他們將把這些工作轉移到印度。這是使用更多 AI 技術計畫的一部分。",
+   "why_important_en": "This reflects a trend of companies using AI to replace human workers to save costs.",
+   "why_important_zh": "這反映了企業利用 AI 取代人力以節省成本的趨勢。",
+   "vocab": [
+    {
+     "word": "outsource",
+     "pos": "v.",
+     "kk": "[ˈaʊtˌsɔrs]",
+     "meaning_zh": "外包",
+     "definition_en": "To pay another company to do work for you.",
+     "sentence_en": "Our company decided to outsource the IT support to a local firm.",
+     "sentence_zh": "我們公司決定將 IT 支援外包給一家當地公司。",
+     "synonyms": [
+      "subcontract",
+      "delegate"
+     ],
+     "collocations": [
+      "outsource work",
+      "outsource services"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "cut",
+     "pos": "v.",
+     "kk": "[kʌt]",
+     "meaning_zh": "削減",
+     "definition_en": "To reduce the number or amount of something.",
+     "sentence_en": "We need to cut our travel expenses this year.",
+     "sentence_zh": "我們今年需要削減差旅費用。",
+     "synonyms": [
+      "reduce",
+      "decrease"
+     ],
+     "collocations": [
+      "cut costs",
+      "cut jobs"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-10/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-10/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-10/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-10/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-10/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-10/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-10/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-10/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-10/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-10/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-10/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-10/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-10/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-10/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-10/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-10/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-10/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-10/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-10/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-10/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-10/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-10/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-10/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-10/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-10/n5-w2-ex.mp3"
+ }
+}
