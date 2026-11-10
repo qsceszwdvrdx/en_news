@@ -2,16 +2,17 @@
 
 每天台灣時間 07:00 由 GitHub Actions 自動產生 5 則英文新聞、中文摘要與多益單字。
 
-## 最新一期：[2026-11-09](news/2026-11-09.md)
+## 最新一期：[2026-11-10](news/2026-11-10.md)
 
-1. Kraków shooting suspect who killed six has died, say police in Poland
-2. Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary
-3. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
-4. Collision of two trains in Egypt kills at least seven
-5. How a bank collapse left millions in limbo and toppled Paraguay's president
+1. US supreme court clears way for Trump’s border wall in Texas’s Big Bend
+2. Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
+3. France accuses Iran of cyber 'sabotage' in fridge attacks
+4. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
+5. British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
 
 ## 歷史清單
 
+- [2026-11-10](news/2026-11-10.md)（[Anki](anki/2026-11-10.csv)）
 - [2026-11-09](news/2026-11-09.md)（[Anki](anki/2026-11-09.csv)）
 
 ---
