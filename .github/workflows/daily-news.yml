@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news news_en anki README.md logs
+          git add news news_en anki README.md logs docs
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

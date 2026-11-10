@@ -383,7 +383,7 @@ def write_anki(path: Path, result: DailyResult) -> None:
                 w.writerow([v.word, f"{v.pos} {v.meaning_zh}", f"{v.sentence_en} ({v.sentence_zh})"])
 
 
-def update_readme(date_str: str, news_titles: list) -> None:
+def update_readme(date_str: str, news_titles: list, site_url: str | None = None) -> None:
     dates = sorted((p.stem for p in (ROOT / "news").glob("*.md")), reverse=True)
     latest = "\n".join(f"{i}. {t}" for i, t in enumerate(news_titles, 1))
     def hist(d: str) -> str:
@@ -391,10 +391,11 @@ def update_readme(date_str: str, news_titles: list) -> None:
         return f"- {d}：[中文版](news/{d}.md){en}｜[Anki](anki/{d}.csv)"
 
     history = "\n".join(hist(d) for d in dates)
+    site_line = f"\n🎧 **網站版（可播放英文語音）：{site_url}**\n" if site_url else ""
     content = f"""# 每日新聞 × 單字學習
 
 每天台灣時間 07:00 由 GitHub Actions 自動產生 5 則英文新聞、中文摘要與多益單字。
-
+{site_line}
 ## 最新一期：{date_str}（[中文版](news/{date_str}.md)｜[English only](news_en/{date_str}.md)）
 
 {latest}
@@ -504,7 +505,20 @@ def run_pipeline(cfg: dict, date_str: str) -> None:
     (ROOT / "news_en" / f"{date_str}.md").write_text(render_markdown_en(date_str, news, result), encoding="utf-8")
     (ROOT / "news" / f"{date_str}.md").write_text(render_markdown(date_str, news, result), encoding="utf-8")
     write_anki(ROOT / "anki" / f"{date_str}.csv", result)
-    update_readme(date_str, [it.title_en for it in result.items])
+    update_readme(date_str, [it.title_en for it in result.items], cfg.get("site_url"))
+    try:  # 語音與網站失敗不影響日報本身
+        import site_gen
+        tts_cfg = cfg.get("tts", {})
+        if tts_cfg.get("enabled"):
+            audio, report = site_gen.build_audio(date_str, result.model_dump()["items"], tts_cfg)
+        else:
+            audio, report = {}, {"enabled": False}
+        LOG["tts"] = report
+        print(f"[INFO] 語音: {report}")
+        site_gen.build_site(date_str, news, result.model_dump(), audio)
+    except Exception as e:  # noqa: BLE001
+        LOG["tts"] = {**LOG.get("tts", {}), "site_error": short(e)}
+        print(f"[WARN] 網站 / 語音產生失敗: {e}", file=sys.stderr)
     print(f"[OK] 已輸出 news/{date_str}.md、news_en/{date_str}.md、anki/{date_str}.csv、README.md")
 
 
