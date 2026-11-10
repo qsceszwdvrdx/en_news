@@ -6,8 +6,8 @@
 
 ## 最新一期：2026-11-10（[中文版](news/2026-11-10.md)｜[English only](news_en/2026-11-10.md)）
 
-1. US supreme court clears way for Trump’s border wall in Texas’s Big Bend
-2. France accuses Iran of cyber 'sabotage' in fridge attacks
+1. France accuses Iran of cyber 'sabotage' in fridge attacks
+2. Supreme Court says border wall construction can continue in west Texas
 3. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
 4. British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
 5. Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul
