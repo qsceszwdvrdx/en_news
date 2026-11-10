@@ -39,3 +39,8 @@ tts:
   voice: en-US-AriaNeural      # 英式可改 en-GB-SoniaNeural；男聲如 en-US-GuyNeural
   summary_rate: "-10%"         # 摘要朗讀速度（負值較慢，適合練聽力）
   concurrency: 4
+
+# 過期檔案檢查（check_stale.py）
+stale:
+  days: 7              # 檔名日期早於「今天 - 7 天」視為過期
+  delete_audio: true   # 自動刪除過期的 docs/audio/日期/ 語音；其他檔案只列報告

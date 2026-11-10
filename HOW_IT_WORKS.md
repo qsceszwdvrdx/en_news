@@ -152,3 +152,7 @@ flowchart LR
 - 某個語音檔產生失敗時，網頁會自動改用瀏覽器內建朗讀，不影響日報。
 - Pages 設定：Settings → Pages → Deploy from a branch → `main` / `/docs`。
 - 每天音檔約 1 MB，一年約 400 MB；之後若太大可刪除舊的 `docs/audio/日期/` 資料夾。
+
+## 8. 過期檔案檢查
+
+每天產生完成後執行 `check_stale.py`：依檔名日期找出超過 7 天的檔案（news、news_en、anki、docs、logs），報告寫到 `logs/stale-files.md`；其中 `docs/audio/日期/` 的過期語音會自動刪除（網頁改用瀏覽器內建朗讀），其他檔案只列出不刪除。天數與是否刪除語音可在 `config.yaml` 的 `stale` 調整。

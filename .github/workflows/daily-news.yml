@@ -33,6 +33,10 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: python main.py
 
+      - name: Check stale files (older than 7 days)
+        if: always()
+        run: python check_stale.py
+
       - name: Commit and push
         if: always()   # 即使產生失敗也要把 logs 存起來
         run: |
