@@ -105,6 +105,9 @@ svg.i{width:1em;height:1em;fill:currentColor;vertical-align:-.125em}
 body.en-only .zh{display:none}
 body.quiz .hide-q{filter:blur(7px);cursor:pointer;transition:filter .2s;user-select:none}
 body.quiz .hide-q.reveal{filter:none}
+.hint{display:none;margin:10px 0 0;padding:8px 12px;border-radius:10px;background:var(--accent-soft);color:var(--accent);font-size:.88rem;align-items:center;gap:10px}
+body.quiz .hint{display:flex}
+.hint button{margin-left:auto;flex:none}
 
 /* index */
 .days{display:grid;gap:14px;margin-top:18px}
@@ -135,6 +138,7 @@ function play(b){if(cur===b){stopAll();return}queue=[];start(b)}
 function playAll(){if(queue.length||cur){stopAll();return}
   const l=$$('.sumbtn');if(!l.length)return;queue=l.slice(1);start(l[0]);$('#all').classList.add('on')}
 function setSpeed(v,btn){speed=v;A.playbackRate=v;$$('.seg button').forEach(x=>x.classList.toggle('on',x===btn));try{localStorage.sp=v}catch(e){}}
+function revealAll(){$$('.hide-q').forEach(x=>x.classList.add('reveal'))}
 function mode(){const zh=$('#zh').checked,q=$('#quiz').checked;
   document.body.classList.toggle('en-only',!zh);document.body.classList.toggle('quiz',q);
   if(!q)$$('.reveal').forEach(x=>x.classList.remove('reveal'));
@@ -191,6 +195,8 @@ def render_day(data: dict, audio: dict, prev: str | None, nxt: str | None) -> st
         '<button class="on" data-v="1" onclick="setSpeed(1,this)">1×</button>'
         '<button data-v="1.2" onclick="setSpeed(1.2,this)">1.2×</button></span>'
         '</div></div>',
+        '<div class="hint"><span>🧠 自測中：中文意思與例句翻譯已模糊，點一下顯示答案（需開啟「顯示中文」）</span>'
+        '<button class="pill" onclick="revealAll()">全部顯示</button></div>',
         '<nav class="chips">' + "".join(
             f'<a class="chip" href="#n{i}"><b>{i}</b><span>{e(it["title_en"])}</span></a>'
             for i, it in enumerate(data["items"], 1)) + "</nav>",
