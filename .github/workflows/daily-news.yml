@@ -2,7 +2,7 @@ name: Daily News
 
 on:
   schedule:
-    - cron: "17 22 * * *"   # 22:17 UTC = 台灣時間 06:17（避開整點壅塞，通常 07:00 前後完成）
+    - cron: "7 20 * * *"   # 20:07 UTC = 台灣時間 04:07（避開整點壅塞）
   workflow_dispatch:        # 可手動觸發
 
 permissions:

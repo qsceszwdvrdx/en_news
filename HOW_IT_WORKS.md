@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart TD
-    A([⏰ GitHub Actions 排程<br/>每天 UTC 22:17 = 台灣 06:17（避開整點）<br/>或手動 workflow_dispatch]) --> B[checkout + 安裝 Python 套件]
+    A([⏰ GitHub Actions 排程<br/>每天 UTC 20:07 = 台灣 04:07（避開整點）<br/>或手動 workflow_dispatch]) --> B[checkout + 安裝 Python 套件]
     B --> C[python main.py<br/>讀取 config.yaml / GEMINI_API_KEY]
     C --> D[抓取 RSS 並挑選 5 則新聞]
     D --> E[組成一個 prompt<br/>一次呼叫 Gemini]
