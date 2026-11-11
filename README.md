@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-10（[中文版](news/2026-11-10.md)｜[English only](news_en/2026-11-10.md)）
+## 最新一期：2026-11-11（[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)）
 
-1. France accuses Iran of cyber 'sabotage' in fridge attacks
-2. Supreme Court says border wall construction can continue in west Texas
-3. British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
-4. Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul
-5. What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
+1. Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says
+2. House votes to effectively end the impeachment effort against Pete Hegseth
+3. Israel's new parliament sworn in as leaders compete to form government
+4. U.S. boycotts U.N. human rights review for second year running
+5. Twelve dead after motorway pile-ups in Bulgaria fog
 
 ## 歷史清單
 
+- 2026-11-11：[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)｜[Anki](anki/2026-11-11.csv)
 - 2026-11-10：[中文版](news/2026-11-10.md)｜[English only](news_en/2026-11-10.md)｜[Anki](anki/2026-11-10.csv)
 - 2026-11-09：[中文版](news/2026-11-09.md)｜[Anki](anki/2026-11-09.csv)
 

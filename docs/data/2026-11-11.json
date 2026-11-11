@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-11",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
+   "title_zh": "梅根父親湯瑪斯·馬克爾因剪斷電子腳鐐入獄，司法部表示",
+   "summary_en": "Thomas Markle was arrested for keeping illegal files. He cut off his electronic ankle monitor. Now he is in jail waiting for a court hearing.",
+   "summary_zh": "湯瑪斯·馬克爾因持有非法檔案被捕。他剪斷了電子腳鐐。目前他被關押在監獄中，等待法院聽證會。",
+   "why_important_en": "This news involves a high-profile family member and legal issues regarding electronic monitoring.",
+   "why_important_zh": "這則新聞涉及知名人士的家庭成員以及關於電子監控的法律問題。",
+   "vocab": [
+    {
+     "word": "arrest",
+     "pos": "v.",
+     "kk": "[əˈrɛst]",
+     "meaning_zh": "逮捕",
+     "definition_en": "To take someone to the police station because they did something wrong.",
+     "sentence_en": "The police had to arrest the man for stealing a car.",
+     "sentence_zh": "警察必須因該男子偷車而將他逮捕。",
+     "synonyms": [
+      "detain",
+      "capture"
+     ],
+     "collocations": [
+      "arrest warrant",
+      "under arrest"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "custody",
+     "pos": "n.",
+     "kk": "[ˈkʌstədi]",
+     "meaning_zh": "拘留",
+     "definition_en": "The state of being kept in prison by the police.",
+     "sentence_en": "The suspect will remain in custody until the trial begins.",
+     "sentence_zh": "嫌疑人在審判開始前將會繼續被拘留。",
+     "synonyms": [
+      "detention",
+      "confinement"
+     ],
+     "collocations": [
+      "in custody",
+      "take into custody"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "House votes to effectively end the impeachment effort against Pete Hegseth",
+   "title_zh": "眾議院投票實質終止對皮特·赫格塞斯的彈劾行動",
+   "summary_en": "House Republicans stopped a vote to impeach the Defense Secretary. The effort to remove him from his job has ended.",
+   "summary_zh": "眾議院共和黨人阻止了對國防部長的彈劾投票。將他免職的行動已經結束。",
+   "why_important_en": "It shows how political parties use voting power to stop official investigations.",
+   "why_important_zh": "這顯示了政黨如何利用投票權來阻止官方調查。",
+   "vocab": [
+    {
+     "word": "effort",
+     "pos": "n.",
+     "kk": "[ˈɛfərt]",
+     "meaning_zh": "努力；行動",
+     "definition_en": "Physical or mental activity needed to achieve something.",
+     "sentence_en": "We made a great effort to finish the project on time.",
+     "sentence_zh": "我們為了準時完成專案付出了巨大的努力。",
+     "synonyms": [
+      "attempt",
+      "endeavor"
+     ],
+     "collocations": [
+      "make an effort",
+      "team effort"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "remove",
+     "pos": "v.",
+     "kk": "[rɪˈmuːv]",
+     "meaning_zh": "移除；免職",
+     "definition_en": "To take something or someone away from a place.",
+     "sentence_en": "Please remove your shoes before entering the house.",
+     "sentence_zh": "進入屋內前請脫掉您的鞋子。",
+     "synonyms": [
+      "take away",
+      "eliminate"
+     ],
+     "collocations": [
+      "remove from office",
+      "remove stains"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Israel's new parliament sworn in as leaders compete to form government",
+   "title_zh": "以色列新國會宣誓就職，領導人競爭組建政府",
+   "summary_en": "Israel has a new parliament. Different political leaders are trying to become the next prime minister.",
+   "summary_zh": "以色列有了新的國會。不同的政治領袖正在爭取成為下一任總理。",
+   "why_important_en": "Government formation is critical for national stability and policy direction.",
+   "why_important_zh": "政府的組建對於國家穩定與政策方向至關重要。",
+   "vocab": [
+    {
+     "word": "compete",
+     "pos": "v.",
+     "kk": "[kəmˈpiːt]",
+     "meaning_zh": "競爭",
+     "definition_en": "To try to win something that others are also trying to win.",
+     "sentence_en": "Many companies compete to sell the best smartphones.",
+     "sentence_zh": "許多公司為了銷售最好的智慧型手機而競爭。",
+     "synonyms": [
+      "contest",
+      "vie"
+     ],
+     "collocations": [
+      "compete with",
+      "compete for"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "form",
+     "pos": "v.",
+     "kk": "[fɔːrm]",
+     "meaning_zh": "組成；形成",
+     "definition_en": "To start or create an organization or group.",
+     "sentence_en": "The students decided to form a new study group.",
+     "sentence_zh": "學生們決定組成一個新的讀書會。",
+     "synonyms": [
+      "create",
+      "establish"
+     ],
+     "collocations": [
+      "form a company",
+      "form a team"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "U.S. boycotts U.N. human rights review for second year running",
+   "title_zh": "美國連續第二年抵制聯合國人權審查",
+   "summary_en": "The U.S. did not attend a U.N. human rights meeting again. Experts worry this makes it harder to hold countries responsible for their actions.",
+   "summary_zh": "美國再次沒有參加聯合國人權會議。專家擔心這會讓追究各國責任變得更困難。",
+   "why_important_en": "The U.S. absence from international human rights discussions may affect global standards.",
+   "why_important_zh": "美國缺席國際人權討論可能會影響全球標準。",
+   "vocab": [
+    {
+     "word": "review",
+     "pos": "n.",
+     "kk": "[rɪˈvjuː]",
+     "meaning_zh": "審查；評估",
+     "definition_en": "A formal assessment or examination of something.",
+     "sentence_en": "The manager will conduct a performance review next week.",
+     "sentence_zh": "經理下週將會進行績效評估。",
+     "synonyms": [
+      "assessment",
+      "evaluation"
+     ],
+     "collocations": [
+      "annual review",
+      "conduct a review"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "absence",
+     "pos": "n.",
+     "kk": "[ˈæbsəns]",
+     "meaning_zh": "缺席；不在",
+     "definition_en": "The fact of not being where you are expected to be.",
+     "sentence_en": "Please explain your absence from the meeting yesterday.",
+     "sentence_zh": "請解釋你昨天為何缺席會議。",
+     "synonyms": [
+      "non-attendance",
+      "lack"
+     ],
+     "collocations": [
+      "leave of absence",
+      "in the absence of"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Twelve dead after motorway pile-ups in Bulgaria fog",
+   "title_zh": "保加利亞大霧導致高速公路連環車禍，造成十二人死亡",
+   "summary_en": "A bad accident happened on a highway in Bulgaria because of thick fog. Twelve people died and many others are hurt.",
+   "summary_zh": "保加利亞的一條高速公路上因濃霧發生了嚴重事故。十二人死亡，許多人受傷。",
+   "why_important_en": "This highlights the dangers of driving in poor weather conditions.",
+   "why_important_zh": "這凸顯了在惡劣天氣條件下駕駛的危險性。",
+   "vocab": [
+    {
+     "word": "accident",
+     "pos": "n.",
+     "kk": "[ˈæksɪdənt]",
+     "meaning_zh": "事故",
+     "definition_en": "An unfortunate event that happens unexpectedly and causes damage or injury.",
+     "sentence_en": "I had a small accident while driving to work today.",
+     "sentence_zh": "我今天開車去上班時發生了一點小事故。",
+     "synonyms": [
+      "crash",
+      "incident"
+     ],
+     "collocations": [
+      "car accident",
+      "by accident"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "injured",
+     "pos": "adj.",
+     "kk": "[ˈɪndʒərd]",
+     "meaning_zh": "受傷的",
+     "definition_en": "Hurt or physically damaged.",
+     "sentence_en": "The athlete is injured and cannot play in the game.",
+     "sentence_zh": "那位運動員受傷了，無法參加比賽。",
+     "synonyms": [
+      "hurt",
+      "wounded"
+     ],
+     "collocations": [
+      "seriously injured",
+      "get injured"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-11/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-11/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-11/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-11/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-11/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-11/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-11/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-11/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-11/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-11/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-11/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-11/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-11/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-11/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-11/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-11/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-11/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-11/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-11/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-11/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-11/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-11/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-11/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-11/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-11/n5-w2-ex.mp3"
+ }
+}
