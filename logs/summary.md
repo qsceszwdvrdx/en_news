@@ -6,6 +6,7 @@
 
 | 日期 | 結果 | RSS 成功 | 使用模型 | Gemini 失敗次數 | 耗時(秒) | 當天執行次數 | 錯誤 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-12](2026-11-12.json) | ✅ 成功 | 4/4 | gemini-3.1-flash-lite | 3 | 130.4 | 1 |  |
 | [2026-11-11](2026-11-11.json) | ✅ 成功 | 4/4 | gemini-3.1-flash-lite | 3 | 131.3 | 1 |  |
 | [2026-11-10](2026-11-10.json) | ✅ 成功 | 4/4 | gemini-3.5-flash | 10 | 420.5 | 6 |  |
 
@@ -13,7 +14,7 @@
 
 | 來源 | 成功次數 | 異常次數 |
 | --- | --- | --- |
-| BBC World | 7 | 0 |
-| NPR News | 7 | 0 |
-| Reuters (Google News) | 7 | 0 |
-| The Guardian World | 7 | 0 |
+| BBC World | 8 | 0 |
+| NPR News | 8 | 0 |
+| Reuters (Google News) | 8 | 0 |
+| The Guardian World | 8 | 0 |

@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-11（[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)）
+## 最新一期：2026-11-12（[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)）
 
-1. Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says
-2. House votes to effectively end the impeachment effort against Pete Hegseth
-3. Israel's new parliament sworn in as leaders compete to form government
-4. U.S. boycotts U.N. human rights review for second year running
-5. Twelve dead after motorway pile-ups in Bulgaria fog
+1. Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win
+2. Millions join Spain’s first general strike in 14 years in protest at housing costs
+3. Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
+4. Brooklyn building collapse kills at least one and traps others in wreckage
+5. Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina
 
 ## 歷史清單
 
+- 2026-11-12：[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)｜[Anki](anki/2026-11-12.csv)
 - 2026-11-11：[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)｜[Anki](anki/2026-11-11.csv)
 - 2026-11-10：[中文版](news/2026-11-10.md)｜[English only](news_en/2026-11-10.md)｜[Anki](anki/2026-11-10.csv)
 - 2026-11-09：[中文版](news/2026-11-09.md)｜[Anki](anki/2026-11-09.csv)

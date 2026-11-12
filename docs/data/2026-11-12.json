@@ -1,0 +1,288 @@
+{
+ "date": "2026-11-12",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win",
+   "title_zh": "民主黨人斯科特·科洛姆贏得密西西比州參議員選舉，成為自1874年以來首位當選的黑人參議員",
+   "summary_en": "Scott Colom won a close election in Mississippi. He will be the first Black senator from this state since 1874. Some other politicians missed a vote because of bad traffic.",
+   "summary_zh": "斯科特·科洛姆在密西西比州的選舉中以微弱優勢獲勝。他將成為該州自1874年以來首位黑人參議員。另外，一些政治人物因為交通堵塞而錯過了投票。",
+   "why_important_en": "This is a historic election result in a state with a complex political history. It shows a change in voter representation.",
+   "why_important_zh": "這是在政治歷史複雜的州份中具有歷史意義的選舉結果。它顯示了選民代表性的轉變。",
+   "vocab": [
+    {
+     "word": "narrow",
+     "pos": "adj.",
+     "kk": "[ˈnæroʊ]",
+     "meaning_zh": "勉強的；微弱的",
+     "definition_en": "by a very small amount",
+     "sentence_en": "We won the game by a narrow margin today.",
+     "sentence_zh": "我們今天以微弱優勢贏得了比賽。",
+     "synonyms": [
+      "slim",
+      "close"
+     ],
+     "collocations": [
+      "narrow victory",
+      "narrow margin"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "miss",
+     "pos": "v.",
+     "kk": "[mɪs]",
+     "meaning_zh": "錯過",
+     "definition_en": "to fail to arrive in time for something",
+     "sentence_en": "I am sorry, I will miss our morning meeting.",
+     "sentence_zh": "抱歉，我會錯過我們的晨會。",
+     "synonyms": [
+      "lose out on"
+     ],
+     "collocations": [
+      "miss a meeting",
+      "miss a deadline"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+   "title_zh": "數百萬人參與西班牙14年來首次大罷工，抗議住房成本",
+   "summary_en": "Millions of people in Spain went on strike for 24 hours. They are protesting against the high cost of housing. This is the first general strike in the country in 14 years.",
+   "summary_zh": "西班牙數百萬人進行了24小時的罷工。他們抗議高昂的住房成本。這是該國14年來的首次大罷工。",
+   "why_important_en": "The strike highlights a major social issue that affects many citizens. It could influence the upcoming national election.",
+   "why_important_zh": "這次罷工凸顯了一個影響許多公民的重大社會問題。它可能會影響即將到來的全國選舉。",
+   "vocab": [
+    {
+     "word": "protest",
+     "pos": "v.",
+     "kk": "[prəˈtɛst]",
+     "meaning_zh": "抗議",
+     "definition_en": "to show that you strongly disagree with something",
+     "sentence_en": "The workers plan to protest against the new rules.",
+     "sentence_zh": "工人們計劃抗議這些新規定。",
+     "synonyms": [
+      "object",
+      "complain"
+     ],
+     "collocations": [
+      "protest against",
+      "stage a protest"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "cost",
+     "pos": "n.",
+     "kk": "[kɔst]",
+     "meaning_zh": "費用；成本",
+     "definition_en": "the amount of money you need to pay for something",
+     "sentence_en": "What is the total cost of this new project?",
+     "sentence_zh": "這個新項目的總成本是多少？",
+     "synonyms": [
+      "price",
+      "expense"
+     ],
+     "collocations": [
+      "high cost",
+      "cut costs"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+   "title_zh": "俄羅斯與烏克蘭達成戰俘交換協議，談判結束但無重大突破",
+   "summary_en": "Russia and Ukraine agreed to swap prisoners of war. The talks were helped by the United States. However, there was no major progress on other issues.",
+   "summary_zh": "俄羅斯和烏克蘭同意交換戰俘。談判得到了美國的協助。然而，在其他問題上沒有取得重大進展。",
+   "why_important_en": "This is a positive humanitarian step during a long conflict. It shows that communication is still possible.",
+   "why_important_zh": "這是長期衝突中積極的人道主義步驟。它顯示溝通仍然是可能的。",
+   "vocab": [
+    {
+     "word": "agree",
+     "pos": "v.",
+     "kk": "[əˈɡri]",
+     "meaning_zh": "同意",
+     "definition_en": "to have the same opinion or accept a plan",
+     "sentence_en": "We all agree to meet at the office tomorrow.",
+     "sentence_zh": "我們都同意明天在辦公室見面。",
+     "synonyms": [
+      "consent",
+      "accept"
+     ],
+     "collocations": [
+      "agree to",
+      "agree on"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "exchange",
+     "pos": "n.",
+     "kk": "[ɪksˈtʃeɪndʒ]",
+     "meaning_zh": "交換",
+     "definition_en": "the act of giving something and receiving something else",
+     "sentence_en": "I would like to exchange this shirt for a larger size.",
+     "sentence_zh": "我想把這件襯衫換成大一點的尺寸。",
+     "synonyms": [
+      "swap",
+      "trade"
+     ],
+     "collocations": [
+      "exchange program",
+      "make an exchange"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Brooklyn building collapse kills at least one and traps others in wreckage",
+   "title_zh": "布魯克林建築倒塌造成至少一人死亡，其他人受困於廢墟中",
+   "summary_en": "A three-story building in Brooklyn fell down on Wednesday. At least one person died, and others are trapped. Firefighters are searching through the debris.",
+   "summary_zh": "週三，布魯克林一棟三層樓的建築倒塌。至少有一人死亡，其他人被困。消防員正在廢墟中進行搜救。",
+   "why_important_en": "This is a tragic accident that requires emergency response. It raises questions about construction safety.",
+   "why_important_zh": "這是一起需要緊急應對的悲劇事故。它引發了對施工安全的問題。",
+   "vocab": [
+    {
+     "word": "collapse",
+     "pos": "v.",
+     "kk": "[kəˈlæps]",
+     "meaning_zh": "倒塌；崩潰",
+     "definition_en": "to fall down suddenly",
+     "sentence_en": "The old bridge might collapse during the heavy rain.",
+     "sentence_zh": "這座舊橋可能會在大雨中倒塌。",
+     "synonyms": [
+      "fall down",
+      "break down"
+     ],
+     "collocations": [
+      "building collapse",
+      "total collapse"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "search",
+     "pos": "v.",
+     "kk": "[sɜrtʃ]",
+     "meaning_zh": "搜尋",
+     "definition_en": "to look carefully for someone or something",
+     "sentence_en": "I need to search for my keys before I leave.",
+     "sentence_zh": "我出門前需要找一下我的鑰匙。",
+     "synonyms": [
+      "look for",
+      "seek"
+     ],
+     "collocations": [
+      "search for",
+      "conduct a search"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+   "title_zh": "激進馬克思主義組織前成員攀爬陽台，逃離阿根廷的居家監禁",
+   "summary_en": "A 74-year-old man escaped from house arrest in Argentina. He used a harness to climb down from his balcony. He was waiting to be sent to Italy for a prison sentence.",
+   "summary_zh": "一名74歲的男子在阿根廷逃離了居家監禁。他利用安全帶從陽台爬下。他原本在等待被送往義大利服刑。",
+   "why_important_en": "The escape of a high-profile criminal is a major security failure. It is a significant legal and diplomatic issue.",
+   "why_important_zh": "知名罪犯的逃脫是一個重大的安全疏失。這是一個重大的法律和外交問題。",
+   "vocab": [
+    {
+     "word": "escape",
+     "pos": "v.",
+     "kk": "[ɪˈskeɪp]",
+     "meaning_zh": "逃脫",
+     "definition_en": "to get away from a place where you are kept",
+     "sentence_en": "We want to escape the city for the weekend.",
+     "sentence_zh": "我們週末想逃離城市去放鬆一下。",
+     "synonyms": [
+      "flee",
+      "run away"
+     ],
+     "collocations": [
+      "escape from",
+      "narrow escape"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "sentence",
+     "pos": "n.",
+     "kk": "[ˈsɛntəns]",
+     "meaning_zh": "判決；刑期",
+     "definition_en": "the punishment given by a judge in court",
+     "sentence_en": "The judge gave him a long prison sentence.",
+     "sentence_zh": "法官給了他很長的刑期。",
+     "synonyms": [
+      "punishment",
+      "judgment"
+     ],
+     "collocations": [
+      "prison sentence",
+      "serve a sentence"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-12/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-12/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-12/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-12/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-12/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-12/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-12/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-12/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-12/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-12/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-12/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-12/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-12/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-12/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-12/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-12/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-12/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-12/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-12/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-12/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-12/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-12/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-12/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-12/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-12/n5-w2-ex.mp3"
+ }
+}

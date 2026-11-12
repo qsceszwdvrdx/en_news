@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-12",
+  "runs": [
+    {
+      "started_at": "2026-11-12T09:53:21+08:00",
+      "seconds": 130.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/43137541712",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 29,
+          "entries_recent": 20,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.09
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 30,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.14
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.14
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.08
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "The Guardian World",
+          "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+          "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Brooklyn building collapse kills at least one and traps others in wreckage",
+          "link": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+          "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 504,
+            "message": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+            "seconds": 118.0
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 6.1
+          }
+        ],
+        "used_model": "gemini-3.1-flash-lite",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 160,
+      "tts": {
+        "enabled": true,
+        "ok": 25,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}
