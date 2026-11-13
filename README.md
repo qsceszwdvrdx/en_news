@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-12（[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)）
+## 最新一期：2026-11-13（[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)）
 
-1. Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win
-2. Millions join Spain’s first general strike in 14 years in protest at housing costs
-3. Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
-4. Brooklyn building collapse kills at least one and traps others in wreckage
-5. Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina
+1. Who could replace the departed Jensen Huang as Nvidia CEO?
+2. U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi
+3. Suspected bomb hoax threats force fresh evacuations of Italian schools
+4. Hegseth gives medal to guard who reprimanded him at Arlington national cemetery
+5. Microsoft begins restoring services amid global outage affecting Outlook and Teams
 
 ## 歷史清單
 
+- 2026-11-13：[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)｜[Anki](anki/2026-11-13.csv)
 - 2026-11-12：[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)｜[Anki](anki/2026-11-12.csv)
 - 2026-11-11：[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)｜[Anki](anki/2026-11-11.csv)
 - 2026-11-10：[中文版](news/2026-11-10.md)｜[English only](news_en/2026-11-10.md)｜[Anki](anki/2026-11-10.csv)

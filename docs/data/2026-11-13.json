@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-13",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+   "title_zh": "誰能接替離職的黃仁勳擔任輝達執行長？",
+   "summary_en": "Nvidia CEO Jensen Huang resigned after personal scandals. The company named CFO Colette Kress as the interim leader. They are now looking for a permanent replacement.",
+   "summary_zh": "輝達執行長黃仁勳因個人醜聞辭職。公司任命財務長 Colette Kress 為臨時領導人。目前正在尋找永久接班人。",
+   "why_important_en": "Leadership changes in major tech companies can affect global markets and stock prices.",
+   "why_important_zh": "大型科技公司的領導層變動可能會影響全球市場與股價。",
+   "vocab": [
+    {
+     "word": "resign",
+     "pos": "v.",
+     "kk": "[rɪˈzaɪn]",
+     "meaning_zh": "辭職",
+     "definition_en": "To officially leave a job or position.",
+     "sentence_en": "I plan to resign from my job next month.",
+     "sentence_zh": "我打算下個月辭掉我的工作。",
+     "synonyms": [
+      "quit",
+      "leave"
+     ],
+     "collocations": [
+      "resign from",
+      "formally resign"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "candidate",
+     "pos": "n.",
+     "kk": "[ˈkændɪdət]",
+     "meaning_zh": "候選人",
+     "definition_en": "A person who is trying to get a job or position.",
+     "sentence_en": "The manager interviewed every candidate for the role.",
+     "sentence_zh": "經理面試了每一位職位候選人。",
+     "synonyms": [
+      "applicant",
+      "nominee"
+     ],
+     "collocations": [
+      "job candidate",
+      "strong candidate"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+   "title_zh": "美國特使在阿布達比進行烏克蘭會談後，前往克里姆林宮會見普丁",
+   "summary_en": "U.S. representatives met with Russian President Vladimir Putin in Moscow. They also plan to travel to Ireland to speak with the Ukrainian President.",
+   "summary_zh": "美國代表在莫斯科會見了俄羅斯總統普丁。他們也計畫前往愛爾蘭與烏克蘭總統進行會談。",
+   "why_important_en": "High-level diplomatic meetings are crucial for managing international conflicts.",
+   "why_important_zh": "高層外交會晤對於處理國際衝突至關重要。",
+   "vocab": [
+    {
+     "word": "meet",
+     "pos": "v.",
+     "kk": "[mit]",
+     "meaning_zh": "會面",
+     "definition_en": "To see and speak to someone for the first time or by arrangement.",
+     "sentence_en": "Let's meet at the coffee shop at ten.",
+     "sentence_zh": "我們十點在咖啡店見面吧。",
+     "synonyms": [
+      "see",
+      "gather"
+     ],
+     "collocations": [
+      "meet with",
+      "meet someone"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "plan",
+     "pos": "v.",
+     "kk": "[plæn]",
+     "meaning_zh": "計畫",
+     "definition_en": "To think about and decide what you will do in the future.",
+     "sentence_en": "We plan to visit Japan during the summer.",
+     "sentence_zh": "我們計畫夏天去日本旅遊。",
+     "synonyms": [
+      "intend",
+      "arrange"
+     ],
+     "collocations": [
+      "plan to",
+      "make a plan"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "title_zh": "疑似炸彈惡作劇威脅迫使義大利學校再次疏散",
+   "summary_en": "Schools in Italy received bomb threats for two days in a row. These threats caused panic and forced students to leave their buildings.",
+   "summary_zh": "義大利的學校連續兩天收到炸彈威脅。這些威脅引起恐慌，並迫使學生離開校園。",
+   "why_important_en": "Safety threats in public institutions cause significant disruption and public concern.",
+   "why_important_zh": "公共機構的安全威脅會造成嚴重的混亂與大眾擔憂。",
+   "vocab": [
+    {
+     "word": "threat",
+     "pos": "n.",
+     "kk": "[θrɛt]",
+     "meaning_zh": "威脅",
+     "definition_en": "A statement that someone will be hurt or something bad will happen.",
+     "sentence_en": "The heavy rain is a threat to our picnic.",
+     "sentence_zh": "大雨對我們的野餐造成了威脅。",
+     "synonyms": [
+      "danger",
+      "risk"
+     ],
+     "collocations": [
+      "bomb threat",
+      "serious threat"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "force",
+     "pos": "v.",
+     "kk": "[fɔrs]",
+     "meaning_zh": "強迫",
+     "definition_en": "To make someone do something they do not want to do.",
+     "sentence_en": "The bad weather forced us to cancel the flight.",
+     "sentence_zh": "惡劣天氣迫使我們取消了航班。",
+     "synonyms": [
+      "compel",
+      "require"
+     ],
+     "collocations": [
+      "force someone to",
+      "be forced to"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery",
+   "title_zh": "赫格塞斯向在阿靈頓國家公墓訓斥他的衛兵頒發獎章",
+   "summary_en": "Defense Secretary Pete Hegseth gave a medal to a soldier. The soldier had previously told him to be quiet at a memorial site.",
+   "summary_zh": "國防部長 Pete Hegseth 向一名士兵頒發了獎章。該士兵先前曾在紀念地要求他保持安靜。",
+   "why_important_en": "This story highlights the importance of respecting solemn public memorials.",
+   "why_important_zh": "這則新聞凸顯了尊重莊嚴公共紀念場所的重要性。",
+   "vocab": [
+    {
+     "word": "quiet",
+     "pos": "adj.",
+     "kk": "[ˈkwaɪət]",
+     "meaning_zh": "安靜的",
+     "definition_en": "Making very little noise.",
+     "sentence_en": "Please keep the office quiet during the meeting.",
+     "sentence_zh": "開會時請保持辦公室安靜。",
+     "synonyms": [
+      "silent",
+      "still"
+     ],
+     "collocations": [
+      "keep quiet",
+      "be quiet"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "medal",
+     "pos": "n.",
+     "kk": "[ˈmɛdl]",
+     "meaning_zh": "獎章",
+     "definition_en": "A piece of metal given as a prize for a brave action.",
+     "sentence_en": "He won a gold medal in the sports competition.",
+     "sentence_zh": "他在運動比賽中贏得了一面金牌。",
+     "synonyms": [
+      "award",
+      "prize"
+     ],
+     "collocations": [
+      "win a medal",
+      "gold medal"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+   "title_zh": "微軟開始恢復服務，全球斷線影響 Outlook 與 Teams",
+   "summary_en": "Microsoft is fixing a global service outage. Many users could not access apps like Outlook and Teams. The company is now restoring these services.",
+   "summary_zh": "微軟正在修復全球性的服務中斷。許多使用者無法使用 Outlook 和 Teams 等應用程式。公司目前正在恢復這些服務。",
+   "why_important_en": "Global software outages impact millions of workers and business operations worldwide.",
+   "why_important_zh": "全球性的軟體中斷會影響全球數百萬名員工與商業運作。",
+   "vocab": [
+    {
+     "word": "restore",
+     "pos": "v.",
+     "kk": "[rɪˈstɔr]",
+     "meaning_zh": "恢復",
+     "definition_en": "To bring something back to its original state.",
+     "sentence_en": "The technician will restore the internet connection soon.",
+     "sentence_zh": "技術人員很快就會恢復網路連線。",
+     "synonyms": [
+      "fix",
+      "repair"
+     ],
+     "collocations": [
+      "restore service",
+      "restore power"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "access",
+     "pos": "n.",
+     "kk": "[ˈæksɛs]",
+     "meaning_zh": "存取",
+     "definition_en": "The right or ability to use something.",
+     "sentence_en": "Do you have access to the company database?",
+     "sentence_zh": "你有權限存取公司資料庫嗎？",
+     "synonyms": [
+      "entry",
+      "admission"
+     ],
+     "collocations": [
+      "have access to",
+      "gain access"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-13/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-13/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-13/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-13/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-13/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-13/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-13/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-13/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-13/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-13/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-13/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-13/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-13/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-13/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-13/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-13/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-13/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-13/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-13/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-13/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-13/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-13/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-13/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-13/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-13/n5-w2-ex.mp3"
+ }
+}

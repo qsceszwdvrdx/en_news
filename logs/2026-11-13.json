@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-13",
+  "runs": [
+    {
+      "started_at": "2026-11-13T09:02:00+08:00",
+      "seconds": 271.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/43341704885",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 31,
+          "entries_recent": 21,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.24
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 28,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.31
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.13
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.45
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "The Guardian World",
+          "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+          "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+          "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "cluster_sources": [
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 40.6
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 2,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 32.3
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 3,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 2.1
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 4,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 0.7
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 10.2
+          }
+        ],
+        "used_model": "gemini-3.1-flash-lite",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 159,
+      "tts": {
+        "enabled": true,
+        "ok": 25,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}
