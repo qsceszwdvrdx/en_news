@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-14（[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)）
+## 最新一期：2026-11-15（[中文版](news/2026-11-15.md)｜[English only](news_en/2026-11-15.md)）
 
-1. Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams
-2. Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US
-3. US Air Force responds to suspected drone activity at RAF Lakenheath
-4. Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing
-5. At least 24 killed after bus collides with truck in north-east India
+1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+2. Italy fines Meta €805m over accessing users' photos
+3. SpaceX successfully catches Starship and makes history
+4. Evacuation zone lifted after bomb found at Illinois ethanol plant
+5. Philippines’ Carmelle wins first Eurovision contest in Asia
 
 ## 歷史清單
 
+- 2026-11-15：[中文版](news/2026-11-15.md)｜[English only](news_en/2026-11-15.md)｜[Anki](anki/2026-11-15.csv)
 - 2026-11-14：[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)｜[Anki](anki/2026-11-14.csv)
 - 2026-11-13：[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)｜[Anki](anki/2026-11-13.csv)
 - 2026-11-12：[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)｜[Anki](anki/2026-11-12.csv)

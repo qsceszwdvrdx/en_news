@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-15",
+ "news": [
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "title_zh": "澤倫斯基稱美國曾提議烏克蘭以割讓頓巴斯換取北約成員資格",
+   "summary_en": "President Zelensky says the US suggested Ukraine give up land to join Nato. The US has not confirmed this. They say they are still discussing many ideas.",
+   "summary_zh": "澤倫斯基總統表示，美國曾建議烏克蘭放棄領土以加入北約。美國尚未證實此說法，僅表示目前仍持續討論多種方案。",
+   "why_important_en": "This shows the complex negotiations regarding the war in Ukraine and international security.",
+   "why_important_zh": "這顯示了關於烏克蘭戰爭與國際安全的複雜談判過程。",
+   "vocab": [
+    {
+     "word": "confirm",
+     "pos": "v.",
+     "kk": "[kənˈfɜrm]",
+     "meaning_zh": "確認",
+     "definition_en": "To say that something is true or correct.",
+     "sentence_en": "Please confirm your flight details before you leave.",
+     "sentence_zh": "出發前請確認您的航班資訊。",
+     "synonyms": [
+      "verify",
+      "validate"
+     ],
+     "collocations": [
+      "confirm a reservation",
+      "confirm the details"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "discuss",
+     "pos": "v.",
+     "kk": "[dɪˈskʌs]",
+     "meaning_zh": "討論",
+     "definition_en": "To talk about something with someone.",
+     "sentence_en": "We need to discuss the project plan tomorrow.",
+     "sentence_zh": "我們明天需要討論專案計畫。",
+     "synonyms": [
+      "talk over",
+      "debate"
+     ],
+     "collocations": [
+      "discuss a topic",
+      "discuss the matter"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Italy fines Meta €805m over accessing users' photos",
+   "title_zh": "義大利因 Meta 存取用戶照片對其處以 8.05 億歐元罰款",
+   "summary_en": "Italy fined Meta a large amount of money. The company did not tell 20 million users that it could see their photos. Meta is a big social media company.",
+   "summary_zh": "義大利對 Meta 處以鉅額罰款。該公司未告知 2000 萬名用戶其可存取用戶照片。Meta 是一家大型社群媒體公司。",
+   "why_important_en": "It highlights the importance of data privacy and transparency for tech companies.",
+   "why_important_zh": "這凸顯了科技公司在數據隱私與透明度方面的重要性。",
+   "vocab": [
+    {
+     "word": "access",
+     "pos": "v.",
+     "kk": "[ˈæksɛs]",
+     "meaning_zh": "存取；進入",
+     "definition_en": "To be able to use or see something.",
+     "sentence_en": "I cannot access my email account right now.",
+     "sentence_zh": "我現在無法登入我的電子郵件帳號。",
+     "synonyms": [
+      "enter",
+      "reach"
+     ],
+     "collocations": [
+      "access the system",
+      "access the file"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "inform",
+     "pos": "v.",
+     "kk": "[ɪnˈfɔrm]",
+     "meaning_zh": "通知",
+     "definition_en": "To tell someone about something.",
+     "sentence_en": "Please inform the manager if you are late.",
+     "sentence_zh": "如果你會遲到，請通知經理。",
+     "synonyms": [
+      "notify",
+      "tell"
+     ],
+     "collocations": [
+      "inform someone of",
+      "inform the staff"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "SpaceX successfully catches Starship and makes history",
+   "title_zh": "SpaceX 成功回收星艦並創造歷史",
+   "summary_en": "SpaceX successfully caught its spacecraft in Texas. Two metal arms grabbed the ship as it landed. This is a big moment for space travel.",
+   "summary_zh": "SpaceX 在德州成功回收了太空船。當太空船降落時，兩隻金屬手臂抓住了它。這是太空旅行的重要時刻。",
+   "why_important_en": "This technology makes space travel cheaper and more efficient.",
+   "why_important_zh": "這項技術使太空旅行變得更便宜且更有效率。",
+   "vocab": [
+    {
+     "word": "successfully",
+     "pos": "adv.",
+     "kk": "[səkˈsɛsfəli]",
+     "meaning_zh": "成功地",
+     "definition_en": "In a way that achieves a desired result.",
+     "sentence_en": "She successfully finished the presentation on time.",
+     "sentence_zh": "她成功地準時完成了簡報。",
+     "synonyms": [
+      "effectively",
+      "triumphantly"
+     ],
+     "collocations": [
+      "successfully complete",
+      "successfully launch"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "secure",
+     "pos": "v.",
+     "kk": "[sɪˈkjʊr]",
+     "meaning_zh": "固定；確保",
+     "definition_en": "To fasten something firmly in place.",
+     "sentence_en": "Please secure your seatbelt before the plane takes off.",
+     "sentence_zh": "飛機起飛前請繫好您的安全帶。",
+     "synonyms": [
+      "fasten",
+      "fix"
+     ],
+     "collocations": [
+      "secure the door",
+      "secure the package"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+   "title_zh": "伊利諾州乙醇工廠發現炸彈，疏散區已解除",
+   "summary_en": "A bomb was found at a factory in Illinois. People living nearby had to leave their homes for safety. The police defused the bomb and lifted the evacuation order.",
+   "summary_zh": "伊利諾州的一家工廠發現了炸彈。附近的居民為了安全必須離開家園。警方已拆除炸彈並解除了疏散令。",
+   "why_important_en": "It shows how authorities respond to public safety threats.",
+   "why_important_zh": "這顯示了當局如何應對公共安全威脅。",
+   "vocab": [
+    {
+     "word": "local",
+     "pos": "adj.",
+     "kk": "[ˈloʊkəl]",
+     "meaning_zh": "當地的",
+     "definition_en": "Related to the area where you live.",
+     "sentence_en": "I like to buy fresh fruit at the local market.",
+     "sentence_zh": "我喜歡在當地的市場買新鮮水果。",
+     "synonyms": [
+      "nearby",
+      "regional"
+     ],
+     "collocations": [
+      "local business",
+      "local community"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "investigate",
+     "pos": "v.",
+     "kk": "[ɪnˈvɛstɪˌɡeɪt]",
+     "meaning_zh": "調查",
+     "definition_en": "To try to find out the facts about something.",
+     "sentence_en": "The police will investigate the cause of the accident.",
+     "sentence_zh": "警方將調查事故的原因。",
+     "synonyms": [
+      "examine",
+      "look into"
+     ],
+     "collocations": [
+      "investigate the case",
+      "investigate the issue"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+   "title_zh": "菲律賓歌手 Carmelle 贏得首屆亞洲歐洲歌唱大賽",
+   "summary_en": "Carmelle Collado from the Philippines won the first Eurovision contest in Asia. The event happened in Bangkok. Eleven countries took part in the show.",
+   "summary_zh": "來自菲律賓的 Carmelle Collado 贏得了首屆亞洲歐洲歌唱大賽。活動在曼谷舉行，共有 11 個國家參與演出。",
+   "why_important_en": "This marks the expansion of a major international cultural event to a new region.",
+   "why_important_zh": "這標誌著一項大型國際文化活動擴展到了新的地區。",
+   "vocab": [
+    {
+     "word": "compete",
+     "pos": "v.",
+     "kk": "[kəmˈpit]",
+     "meaning_zh": "競爭；參賽",
+     "definition_en": "To try to win against others.",
+     "sentence_en": "Many companies compete for the same customers.",
+     "sentence_zh": "許多公司為了爭取相同的客戶而競爭。",
+     "synonyms": [
+      "contest",
+      "rival"
+     ],
+     "collocations": [
+      "compete in a race",
+      "compete with others"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "victory",
+     "pos": "n.",
+     "kk": "[ˈvɪktəri]",
+     "meaning_zh": "勝利",
+     "definition_en": "The act of winning a game or competition.",
+     "sentence_en": "The team celebrated their victory after the final game.",
+     "sentence_zh": "球隊在最後一場比賽後慶祝他們的勝利。",
+     "synonyms": [
+      "win",
+      "success"
+     ],
+     "collocations": [
+      "achieve victory",
+      "celebrate a victory"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-15/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-15/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-15/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-15/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-15/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-15/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-15/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-15/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-15/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-15/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-15/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-15/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-15/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-15/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-15/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-15/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-15/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-15/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-15/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-15/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-15/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-15/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-15/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-15/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-15/n5-w2-ex.mp3"
+ }
+}
