@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-13（[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)）
+## 最新一期：2026-11-14（[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)）
 
-1. Who could replace the departed Jensen Huang as Nvidia CEO?
-2. U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi
-3. Suspected bomb hoax threats force fresh evacuations of Italian schools
-4. Hegseth gives medal to guard who reprimanded him at Arlington national cemetery
-5. Microsoft begins restoring services amid global outage affecting Outlook and Teams
+1. Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams
+2. Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US
+3. US Air Force responds to suspected drone activity at RAF Lakenheath
+4. Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing
+5. At least 24 killed after bus collides with truck in north-east India
 
 ## 歷史清單
 
+- 2026-11-14：[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)｜[Anki](anki/2026-11-14.csv)
 - 2026-11-13：[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)｜[Anki](anki/2026-11-13.csv)
 - 2026-11-12：[中文版](news/2026-11-12.md)｜[English only](news_en/2026-11-12.md)｜[Anki](anki/2026-11-12.csv)
 - 2026-11-11：[中文版](news/2026-11-11.md)｜[English only](news_en/2026-11-11.md)｜[Anki](anki/2026-11-11.csv)

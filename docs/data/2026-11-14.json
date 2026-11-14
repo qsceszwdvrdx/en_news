@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-14",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+   "title_zh": "微軟系統大當機：公司緊急修復導致 Outlook 與 Teams 無法使用的全球性問題",
+   "summary_en": "Microsoft had a big technical problem that affected many users around the world. Popular services like Outlook and Teams stopped working for a while. The company apologized and said they have fixed the issue.",
+   "summary_zh": "微軟發生了嚴重的技術問題，影響了全球許多用戶。Outlook 和 Teams 等熱門服務一度無法使用。公司已道歉並表示問題已經修復。",
+   "why_important_en": "This shows how much we rely on technology for daily work and communication. When big systems fail, it causes problems for businesses and public services.",
+   "why_important_zh": "這顯示了我們在日常工作與溝通中對科技的依賴程度。當大型系統故障時，會對企業與公共服務造成困擾。",
+   "vocab": [
+    {
+     "word": "issue",
+     "pos": "n.",
+     "kk": "[ˈɪʃu]",
+     "meaning_zh": "問題",
+     "definition_en": "A problem or a subject that people are talking about.",
+     "sentence_en": "We need to discuss this issue at the next meeting.",
+     "sentence_zh": "我們需要在下次會議討論這個問題。",
+     "synonyms": [
+      "problem",
+      "matter"
+     ],
+     "collocations": [
+      "resolve an issue",
+      "technical issue"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "disruption",
+     "pos": "n.",
+     "kk": "[dɪsˈrʌpʃən]",
+     "meaning_zh": "中斷、混亂",
+     "definition_en": "A situation where something is stopped or prevented from continuing as usual.",
+     "sentence_en": "The road construction caused a major disruption to traffic.",
+     "sentence_zh": "道路施工造成了嚴重的交通中斷。",
+     "synonyms": [
+      "interruption",
+      "disturbance"
+     ],
+     "collocations": [
+      "cause disruption",
+      "avoid disruption"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+   "title_zh": "全美 FAA 停飛令：美國各地機場近 11,000 個航班延誤或取消",
+   "summary_en": "The US aviation authority stopped all flights across the country due to a communication error. This caused thousands of flights to be delayed or canceled on Friday. Officials said there was no sign of a criminal attack.",
+   "summary_zh": "美國航空管理局因通訊錯誤暫停了全國所有航班。這導致週五有數千個航班延誤或取消。官員表示沒有跡象顯示這是犯罪攻擊。",
+   "why_important_en": "Air travel is essential for the economy, and large-scale delays affect thousands of travelers and businesses.",
+   "why_important_zh": "航空旅行對經濟至關重要，大規模的延誤會影響數千名旅客與企業。",
+   "vocab": [
+    {
+     "word": "delay",
+     "pos": "v.",
+     "kk": "[dɪˈle]",
+     "meaning_zh": "延誤",
+     "definition_en": "To make something happen later than it was planned.",
+     "sentence_en": "The heavy rain will delay our flight by two hours.",
+     "sentence_zh": "大雨會讓我們的航班延誤兩小時。",
+     "synonyms": [
+      "postpone",
+      "hold up"
+     ],
+     "collocations": [
+      "flight delay",
+      "without delay"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "cancel",
+     "pos": "v.",
+     "kk": "[ˈkænsəl]",
+     "meaning_zh": "取消",
+     "definition_en": "To decide that a planned event will not happen.",
+     "sentence_en": "Please call the hotel to cancel your room reservation.",
+     "sentence_zh": "請打電話給飯店取消你的訂房。",
+     "synonyms": [
+      "call off",
+      "drop"
+     ],
+     "collocations": [
+      "cancel a meeting",
+      "cancel an order"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "US Air Force responds to suspected drone activity at RAF Lakenheath",
+   "title_zh": "美國空軍回應 RAF Lakenheath 疑似無人機活動",
+   "summary_en": "The US Air Force checked reports of unauthorized drones at an airbase in England. They confirmed that no people or equipment were harmed. The base remains safe.",
+   "summary_zh": "美國空軍調查了英國一處空軍基地出現未經授權無人機的報告。他們確認沒有人員或設備受到傷害。基地目前安全。",
+   "why_important_en": "Security at military bases is very important to protect national safety and defense equipment.",
+   "why_important_zh": "軍事基地的安全對於保護國家安全與防禦設備至關重要。",
+   "vocab": [
+    {
+     "word": "activity",
+     "pos": "n.",
+     "kk": "[ækˈtɪvɪti]",
+     "meaning_zh": "活動",
+     "definition_en": "The state of doing things or being busy.",
+     "sentence_en": "There is a lot of activity at the office today.",
+     "sentence_zh": "辦公室今天有很多活動。",
+     "synonyms": [
+      "action",
+      "movement"
+     ],
+     "collocations": [
+      "business activity",
+      "physical activity"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "equipment",
+     "pos": "n.",
+     "kk": "[ɪˈkwɪpmənt]",
+     "meaning_zh": "設備、器材",
+     "definition_en": "The set of necessary tools or machines for a particular purpose.",
+     "sentence_en": "The gym has new equipment for all the members.",
+     "sentence_zh": "健身房有供所有會員使用的新器材。",
+     "synonyms": [
+      "gear",
+      "tools"
+     ],
+     "collocations": [
+      "office equipment",
+      "safety equipment"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+   "title_zh": "烏克蘭前總理的助手在莫斯科汽車炸彈攻擊中受傷",
+   "summary_en": "A former adviser to a Ukrainian politician was hurt in a car explosion in Moscow. The man now works as a journalist. This is the latest in a series of attacks.",
+   "summary_zh": "一位烏克蘭政治人物的前顧問在莫斯科的一場汽車爆炸中受傷。該男子目前擔任記者。這是近期一系列攻擊事件中的最新一起。",
+   "why_important_en": "Targeted attacks on political figures can increase tensions between countries and affect regional stability.",
+   "why_important_zh": "針對政治人物的攻擊可能會加劇國家間的緊張局勢，並影響區域穩定。",
+   "vocab": [
+    {
+     "word": "wounded",
+     "pos": "adj.",
+     "kk": "[ˈwundɪd]",
+     "meaning_zh": "受傷的",
+     "definition_en": "Injured by a weapon or in an accident.",
+     "sentence_en": "The soldier was wounded during the training exercise.",
+     "sentence_zh": "士兵在訓練演習中受傷了。",
+     "synonyms": [
+      "injured",
+      "hurt"
+     ],
+     "collocations": [
+      "badly wounded",
+      "seriously wounded"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "latest",
+     "pos": "adj.",
+     "kk": "[ˈletɪst]",
+     "meaning_zh": "最新的",
+     "definition_en": "The most recent or newest thing.",
+     "sentence_en": "Have you seen the latest report on our sales?",
+     "sentence_zh": "你看過我們最新的銷售報告了嗎？",
+     "synonyms": [
+      "newest",
+      "most recent"
+     ],
+     "collocations": [
+      "latest news",
+      "latest version"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "At least 24 killed after bus collides with truck in north-east India",
+   "title_zh": "印度東北部巴士與卡車相撞，至少 24 人死亡",
+   "summary_en": "A bus and a truck crashed in India, killing at least 24 people. Some of the victims were college students. Local officials are still working to identify everyone.",
+   "summary_zh": "印度發生巴士與卡車相撞事故，造成至少 24 人死亡。部分受害者是大學生。當地官員仍在確認所有人的身分。",
+   "why_important_en": "Road accidents are a major cause of death, and this tragic event highlights the need for better road safety.",
+   "why_important_zh": "交通事故是死亡的主要原因之一，這起悲劇凸顯了改善道路安全的需求。",
+   "vocab": [
+    {
+     "word": "collide",
+     "pos": "v.",
+     "kk": "[kəˈlaɪd]",
+     "meaning_zh": "碰撞",
+     "definition_en": "To hit something with force while moving.",
+     "sentence_en": "The two cars collided at the busy intersection.",
+     "sentence_zh": "兩輛車在繁忙的十字路口相撞了。",
+     "synonyms": [
+      "crash",
+      "hit"
+     ],
+     "collocations": [
+      "collide with",
+      "head-on collision"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "identify",
+     "pos": "v.",
+     "kk": "[aɪˈdɛntəˌfaɪ]",
+     "meaning_zh": "確認身分",
+     "definition_en": "To recognize someone or something and say who or what they are.",
+     "sentence_en": "Can you identify the person in this photo?",
+     "sentence_zh": "你能認出這張照片裡的人是誰嗎？",
+     "synonyms": [
+      "recognize",
+      "distinguish"
+     ],
+     "collocations": [
+      "identify a problem",
+      "identify the cause"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-14/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-14/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-14/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-14/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-14/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-14/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-14/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-14/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-14/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-14/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-14/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-14/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-14/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-14/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-14/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-14/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-14/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-14/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-14/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-14/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-14/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-14/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-14/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-14/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-14/n5-w2-ex.mp3"
+ }
+}
