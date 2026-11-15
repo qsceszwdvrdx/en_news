@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-16",
+  "runs": [
+    {
+      "started_at": "2026-11-16T07:56:40+08:00",
+      "seconds": 94.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/43777481349",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 20,
+          "entries_recent": 15,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.29
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 23,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.13
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.1
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.47
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "The Guardian World",
+          "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+          "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Czechs rally against plan to switch funding of public media",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+          "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+          "cluster_sources": [
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 86.2
+          }
+        ],
+        "used_model": "gemini-3.8-flash",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 148,
+      "tts": {
+        "enabled": true,
+        "ok": 39,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}

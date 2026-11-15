@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-15（[中文版](news/2026-11-15.md)｜[English only](news_en/2026-11-15.md)）
+## 最新一期：2026-11-16（[中文版](news/2026-11-16.md)｜[English only](news_en/2026-11-16.md)）
 
-1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-2. Italy fines Meta €805m over accessing users' photos
-3. SpaceX successfully catches Starship and makes history
-4. Evacuation zone lifted after bomb found at Illinois ethanol plant
-5. Philippines’ Carmelle wins first Eurovision contest in Asia
+1. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
+2. 'Steering casualty' preceded New Orleans cruise ship collision, says NTSB
+3. Czechs rally against plan to switch funding of public media
+4. Three men sentenced to death in Jordan over fatal church mass shooting
+5. Estonia to close all border crossings with Russia after attack on drone maker
 
 ## 歷史清單
 
+- 2026-11-16：[中文版](news/2026-11-16.md)｜[English only](news_en/2026-11-16.md)｜[Anki](anki/2026-11-16.csv)
 - 2026-11-15：[中文版](news/2026-11-15.md)｜[English only](news_en/2026-11-15.md)｜[Anki](anki/2026-11-15.csv)
 - 2026-11-14：[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)｜[Anki](anki/2026-11-14.csv)
 - 2026-11-13：[中文版](news/2026-11-13.md)｜[English only](news_en/2026-11-13.md)｜[Anki](anki/2026-11-13.csv)

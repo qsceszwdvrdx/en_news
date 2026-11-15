@@ -1,0 +1,427 @@
+{
+ "date": "2026-11-16",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+   "title_zh": "160題只錯一題：南韓稅務考試榜首坦承用AI作弊",
+   "summary_en": "A top scorer in South Korea's tax exam confessed that he used generative AI to cheat. People became suspicious after he got almost perfect marks on two hard exams. This scandal makes people worry about cheating in the upcoming national college entrance exam.",
+   "summary_zh": "南韓一名稅務考試榜首坦承利用生成式AI作弊。他在兩場艱難考試中取得近乎滿分的成績，引發了人們的懷疑。這起醜聞讓人們開始擔心即將到來的全國大學聯考可能也會出現作弊情況。",
+   "why_important_en": "This news shows how modern AI technology can threaten the fairness of important exams.",
+   "why_important_zh": "這則新聞顯示了現代AI技術可能威脅重大考試的公平性。",
+   "vocab": [
+    {
+     "word": "admit",
+     "pos": "v.",
+     "kk": "[ədˈmɪt]",
+     "meaning_zh": "承認",
+     "definition_en": "to agree that something bad or embarrassing is true",
+     "sentence_en": "He did not want to admit that he made a mistake at work.",
+     "sentence_zh": "他不想承認自己在工作上犯了錯。",
+     "synonyms": [
+      "confess",
+      "accept"
+     ],
+     "collocations": [
+      "admit a mistake",
+      "admit defeat"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "score",
+     "pos": "v.",
+     "kk": "[skɔr]",
+     "meaning_zh": "得分；獲得分數",
+     "definition_en": "to win or get points in a game, test, or competition",
+     "sentence_en": "She scored very high on her English speaking test yesterday.",
+     "sentence_zh": "她昨天的英語口說測驗拿了很高的分數。",
+     "synonyms": [
+      "achieve",
+      "gain"
+     ],
+     "collocations": [
+      "score high",
+      "score points"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "annual",
+     "pos": "adj.",
+     "kk": "[ˈænjuəl]",
+     "meaning_zh": "年度的；一年一度的",
+     "definition_en": "happening once every year",
+     "sentence_en": "Our company holds an annual meeting for all staff in December.",
+     "sentence_zh": "我們公司在十二月會為全體員工舉辦年度會議。",
+     "synonyms": [
+      "yearly"
+     ],
+     "collocations": [
+      "annual report",
+      "annual meeting"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "organizer",
+     "pos": "n.",
+     "kk": "[ˈɔrɡənaɪzɚ]",
+     "meaning_zh": "主辦單位；組織者",
+     "definition_en": "a person or group that plans and arranges an event",
+     "sentence_en": "The event organizers sent an email with the new schedule.",
+     "sentence_zh": "活動主辦方寄出了一封附有新日程表的電子郵件。",
+     "synonyms": [
+      "planner",
+      "coordinator"
+     ],
+     "collocations": [
+      "event organizer",
+      "meeting organizer"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+   "title_zh": "國家運輸安全委員會表示，紐奧良郵輪碰撞前曾發生「轉向失靈故障」",
+   "summary_en": "A tanker collided with a cruise ship in New Orleans on Friday. Early investigations show that the tanker suffered a steering problem right before the accident.",
+   "summary_zh": "一艘油輪週五在紐奧良與一艘郵輪發生碰撞。初步調查顯示，該油輪在事故發生前遭遇了轉向故障。",
+   "why_important_en": "It explains the main mechanical problem behind a serious ship accident.",
+   "why_important_zh": "它說明了導致這起重大船隻碰撞事故背後的主要機械故障。",
+   "vocab": [
+    {
+     "word": "preliminary",
+     "pos": "adj.",
+     "kk": "[prɪˈlɪmənɛri]",
+     "meaning_zh": "初步的",
+     "definition_en": "coming before the main part or final result",
+     "sentence_en": "The team shared preliminary results before the final report was ready.",
+     "sentence_zh": "團隊在最終報告準備好之前分享了初步結果。",
+     "synonyms": [
+      "initial",
+      "early"
+     ],
+     "collocations": [
+      "preliminary report",
+      "preliminary results"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "failure",
+     "pos": "n.",
+     "kk": "[ˈfeljɚ]",
+     "meaning_zh": "故障；失效",
+     "definition_en": "a state where a machine or system stops working correctly",
+     "sentence_en": "A power failure caused the office computers to shut down.",
+     "sentence_zh": "電力故障導致辦公室電腦全部關機。",
+     "synonyms": [
+      "breakdown",
+      "malfunction"
+     ],
+     "collocations": [
+      "engine failure",
+      "system failure"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "collide",
+     "pos": "v.",
+     "kk": "[kəˈlaɪd]",
+     "meaning_zh": "碰撞；相撞",
+     "definition_en": "to hit something or someone by accident while moving",
+     "sentence_en": "Two cars collided at the busy intersection this morning.",
+     "sentence_zh": "今天早上有兩輛車在繁忙的十字路口相撞了。",
+     "synonyms": [
+      "crash",
+      "hit"
+     ],
+     "collocations": [
+      "collide with"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Czechs rally against plan to switch funding of public media",
+   "title_zh": "捷克民眾集會抗議改變公共媒體資金來源的計畫",
+   "summary_en": "People in the Czech Republic gathered to protest a government funding plan for public media. Protesters worry this move will harm press freedom, but the government says it must reduce costs.",
+   "summary_zh": "捷克民眾聚集抗議政府針對公共媒體的資金計畫。抗議者擔心此舉會損害新聞自由，但政府堅稱必須削減開支。",
+   "why_important_en": "It shows the public debate between protecting free speech and cutting government spending.",
+   "why_important_zh": "它展現了大眾在捍衛新聞自由與縮減政府支出之間的爭辯。",
+   "vocab": [
+    {
+     "word": "rally",
+     "pos": "v.",
+     "kk": "[ˈræli]",
+     "meaning_zh": "集會；集合",
+     "definition_en": "to come together in a large group to support or oppose something",
+     "sentence_en": "Local residents rallied to protect the old library in town.",
+     "sentence_zh": "當地居民聚集起來保護鎮上的老圖書館。",
+     "synonyms": [
+      "gather",
+      "assemble"
+     ],
+     "collocations": [
+      "rally against",
+      "rally behind"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "funding",
+     "pos": "n.",
+     "kk": "[ˈfʌndɪŋ]",
+     "meaning_zh": "資金；經費",
+     "definition_en": "money given by an organization or government for a special purpose",
+     "sentence_en": "The new community center needs more funding to finish construction.",
+     "sentence_zh": "新社區中心需要更多資金來完成建設。",
+     "synonyms": [
+      "financing",
+      "budget"
+     ],
+     "collocations": [
+      "receive funding",
+      "government funding"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "insist",
+     "pos": "v.",
+     "kk": "[ɪnˈsɪst]",
+     "meaning_zh": "堅持；執意要求",
+     "definition_en": "to say firmly that something is true or must be done",
+     "sentence_en": "My manager insisted that we check every contract carefully.",
+     "sentence_zh": "我的經理堅持要求我們仔細檢查每一份合約。",
+     "synonyms": [
+      "demand",
+      "maintain"
+     ],
+     "collocations": [
+      "insist on",
+      "insist that"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "title_zh": "約旦教堂致命大規模槍擊案：三名男子被判處死刑",
+   "summary_en": "A court in Jordan sentenced three men to death for a deadly mass shooting. The attack happened at a church funeral last month, leaving nine people dead and 34 others wounded.",
+   "summary_zh": "約旦一家法院判處涉嫌致命大規模槍擊案的三名男子死刑。該攻擊事件於上個月發生在一場教堂葬禮上，造成9人死亡、34人受傷。",
+   "why_important_en": "This decision shows severe legal punishment for violent crimes against religious gatherings.",
+   "why_important_zh": "這項裁決展示了針對宗教聚會施行暴力罪行的嚴厲法律制裁。",
+   "vocab": [
+    {
+     "word": "fatal",
+     "pos": "adj.",
+     "kk": "[ˈfetl]",
+     "meaning_zh": "致命的",
+     "definition_en": "causing someone to die",
+     "sentence_en": "The driver wore a seatbelt and avoided a fatal injury.",
+     "sentence_zh": "駕駛繫了安全帶，因而避開了致命傷害。",
+     "synonyms": [
+      "deadly",
+      "lethal"
+     ],
+     "collocations": [
+      "fatal accident",
+      "fatal error"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "sentence",
+     "pos": "v.",
+     "kk": "[ˈsɛntəns]",
+     "meaning_zh": "判刑；宣判",
+     "definition_en": "to give a punishment to someone in a law court",
+     "sentence_en": "The judge will sentence the thief tomorrow morning.",
+     "sentence_zh": "法官將在明天上午對該竊賊進行宣判。",
+     "synonyms": [
+      "penalize",
+      "convict"
+     ],
+     "collocations": [
+      "sentence to death",
+      "sentence to prison"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "injure",
+     "pos": "v.",
+     "kk": "[ˈɪndʒɚ]",
+     "meaning_zh": "使受傷；傷害",
+     "definition_en": "to hurt a person or part of the body",
+     "sentence_en": "He injured his shoulder while moving heavy boxes into the house.",
+     "sentence_zh": "他把重箱子搬進屋子時弄傷了肩膀。",
+     "synonyms": [
+      "hurt",
+      "harm"
+     ],
+     "collocations": [
+      "badly injured",
+      "injure oneself"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "title_zh": "無人機製造商遭攻擊後，愛沙尼亞將關閉所有與俄羅斯接壤的邊境檢查站",
+   "summary_en": "Estonia plans to shut all its border crossings with Russia starting December 1. This comes after an attempted attack on an Estonian drone factory. Eight suspects were arrested, and officials reported no injuries or property damage.",
+   "summary_zh": "愛沙尼亞計劃自12月1日起關閉所有與俄羅斯接壤的邊境檢查站。在此之前，一家愛沙尼亞無人機工廠遭到未遂襲擊。共有8名嫌疑人被捕，官方表示無人受傷且無財物損失。",
+   "why_important_en": "Border closures affect travel, commerce, and international relations between neighboring nations.",
+   "why_important_zh": "關閉邊界會對鄰國之間的旅行、商業活動與國際關係造成直接影響。",
+   "vocab": [
+    {
+     "word": "border",
+     "pos": "n.",
+     "kk": "[ˈbɔrdɚ]",
+     "meaning_zh": "國界；邊界",
+     "definition_en": "the line that divides two countries or areas",
+     "sentence_en": "You must show your passport when you cross the national border.",
+     "sentence_zh": "跨越國界時，你必須出示護照。",
+     "synonyms": [
+      "boundary",
+      "frontier"
+     ],
+     "collocations": [
+      "border control",
+      "cross the border"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "suspect",
+     "pos": "v.",
+     "kk": "[səˈspɛkt]",
+     "meaning_zh": "懷疑；猜想",
+     "definition_en": "to think that something might be true or that someone did wrong",
+     "sentence_en": "I suspect that our flight will be delayed because of the storm.",
+     "sentence_zh": "我猜想我們的航班可能會因為暴風雨而延誤。",
+     "synonyms": [
+      "doubt",
+      "distrust"
+     ],
+     "collocations": [
+      "suspect that",
+      "strongly suspect"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "manufacture",
+     "pos": "v.",
+     "kk": "[ˌmænjəˈfæktʃɚ]",
+     "meaning_zh": "製造；生產",
+     "definition_en": "to produce goods in large numbers using machines",
+     "sentence_en": "This local factory manufactures electronic parts for mobile phones.",
+     "sentence_zh": "這家在地工廠專門生產手機用電子零件。",
+     "synonyms": [
+      "produce",
+      "make"
+     ],
+     "collocations": [
+      "manufacture goods",
+      "manufacture products"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "damage",
+     "pos": "n.",
+     "kk": "[ˈdæmɪdʒ]",
+     "meaning_zh": "損害；損失",
+     "definition_en": "physical harm caused to something",
+     "sentence_en": "The strong wind caused severe damage to the hotel roof.",
+     "sentence_zh": "強風對飯店屋頂造成了嚴重的損害。",
+     "synonyms": [
+      "harm",
+      "ruin"
+     ],
+     "collocations": [
+      "cause damage",
+      "property damage"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-16/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-16/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-16/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-16/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-16/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-16/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-16/n1-w3-ex.mp3",
+  "n1-w4": "audio/2026-11-16/n1-w4.mp3",
+  "n1-w4-ex": "audio/2026-11-16/n1-w4-ex.mp3",
+  "n2-summary": "audio/2026-11-16/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-16/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-16/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-16/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-16/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-16/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-16/n2-w3-ex.mp3",
+  "n3-summary": "audio/2026-11-16/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-16/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-16/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-16/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-16/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-16/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-16/n3-w3-ex.mp3",
+  "n4-summary": "audio/2026-11-16/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-16/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-16/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-16/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-16/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-16/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-16/n4-w3-ex.mp3",
+  "n5-summary": "audio/2026-11-16/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-16/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-16/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-16/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-16/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-16/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-16/n5-w3-ex.mp3",
+  "n5-w4": "audio/2026-11-16/n5-w4.mp3",
+  "n5-w4-ex": "audio/2026-11-16/n5-w4-ex.mp3"
+ }
+}
