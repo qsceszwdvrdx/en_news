@@ -1,0 +1,449 @@
+{
+ "date": "2026-11-17",
+ "news": [
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+   "title_zh": "琳賽·克蘭西因涉嫌殺害三名子女將於 2027 年春季面臨新審判",
+   "summary_en": "A court in Massachusetts set a new trial for Lindsay Clancy in 2027. Prosecutors want to convict her for the death of her three young children.",
+   "summary_zh": "麻薩諸塞州法院已將琳賽·克蘭西的新審判安排在 2027 年。檢察官正尋求將她定罪，指控她殺害三名年幼子女。",
+   "why_important_en": "This case shows how the legal system deals with tragic family crimes and mental health questions.",
+   "why_important_zh": "此案展現了法律體系如何處理悲劇性的家庭犯罪與心理健康問題。",
+   "vocab": [
+    {
+     "word": "trial",
+     "pos": "n.",
+     "kk": "[ˈtraɪəl]",
+     "meaning_zh": "審判；試驗",
+     "definition_en": "a formal meeting in a court to decide if someone is guilty of a crime",
+     "sentence_en": "You can sign up for a free thirty-day trial on their website.",
+     "sentence_zh": "你可以在他們的網站上註冊三十天的免費試用。",
+     "synonyms": [
+      "hearing",
+      "court case"
+     ],
+     "collocations": [
+      "free trial",
+      "stand trial"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "seek",
+     "pos": "v.",
+     "kk": "[sik]",
+     "meaning_zh": "尋找；尋求",
+     "definition_en": "to try to find or get something",
+     "sentence_en": "Our company is seeking an experienced manager for the sales team.",
+     "sentence_zh": "我們公司正在為業務團隊尋找一位有經驗的主管。",
+     "synonyms": [
+      "look for",
+      "search for"
+     ],
+     "collocations": [
+      "seek advice",
+      "seek help"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "conviction",
+     "pos": "n.",
+     "kk": "[kənˈvɪkʃən]",
+     "meaning_zh": "定罪；判罪",
+     "definition_en": "an official decision in court that someone is guilty of a crime",
+     "sentence_en": "She answered every interview question with strong confidence and conviction.",
+     "sentence_zh": "她帶著堅定的自信與信念回答了每一個面試問題。",
+     "synonyms": [
+      "sentence",
+      "verdict"
+     ],
+     "collocations": [
+      "criminal conviction",
+      "firm conviction"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Gérard Depardieu drops appeal against sexual assault conviction",
+   "title_zh": "傑哈·德巴狄厄放棄對性侵定罪的判決上訴",
+   "summary_en": "French actor Gérard Depardieu decided to stop his appeal against a court conviction. He accepted the guilty verdict and said he is deeply sorry to the two victims.",
+   "summary_zh": "法國演員傑哈·德巴狄厄決定放棄對法院定罪判決的上訴。他接受了有罪判決，並表示對兩名受害者深感抱歉。",
+   "why_important_en": "It shows that high-profile celebrities are being held accountable for past misconduct.",
+   "why_important_zh": "這顯示知名公眾人物正在為過去的不當行為承擔責任。",
+   "vocab": [
+    {
+     "word": "appeal",
+     "pos": "n.",
+     "kk": "[əˈpil]",
+     "meaning_zh": "上訴；吸引力",
+     "definition_en": "a formal request to a higher court to change a legal decision",
+     "sentence_en": "The modern design of this smartphone has a wide appeal to young people.",
+     "sentence_zh": "這款智慧型手機的現代設計對年輕人很有吸引力。",
+     "synonyms": [
+      "petition",
+      "attraction"
+     ],
+     "collocations": [
+      "make an appeal",
+      "broad appeal"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "apologize",
+     "pos": "v.",
+     "kk": "[əˈpɑləˌdʒaɪz]",
+     "meaning_zh": "道歉",
+     "definition_en": "to say sorry for doing something wrong",
+     "sentence_en": "I must apologize for arriving late to our morning meeting.",
+     "sentence_zh": "我很抱歉早上的會議遲到了。",
+     "synonyms": [
+      "say sorry",
+      "regret"
+     ],
+     "collocations": [
+      "apologize for",
+      "apologize to"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "accept",
+     "pos": "v.",
+     "kk": "[əkˈsɛpt]",
+     "meaning_zh": "接受；承認",
+     "definition_en": "to agree to take something or admit that something is true",
+     "sentence_en": "Does this coffee shop accept credit cards or mobile payments?",
+     "sentence_zh": "這家咖啡店接受信用卡或行動支付嗎？",
+     "synonyms": [
+      "agree to",
+      "receive"
+     ],
+     "collocations": [
+      "accept an offer",
+      "accept responsibility"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "sincere",
+     "pos": "adj.",
+     "kk": "[sɪnˈsɪr]",
+     "meaning_zh": "真誠的；誠摯的",
+     "definition_en": "honest and saying what you really feel",
+     "sentence_en": "Thank you for your sincere help during my first week at work.",
+     "sentence_zh": "謝謝你在我上班第一週給予的真誠協助。",
+     "synonyms": [
+      "honest",
+      "genuine"
+     ],
+     "collocations": [
+      "sincere thanks",
+      "sincere apology"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Five EU countries announce migrant deportation centre in Rwanda",
+   "title_zh": "五個歐盟國家宣布在盧安達設立移民遣返中心",
+   "summary_en": "Five European nations announced a new centre in Rwanda. They plan to send failed asylum seekers there.",
+   "summary_zh": "五個歐洲國家宣布在盧安達設立一個新中心。他們計劃將申請庇護失敗的人送往那裡。",
+   "why_important_en": "European countries are testing new ways outside Europe to manage immigration problems.",
+   "why_important_zh": "歐洲國家正在嘗試在歐洲境外處理移民問題的新方式。",
+   "vocab": [
+    {
+     "word": "announce",
+     "pos": "v.",
+     "kk": "[əˈnaʊns]",
+     "meaning_zh": "宣布；公布",
+     "definition_en": "to tell people something officially",
+     "sentence_en": "The airline will announce our departure gate in a few minutes.",
+     "sentence_zh": "航空公司會在幾分鐘內公布我們的登機門。",
+     "synonyms": [
+      "declare",
+      "state"
+     ],
+     "collocations": [
+      "announce plans",
+      "announce officially"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "hub",
+     "pos": "n.",
+     "kk": "[hʌb]",
+     "meaning_zh": "中心；樞紐",
+     "definition_en": "the central and most active part of a place or system",
+     "sentence_en": "This busy airport serves as a major hub for international flights.",
+     "sentence_zh": "這座繁忙的機場是國際航班的重要樞紐。",
+     "synonyms": [
+      "center",
+      "core"
+     ],
+     "collocations": [
+      "transport hub",
+      "communication hub"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "fail",
+     "pos": "v.",
+     "kk": "[fel]",
+     "meaning_zh": "失敗；不及格",
+     "definition_en": "to not succeed in doing something",
+     "sentence_en": "Please call this number if you fail to open the electronic lock.",
+     "sentence_zh": "如果您無法打開電子鎖，請撥打此號碼。",
+     "synonyms": [
+      "be unsuccessful",
+      "drop short"
+     ],
+     "collocations": [
+      "fail to do",
+      "fail an exam"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "title_zh": "五個歐盟成員國宣布在盧安達設立移民「遣返樞紐」計畫",
+   "summary_en": "Five EU nations plan to build an offshore center in Rwanda for people without legal rights to stay. This plan uses a new EU law, but critics call it morally wrong.",
+   "summary_zh": "五個歐盟國家計劃在盧安達建立境外中心，安置無合法居留權的人。該計畫利用了歐盟新法規，但批評者認為這在道德上有嚴重瑕疵。",
+   "why_important_en": "This policy could change how European nations enforce immigration rules and handle legal appeals.",
+   "why_important_zh": "該政策可能會改變歐洲各國執行移民規定及處理法律上訴的方式。",
+   "vocab": [
+    {
+     "word": "challenge",
+     "pos": "n.",
+     "kk": "[ˈtʃælɪndʒ]",
+     "meaning_zh": "挑戰；難題",
+     "definition_en": "something difficult that tests your ability and skill",
+     "sentence_en": "Moving to a foreign city for work can be an exciting challenge.",
+     "sentence_zh": "為了工作搬到國外城市可能是一個令人興奮的挑戰。",
+     "synonyms": [
+      "difficulty",
+      "test"
+     ],
+     "collocations": [
+      "face a challenge",
+      "major challenge"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "legal",
+     "pos": "adj.",
+     "kk": "[ˈliɡəl]",
+     "meaning_zh": "合法的；法律的",
+     "definition_en": "allowed by the law or relating to the law",
+     "sentence_en": "You should get some professional legal advice before signing this rental contract.",
+     "sentence_zh": "在簽訂這份租賃合約之前，你應該先取得專業的法律諮詢。",
+     "synonyms": [
+      "lawful",
+      "official"
+     ],
+     "collocations": [
+      "legal advice",
+      "legal right"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "exhaust",
+     "pos": "v.",
+     "kk": "[ɪɡˈzɔst]",
+     "meaning_zh": "用盡；耗盡",
+     "definition_en": "to use up completely, such as supplies or options",
+     "sentence_en": "We have exhausted all our options to find a cheap hotel room.",
+     "sentence_zh": "我們已經用盡所有尋找平價飯店房間的辦法了。",
+     "synonyms": [
+      "use up",
+      "deplete"
+     ],
+     "collocations": [
+      "exhaust all options",
+      "exhaust resources"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "criticize",
+     "pos": "v.",
+     "kk": "[ˈkrɪtəˌsaɪz]",
+     "meaning_zh": "批評；挑剔",
+     "definition_en": "to express disapproval of someone or something",
+     "sentence_en": "It is not polite to criticize your coworker's taste in clothing.",
+     "sentence_zh": "批評同事的穿衣品味是不禮貌的。",
+     "synonyms": [
+      "blame",
+      "judge"
+     ],
+     "collocations": [
+      "heavily criticize",
+      "criticize someone for"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "California sues OpenAI over hacking risks",
+   "title_zh": "加州因駭客攻擊風險起訴 OpenAI",
+   "summary_en": "California is suing OpenAI over poor security. Officials say the company should have easily predicted the recent cyberattack.",
+   "summary_zh": "加州政府因資安防護不足起訴 OpenAI。官員表示，該公司本應能夠輕易預見近期的網路攻擊。",
+   "why_important_en": "Governments are taking stronger legal actions to make tech companies protect user data and cybersecurity.",
+   "why_important_zh": "政府正採取更強硬的法律行動，迫使科技公司保護用戶資料與網路安全。",
+   "vocab": [
+    {
+     "word": "sue",
+     "pos": "v.",
+     "kk": "[su]",
+     "meaning_zh": "起訴；控告",
+     "definition_en": "to make a legal claim against someone in court",
+     "sentence_en": "The customer threatened to sue the store after slipping on the wet floor.",
+     "sentence_zh": "顧客在濕滑的地板上滑倒後威脅要起訴這家店。",
+     "synonyms": [
+      "take to court",
+      "charge"
+     ],
+     "collocations": [
+      "sue someone for",
+      "threaten to sue"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "investigate",
+     "pos": "v.",
+     "kk": "[ɪnˈvɛstəˌɡet]",
+     "meaning_zh": "調查；研究",
+     "definition_en": "to examine a problem or crime carefully to discover the truth",
+     "sentence_en": "The manager promised to investigate the customer complaint right away.",
+     "sentence_zh": "經理承諾會立即調查這起客戶投訴。",
+     "synonyms": [
+      "examine",
+      "look into"
+     ],
+     "collocations": [
+      "investigate a complaint",
+      "investigate thoroughly"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "security",
+     "pos": "n.",
+     "kk": "[sɪˈkjʊrətɪ]",
+     "meaning_zh": "安全；保全",
+     "definition_en": "protection against danger, loss, or crime",
+     "sentence_en": "Please show your employee ID badge to the security guard at the door.",
+     "sentence_zh": "請向門口的警衛出示您的員工識別證。",
+     "synonyms": [
+      "safety",
+      "protection"
+     ],
+     "collocations": [
+      "security guard",
+      "airport security"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "practice",
+     "pos": "n.",
+     "kk": "[ˈpræktɪs]",
+     "meaning_zh": "慣例；做法",
+     "definition_en": "the usual way of doing something in a business or situation",
+     "sentence_en": "Sending a thank-you email after an interview is standard business practice.",
+     "sentence_zh": "面試後發送感謝信是標準的商務慣例。",
+     "synonyms": [
+      "custom",
+      "method"
+     ],
+     "collocations": [
+      "standard practice",
+      "business practice"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-17/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-17/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-17/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-17/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-17/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-17/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-17/n1-w3-ex.mp3",
+  "n2-summary": "audio/2026-11-17/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-17/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-17/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-17/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-17/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-17/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-17/n2-w3-ex.mp3",
+  "n2-w4": "audio/2026-11-17/n2-w4.mp3",
+  "n2-w4-ex": "audio/2026-11-17/n2-w4-ex.mp3",
+  "n3-summary": "audio/2026-11-17/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-17/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-17/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-17/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-17/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-17/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-17/n3-w3-ex.mp3",
+  "n4-summary": "audio/2026-11-17/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-17/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-17/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-17/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-17/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-17/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-17/n4-w3-ex.mp3",
+  "n4-w4": "audio/2026-11-17/n4-w4.mp3",
+  "n4-w4-ex": "audio/2026-11-17/n4-w4-ex.mp3",
+  "n5-summary": "audio/2026-11-17/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-17/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-17/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-17/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-17/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-17/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-17/n5-w3-ex.mp3",
+  "n5-w4": "audio/2026-11-17/n5-w4.mp3",
+  "n5-w4-ex": "audio/2026-11-17/n5-w4-ex.mp3"
+ }
+}

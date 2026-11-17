@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-16（[中文版](news/2026-11-16.md)｜[English only](news_en/2026-11-16.md)）
+## 最新一期：2026-11-17（[中文版](news/2026-11-17.md)｜[English only](news_en/2026-11-17.md)）
 
-1. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
-2. 'Steering casualty' preceded New Orleans cruise ship collision, says NTSB
-3. Czechs rally against plan to switch funding of public media
-4. Three men sentenced to death in Jordan over fatal church mass shooting
-5. Estonia to close all border crossings with Russia after attack on drone maker
+1. Lindsay Clancy to face a new trial in spring of 2027 over children's killing
+2. Gérard Depardieu drops appeal against sexual assault conviction
+3. Five EU countries announce migrant deportation centre in Rwanda
+4. Five EU states announce plans for immigration ‘return hubs’ in Rwanda
+5. California sues OpenAI over hacking risks
 
 ## 歷史清單
 
+- 2026-11-17：[中文版](news/2026-11-17.md)｜[English only](news_en/2026-11-17.md)｜[Anki](anki/2026-11-17.csv)
 - 2026-11-16：[中文版](news/2026-11-16.md)｜[English only](news_en/2026-11-16.md)｜[Anki](anki/2026-11-16.csv)
 - 2026-11-15：[中文版](news/2026-11-15.md)｜[English only](news_en/2026-11-15.md)｜[Anki](anki/2026-11-15.csv)
 - 2026-11-14：[中文版](news/2026-11-14.md)｜[English only](news_en/2026-11-14.md)｜[Anki](anki/2026-11-14.csv)

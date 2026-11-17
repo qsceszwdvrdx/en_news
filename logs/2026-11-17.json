@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-17",
+  "runs": [
+    {
+      "started_at": "2026-11-17T10:53:49+08:00",
+      "seconds": 33.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/44006257915",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 21,
+          "entries_recent": 16,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.12
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 32,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.2
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.16
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "failed",
+          "entries_total": 0,
+          "entries_recent": 0,
+          "error": "<unknown>:2:252: not well-formed (invalid token)",
+          "http_status": 429,
+          "seconds": 0.5
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "NPR News",
+          "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+          "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+          "cluster_sources": [
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "California sues OpenAI over hacking risks",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "cluster_sources": [
+            "NPR News"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 25.5
+          }
+        ],
+        "used_model": "gemini-3.8-flash",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 58,
+      "tts": {
+        "enabled": true,
+        "ok": 41,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}
