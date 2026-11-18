@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-18",
+  "runs": [
+    {
+      "started_at": "2026-11-18T10:23:07+08:00",
+      "seconds": 136.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/44222817180",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 28,
+          "entries_recent": 25,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.13
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 35,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.15
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.14
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.65
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "The Guardian World",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+          "cluster_sources": [
+            "NPR News",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+          "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "US loses measles elimination status after 26 years amid record case numbers",
+          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+          "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 504,
+            "message": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+            "seconds": 118.2
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 10.8
+          }
+        ],
+        "used_model": "gemini-3.1-flash-lite",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 170,
+      "tts": {
+        "enabled": true,
+        "ok": 25,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}

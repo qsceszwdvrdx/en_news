@@ -1,0 +1,284 @@
+{
+ "date": "2026-11-18",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "title_zh": "輝達營收翻倍，董事會表示無意讓黃仁勳復職",
+   "summary_en": "Nvidia's quarterly revenue reached $115.84 billion, which is double the amount from last year. The company's board stated they will not bring back former CEO Jensen Huang. This report was released shortly after his removal from the company.",
+   "summary_zh": "輝達的季度營收達到 1158.4 億美元，是去年的兩倍。公司董事會表示不會讓前執行長黃仁勳復職。這份報告是在他被免職後不久發布的。",
+   "why_important_en": "This shows how a major tech company performs financially even after a big leadership change.",
+   "why_important_zh": "這顯示了一家大型科技公司在經歷重大領導層變動後，財務表現依然強勁。",
+   "vocab": [
+    {
+     "word": "revenue",
+     "pos": "n.",
+     "kk": "[ˈrɛvəˌnu]",
+     "meaning_zh": "營收、收入",
+     "definition_en": "The money that a business receives from its work.",
+     "sentence_en": "Our company needs to increase its revenue this year.",
+     "sentence_zh": "我們公司今年需要增加營收。",
+     "synonyms": [
+      "income",
+      "earnings"
+     ],
+     "collocations": [
+      "increase revenue",
+      "annual revenue"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "quarterly",
+     "pos": "adj.",
+     "kk": "[ˈkwɔrtɚli]",
+     "meaning_zh": "季度的",
+     "definition_en": "Happening every three months.",
+     "sentence_en": "We have a quarterly meeting to discuss our goals.",
+     "sentence_zh": "我們每季開一次會討論目標。",
+     "synonyms": [
+      "every three months"
+     ],
+     "collocations": [
+      "quarterly report",
+      "quarterly meeting"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "expectations",
+     "pos": "n.",
+     "kk": "[ˌɛkspɛkˈteʃənz]",
+     "meaning_zh": "預期、期望",
+     "definition_en": "The feeling that something will happen.",
+     "sentence_en": "The service at the restaurant exceeded my expectations.",
+     "sentence_zh": "那家餐廳的服務超出了我的預期。",
+     "synonyms": [
+      "anticipation"
+     ],
+     "collocations": [
+      "meet expectations",
+      "exceed expectations"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+   "title_zh": "目擊者稱一名巴勒斯坦婦女在耶利哥附近遭以色列定居者槍殺",
+   "summary_en": "A 72-year-old Palestinian woman was shot and killed in the West Bank. Witnesses say Israeli settlers fired shots toward homes in her village. Her son was also wounded during the attack.",
+   "summary_zh": "一名 72 歲的巴勒斯坦婦女在約旦河西岸遭槍殺。目擊者稱，以色列定居者向她村莊的房屋開火。她的兒子也在襲擊中受傷。",
+   "why_important_en": "This incident highlights the ongoing violence and tension in the West Bank region.",
+   "why_important_zh": "此事件凸顯了約旦河西岸地區持續存在的暴力與緊張局勢。",
+   "vocab": [
+    {
+     "word": "attack",
+     "pos": "n.",
+     "kk": "[əˈtæk]",
+     "meaning_zh": "襲擊、攻擊",
+     "definition_en": "A violent act intended to hurt someone or something.",
+     "sentence_en": "The security system protects the house from any attack.",
+     "sentence_zh": "這個保全系統能保護房子免受任何攻擊。",
+     "synonyms": [
+      "assault"
+     ],
+     "collocations": [
+      "launch an attack",
+      "under attack"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "witness",
+     "pos": "n.",
+     "kk": "[ˈwɪtnɪs]",
+     "meaning_zh": "目擊者",
+     "definition_en": "A person who sees an event happen.",
+     "sentence_en": "The police asked the witness to describe the accident.",
+     "sentence_zh": "警察請目擊者描述那場意外。",
+     "synonyms": [
+      "observer"
+     ],
+     "collocations": [
+      "eye witness",
+      "call a witness"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "US loses measles elimination status after 26 years amid record case numbers",
+   "title_zh": "美國麻疹消除狀態在 26 年後因病例數創新高而喪失",
+   "summary_en": "The US no longer has measles elimination status. This is because there are over 5,400 cases and 10 deaths. It is the highest number of cases since the early 1990s.",
+   "summary_zh": "美國不再擁有麻疹消除狀態。這是因為出現了超過 5400 例病例和 10 例死亡。這是自 1990 年代初以來最高的病例數。",
+   "why_important_en": "This is a serious public health concern regarding disease control in the US.",
+   "why_important_zh": "這是一個關於美國疾病控制的嚴重公共衛生問題。",
+   "vocab": [
+    {
+     "word": "record",
+     "pos": "adj.",
+     "kk": "[ˈrɛkɚd]",
+     "meaning_zh": "創紀錄的",
+     "definition_en": "Better, bigger, or worse than anything before.",
+     "sentence_en": "The store had record sales during the holiday season.",
+     "sentence_zh": "這家店在假期期間創下了銷售紀錄。",
+     "synonyms": [
+      "highest",
+      "unprecedented"
+     ],
+     "collocations": [
+      "record number",
+      "record high"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "title_zh": "在英國被捕的美國士兵涉嫌為俄羅斯從事間諜活動，已被移交美軍監管",
+   "summary_en": "A 41-year-old US soldier was arrested in the UK for spying for Russia. He was held by British police earlier this month. Now, he is in the custody of the US military.",
+   "summary_zh": "一名 41 歲的美國士兵因涉嫌為俄羅斯從事間諜活動在英國被捕。他本月初被英國警方拘留。現在，他已被移交給美軍監管。",
+   "why_important_en": "This case involves international security and military cooperation between the US and the UK.",
+   "why_important_zh": "此案涉及美國與英國之間的國際安全與軍事合作。",
+   "vocab": [
+    {
+     "word": "suspect",
+     "pos": "v.",
+     "kk": "[səˈspɛkt]",
+     "meaning_zh": "懷疑",
+     "definition_en": "To believe that someone has done something wrong.",
+     "sentence_en": "I suspect he forgot about our meeting today.",
+     "sentence_zh": "我懷疑他忘了我們今天的會議。",
+     "synonyms": [
+      "doubt",
+      "distrust"
+     ],
+     "collocations": [
+      "suspect of",
+      "strongly suspect"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "custody",
+     "pos": "n.",
+     "kk": "[ˈkʌstədi]",
+     "meaning_zh": "監管、拘留",
+     "definition_en": "The state of being kept in prison or under control.",
+     "sentence_en": "The police took the man into custody yesterday.",
+     "sentence_zh": "警方昨天將該男子拘留。",
+     "synonyms": [
+      "detention"
+     ],
+     "collocations": [
+      "take into custody",
+      "in police custody"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "title_zh": "川普表示美國「非常嚴肅」看待任何伊朗針對華盛頓的陰謀",
+   "summary_en": "Donald Trump said the US is taking threats from Iran very seriously. Iran says the claims about a plot against the US capital are not true. They called the accusations baseless.",
+   "summary_zh": "唐納·川普表示，美國非常嚴肅地看待來自伊朗的威脅。伊朗表示，關於針對美國首都陰謀的指控並非事實，並稱這些指控毫無根據。",
+   "why_important_en": "This highlights ongoing geopolitical tensions between the US and Iran.",
+   "why_important_zh": "這凸顯了美國與伊朗之間持續的地緣政治緊張局勢。",
+   "vocab": [
+    {
+     "word": "serious",
+     "pos": "adj.",
+     "kk": "[ˈsɪrɪəs]",
+     "meaning_zh": "嚴肅的、嚴重的",
+     "definition_en": "Needing to be dealt with carefully because it is important.",
+     "sentence_en": "We need to have a serious talk about the project.",
+     "sentence_zh": "我們需要針對這個專案進行嚴肅的談話。",
+     "synonyms": [
+      "grave",
+      "important"
+     ],
+     "collocations": [
+      "take seriously",
+      "serious problem"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "baseless",
+     "pos": "adj.",
+     "kk": "[ˈbesləs]",
+     "meaning_zh": "毫無根據的",
+     "definition_en": "Not based on facts or evidence.",
+     "sentence_en": "The rumors about the store closing are baseless.",
+     "sentence_zh": "關於這家店要倒閉的傳聞是毫無根據的。",
+     "synonyms": [
+      "unfounded",
+      "groundless"
+     ],
+     "collocations": [
+      "baseless claim",
+      "baseless accusation"
+     ],
+     "toeic_common": false
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-18/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-18/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-18/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-18/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-18/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-18/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-18/n1-w3-ex.mp3",
+  "n2-summary": "audio/2026-11-18/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-18/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-18/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-18/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-18/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-18/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-18/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-18/n3-w1-ex.mp3",
+  "n4-summary": "audio/2026-11-18/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-18/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-18/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-18/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-18/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-18/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-18/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-18/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-18/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-18/n5-w2-ex.mp3"
+ }
+}
