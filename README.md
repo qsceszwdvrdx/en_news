@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-18（[中文版](news/2026-11-18.md)｜[English only](news_en/2026-11-18.md)）
+## 最新一期：2026-11-19（[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)）
 
-1. Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang
-2. Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say
-3. US loses measles elimination status after 26 years amid record case numbers
-4. American soldier held in UK suspected of spying for Russia taken into US military custody
-5. Trump says US taking 'very seriously' any Iranian plot against Washington
+1. Democrats formally nominate Hakeem Jeffries for speaker of the House
+2. Myanmar faces historic genocide verdict at UN court over Rohingya massacres
+3. Israeli military launches rare ground operation in Gaza beyond Yellow Line
+4. Crimea bridge has been attacked again, says Russian-installed governor
+5. Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
 
 ## 歷史清單
 
+- 2026-11-19：[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)｜[Anki](anki/2026-11-19.csv)
 - 2026-11-18：[中文版](news/2026-11-18.md)｜[English only](news_en/2026-11-18.md)｜[Anki](anki/2026-11-18.csv)
 - 2026-11-17：[中文版](news/2026-11-17.md)｜[English only](news_en/2026-11-17.md)｜[Anki](anki/2026-11-17.csv)
 - 2026-11-16：[中文版](news/2026-11-16.md)｜[English only](news_en/2026-11-16.md)｜[Anki](anki/2026-11-16.csv)

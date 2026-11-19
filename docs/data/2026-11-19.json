@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-19",
+ "news": [
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+   "title_zh": "民主黨正式提名哈基姆·傑弗里斯為眾議院議長候選人",
+   "summary_en": "House Democrats voted to support Hakeem Jeffries. He is now closer to becoming the first Black speaker of the House. This is a big step in U.S. history.",
+   "summary_zh": "眾議院民主黨人投票支持哈基姆·傑弗里斯。他現在距離成為美國史上首位黑人眾議院議長更近了一步。這是美國歷史上重要的一步。",
+   "why_important_en": "It shows a major change in American political leadership.",
+   "why_important_zh": "這顯示了美國政治領導層的重大變革。",
+   "vocab": [
+    {
+     "word": "nominate",
+     "pos": "v.",
+     "kk": "[ˈnɑːməneɪt]",
+     "meaning_zh": "提名",
+     "definition_en": "To officially suggest someone for a job or position.",
+     "sentence_en": "They decided to nominate her for the manager position.",
+     "sentence_zh": "他們決定提名她擔任經理職位。",
+     "synonyms": [
+      "propose",
+      "appoint"
+     ],
+     "collocations": [
+      "nominate someone for",
+      "be nominated as"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "support",
+     "pos": "v.",
+     "kk": "[səˈpɔːrt]",
+     "meaning_zh": "支持",
+     "definition_en": "To agree with someone or something and show it.",
+     "sentence_en": "I support your decision to change your career path.",
+     "sentence_zh": "我支持你轉換職涯跑道的決定。",
+     "synonyms": [
+      "back",
+      "favor"
+     ],
+     "collocations": [
+      "give support",
+      "strongly support"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "title_zh": "緬甸因羅興亞人大屠殺面臨聯合國法院歷史性種族滅絕判決",
+   "summary_en": "Myanmar is facing a court case about genocide. No country has ever been found guilty of this by an international court before. This is a very important legal case.",
+   "summary_zh": "緬甸正面臨一場關於種族滅絕的訴訟。過去從未有國家被國際法院判定犯下此罪。這是一起非常重要的法律案件。",
+   "why_important_en": "It is a rare legal challenge against a country for serious human rights crimes.",
+   "why_important_zh": "這是針對國家嚴重人權罪行的一項罕見法律挑戰。",
+   "vocab": [
+    {
+     "word": "guilty",
+     "pos": "adj.",
+     "kk": "[ˈɡɪlti]",
+     "meaning_zh": "有罪的",
+     "definition_en": "Having done something wrong or broken the law.",
+     "sentence_en": "The jury found him guilty of the crime.",
+     "sentence_zh": "陪審團判定他犯下該罪行。",
+     "synonyms": [
+      "responsible",
+      "convicted"
+     ],
+     "collocations": [
+      "found guilty",
+      "feel guilty"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "court",
+     "pos": "n.",
+     "kk": "[kɔːrt]",
+     "meaning_zh": "法庭",
+     "definition_en": "A place where legal cases are decided by a judge.",
+     "sentence_en": "I have to go to court next week for jury duty.",
+     "sentence_zh": "我下週必須去法庭履行陪審員義務。",
+     "synonyms": [
+      "tribunal",
+      "bench"
+     ],
+     "collocations": [
+      "go to court",
+      "court case"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "title_zh": "以色列軍隊在加薩發動罕見的「黃線」外地面行動",
+   "summary_en": "The Israeli military started a ground operation in Gaza. They say they are destroying a tunnel. Hamas says this breaks the ceasefire agreement.",
+   "summary_zh": "以色列軍隊在加薩發動了地面行動。他們表示正在摧毀一條地道。哈馬斯則稱此舉違反了停火協議。",
+   "why_important_en": "It increases tension in a conflict zone and breaks a ceasefire.",
+   "why_important_zh": "這加劇了衝突地區的緊張局勢並破壞了停火。",
+   "vocab": [
+    {
+     "word": "launch",
+     "pos": "v.",
+     "kk": "[lɔːntʃ]",
+     "meaning_zh": "發動；發起",
+     "definition_en": "To start an activity or an operation.",
+     "sentence_en": "The company will launch a new product next month.",
+     "sentence_zh": "公司下個月將推出一項新產品。",
+     "synonyms": [
+      "start",
+      "initiate"
+     ],
+     "collocations": [
+      "launch a campaign",
+      "launch a product"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "violation",
+     "pos": "n.",
+     "kk": "[ˌvaɪəˈleɪʃn]",
+     "meaning_zh": "違反",
+     "definition_en": "An action that breaks a rule or agreement.",
+     "sentence_en": "Parking here is a violation of the building rules.",
+     "sentence_zh": "停在這裡違反了大樓規定。",
+     "synonyms": [
+      "breach",
+      "infringement"
+     ],
+     "collocations": [
+      "a violation of",
+      "serious violation"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "title_zh": "俄羅斯任命的州長稱克里米亞大橋再次遇襲",
+   "summary_en": "The bridge connecting Crimea to Russia was attacked again. Traffic is stopped while officials check the damage. This happened just two days after a previous attack.",
+   "summary_zh": "連接克里米亞與俄羅斯的大橋再次遭到攻擊。在官員檢查損壞情況時，交通已暫停。這距離上次攻擊僅過了兩天。",
+   "why_important_en": "It affects transport and shows the ongoing conflict in the region.",
+   "why_important_zh": "這影響了交通運輸，並顯示了該地區持續進行的衝突。",
+   "vocab": [
+    {
+     "word": "damage",
+     "pos": "n.",
+     "kk": "[ˈdæmɪdʒ]",
+     "meaning_zh": "損害",
+     "definition_en": "Physical harm caused to something.",
+     "sentence_en": "The storm caused a lot of damage to the roof.",
+     "sentence_zh": "暴風雨對屋頂造成了嚴重損害。",
+     "synonyms": [
+      "harm",
+      "destruction"
+     ],
+     "collocations": [
+      "cause damage",
+      "assess the damage"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "temporarily",
+     "pos": "adv.",
+     "kk": "[ˈtempərerəli]",
+     "meaning_zh": "暫時地",
+     "definition_en": "For a short time only.",
+     "sentence_en": "The store is temporarily closed for renovations.",
+     "sentence_zh": "這家店為了裝修暫時關閉。",
+     "synonyms": [
+      "briefly",
+      "for now"
+     ],
+     "collocations": [
+      "temporarily closed",
+      "temporarily unavailable"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+   "title_zh": "瑪麗·佩爾托拉翻轉阿拉斯加參議院席位；輝達不會讓黃仁勳回任",
+   "summary_en": "Mary Peltola won a Senate race in Alaska. Also, Nvidia said they will not bring back their former CEO, Jensen Huang.",
+   "summary_zh": "瑪麗·佩爾托拉贏得了阿拉斯加的參議院選舉。此外，輝達表示不會讓前執行長黃仁勳回任。",
+   "why_important_en": "These are significant updates in both American politics and the tech industry.",
+   "why_important_zh": "這些是美國政治與科技產業的重要更新。",
+   "vocab": [
+    {
+     "word": "race",
+     "pos": "n.",
+     "kk": "[reɪs]",
+     "meaning_zh": "競賽；選舉",
+     "definition_en": "A competition to win a position or election.",
+     "sentence_en": "She is preparing for the upcoming marathon race.",
+     "sentence_zh": "她正在為即將到來的馬拉松比賽做準備。",
+     "synonyms": [
+      "competition",
+      "contest"
+     ],
+     "collocations": [
+      "win the race",
+      "tight race"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "pressure",
+     "pos": "n.",
+     "kk": "[ˈpreʃər]",
+     "meaning_zh": "壓力",
+     "definition_en": "The feeling of being forced to do something.",
+     "sentence_en": "I feel a lot of pressure at work this week.",
+     "sentence_zh": "我這週在工作上感到很大壓力。",
+     "synonyms": [
+      "stress",
+      "strain"
+     ],
+     "collocations": [
+      "under pressure",
+      "put pressure on"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-19/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-19/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-19/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-19/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-19/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-19/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-19/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-19/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-19/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-19/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-19/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-19/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-19/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-19/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-19/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-19/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-19/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-19/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-19/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-19/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-19/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-19/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-19/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-19/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-19/n5-w2-ex.mp3"
+ }
+}
