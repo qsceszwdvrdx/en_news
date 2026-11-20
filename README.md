@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-19（[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)）
+## 最新一期：2026-11-20（[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)）
 
-1. Democrats formally nominate Hakeem Jeffries for speaker of the House
-2. Myanmar faces historic genocide verdict at UN court over Rohingya massacres
-3. Israeli military launches rare ground operation in Gaza beyond Yellow Line
-4. Crimea bridge has been attacked again, says Russian-installed governor
-5. Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
+1. Myanmar committed genocide against Rohingya minority, world’s top court rules
+2. California targets Nvidia in China AI chip probe
+3. Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo
+4. What is at stake at the EU-UK summit in Brussels?
+5. How did Anthropic's stock market debut unfold?
 
 ## 歷史清單
 
+- 2026-11-20：[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)｜[Anki](anki/2026-11-20.csv)
 - 2026-11-19：[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)｜[Anki](anki/2026-11-19.csv)
 - 2026-11-18：[中文版](news/2026-11-18.md)｜[English only](news_en/2026-11-18.md)｜[Anki](anki/2026-11-18.csv)
 - 2026-11-17：[中文版](news/2026-11-17.md)｜[English only](news_en/2026-11-17.md)｜[Anki](anki/2026-11-17.csv)

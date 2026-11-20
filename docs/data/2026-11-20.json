@@ -1,0 +1,489 @@
+{
+ "date": "2026-11-20",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+   "title_zh": "世界最高法院裁定緬甸對羅興亞少數族群犯下種族滅絕罪",
+   "summary_en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya people in 2017. The court found an intent to destroy a large part of this minority group. This historic decision ends a legal battle that lasted seven years.",
+   "summary_zh": "國際法院裁定緬甸於 2017 年對羅興亞人犯下種族滅絕罪。法院認定其意圖摧毀該少數族群的大部分人口。這項歷史性裁決結束了長達七年的法律訴訟。",
+   "why_important_en": "This is a historic ruling because the court has never held a state responsible for genocide before. It sets a critical standard for international human rights law.",
+   "why_important_zh": "這是一項歷史性判決，因為該法院此前從未認定任何國家須對種族滅絕負責。這為國際人權法樹立了重要標竿。",
+   "vocab": [
+    {
+     "word": "judgment",
+     "pos": "n.",
+     "kk": "[ˈdʒʌdʒmənt]",
+     "meaning_zh": "判決；評判",
+     "definition_en": "an official decision made by a court or a judge",
+     "sentence_en": "We must trust our manager to make the final judgment on this project.",
+     "sentence_zh": "我們必須信任經理會對這個專案做出最終決定。",
+     "synonyms": [
+      "decision",
+      "verdict"
+     ],
+     "collocations": [
+      "make a judgment",
+      "final judgment"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "substantial",
+     "pos": "adj.",
+     "kk": "[səbˈstænʃəl]",
+     "meaning_zh": "大量的；實質的",
+     "definition_en": "large in amount, size, or importance",
+     "sentence_en": "The company offered him a substantial raise after his successful presentation.",
+     "sentence_zh": "在他成功簡報後，公司給了他大幅的加薪。",
+     "synonyms": [
+      "considerable",
+      "significant"
+     ],
+     "collocations": [
+      "substantial increase",
+      "substantial amount"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "critical",
+     "pos": "adj.",
+     "kk": "[ˈkrɪtɪkəl]",
+     "meaning_zh": "關鍵的；極重要的",
+     "definition_en": "extremely important or serious",
+     "sentence_en": "Good communication is critical for the success of any small team.",
+     "sentence_zh": "良好的溝通對於任何小型團隊的成功都是至關重要的。",
+     "synonyms": [
+      "crucial",
+      "vital"
+     ],
+     "collocations": [
+      "critical role",
+      "critical point"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "decision",
+     "pos": "n.",
+     "kk": "[dɪˈsɪʒən]",
+     "meaning_zh": "決定",
+     "definition_en": "a choice or judgment that you make after thinking",
+     "sentence_en": "Please let me know your decision about the new contract by Friday.",
+     "sentence_zh": "請在星期五前告訴我您對新合約的決定。",
+     "synonyms": [
+      "choice",
+      "conclusion"
+     ],
+     "collocations": [
+      "make a decision",
+      "reach a decision"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "California targets Nvidia in China AI chip probe",
+   "title_zh": "加州針對輝達在中國的人工智慧晶片展開調查",
+   "summary_en": "The state of California is investigating the AI chipmaker Nvidia. California is the location of Nvidia's global headquarters. This probe started after the former CEO Jensen Huang left his position.",
+   "summary_zh": "加利福尼亞州正在調查人工智慧晶片製造商輝達。加州是輝達全球總部的所在地。這項調查是在前執行長黃仁勳離職後展開的。",
+   "why_important_en": "Nvidia is a key leader in global AI technology. Government investigations could impact the tech industry and global chip business.",
+   "why_important_zh": "輝達是全球人工智慧技術的關鍵領導者。政府的調查可能會影響科技產業及全球晶片業務。",
+   "vocab": [
+    {
+     "word": "target",
+     "pos": "v.",
+     "kk": "[ˈtɑːrɡɪt]",
+     "meaning_zh": "把……作為目標；瞄準",
+     "definition_en": "to aim an action, product, or plan at a particular person or group",
+     "sentence_en": "The new marketing campaign will target young people who love online shopping.",
+     "sentence_zh": "新的行銷活動將鎖定喜愛網路購物的年輕人。",
+     "synonyms": [
+      "aim at",
+      "focus on"
+     ],
+     "collocations": [
+      "target market",
+      "target audience"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "probe",
+     "pos": "n.",
+     "kk": "[proʊb]",
+     "meaning_zh": "調查",
+     "definition_en": "a careful and thorough examination or official investigation",
+     "sentence_en": "The police launched a thorough probe into the company's financial records.",
+     "sentence_zh": "警方對該公司的財務記錄展開了全面調查。",
+     "synonyms": [
+      "investigation",
+      "inquiry"
+     ],
+     "collocations": [
+      "conduct a probe",
+      "launch a probe"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "headquarters",
+     "pos": "n.",
+     "kk": "[ˈhɛdˌkwɔːrtərz]",
+     "meaning_zh": "總部；總公司",
+     "definition_en": "the main office or center of an organization or business",
+     "sentence_en": "Our head office is in Tokyo, but we also have a branch in Taipei.",
+     "sentence_zh": "我們的總部在東京，但我們在台北也有分公司。",
+     "synonyms": [
+      "head office",
+      "main office"
+     ],
+     "collocations": [
+      "corporate headquarters",
+      "regional headquarters"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "departure",
+     "pos": "n.",
+     "kk": "[dɪˈpɑːrtʃər]",
+     "meaning_zh": "離職；離開",
+     "definition_en": "the act of leaving a job, organization, or place",
+     "sentence_en": "His sudden departure from the company surprised everyone in the office.",
+     "sentence_zh": "他突然從公司離職讓辦公室的所有人都感到驚訝。",
+     "synonyms": [
+      "leaving",
+      "exit"
+     ],
+     "collocations": [
+      "departure time",
+      "sudden departure"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+   "title_zh": "辛辛那提動物園河馬費歐娜誤吞針織帽後不幸死亡",
+   "summary_en": "Fiona, a very famous hippo in an American zoo, has died. She swallowed a knitted hat that fell into her area, and vets could not remove it. The zoo announced this sad news and called it a medical emergency.",
+   "summary_zh": "美國一所動物園中極具名氣的河馬費歐娜已不幸死亡。她吞下了一頂掉入展區的針織帽，獸醫未能成功將其取出。動物園公布了這個悲痛的消息，並稱這是一起醫療緊急事件。",
+   "why_important_en": "Fiona was a beloved animal with a large global fan base. This incident highlights the safety risks that human objects cause to zoo animals.",
+   "why_important_zh": "費歐娜是一隻深受全球喜愛的明星動物。這起事件凸顯了人類物品對動物園動物所造成的安全風險。",
+   "vocab": [
+    {
+     "word": "effort",
+     "pos": "n.",
+     "kk": "[ˈɛfɚt]",
+     "meaning_zh": "努力；嘗試",
+     "definition_en": "an attempt to do something difficult",
+     "sentence_en": "She put a lot of effort into preparing for her job interview.",
+     "sentence_zh": "她投入了大量努力來準備她的求職面試。",
+     "synonyms": [
+      "attempt",
+      "endeavor"
+     ],
+     "collocations": [
+      "make an effort",
+      "joint effort"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "remove",
+     "pos": "v.",
+     "kk": "[rɪˈmuːv]",
+     "meaning_zh": "移除；脫下",
+     "definition_en": "to take something away or off from a place",
+     "sentence_en": "Please remove your shoes before you enter the traditional Japanese restaurant.",
+     "sentence_zh": "進入這家傳統日本餐廳前，請先脫下鞋子。",
+     "synonyms": [
+      "take away",
+      "eliminate"
+     ],
+     "collocations": [
+      "remove from",
+      "remove easily"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "attempt",
+     "pos": "n.",
+     "kk": "[əˈtɛmpt]",
+     "meaning_zh": "嘗試",
+     "definition_en": "an act of trying to do something",
+     "sentence_en": "He passed the driving test on his first attempt yesterday.",
+     "sentence_zh": "他昨天第一次嘗試就通過了駕照考試。",
+     "synonyms": [
+      "try",
+      "effort"
+     ],
+     "collocations": [
+      "make an attempt",
+      "first attempt"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "emergency",
+     "pos": "n.",
+     "kk": "[ɪˈmɜːrdʒənsi]",
+     "meaning_zh": "緊急情況；突發事件",
+     "definition_en": "a sudden, serious situation that needs immediate action",
+     "sentence_en": "In case of emergency, please leave the building through the nearest exit.",
+     "sentence_zh": "發生緊急狀況時，請經由最近的出口離開建築物。",
+     "synonyms": [
+      "crisis",
+      "urgency"
+     ],
+     "collocations": [
+      "emergency exit",
+      "medical emergency"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "What is at stake at the EU-UK summit in Brussels?",
+   "title_zh": "在布魯塞爾舉行的歐盟—英國峰會有哪些重要議題？",
+   "summary_en": "The European Union and the United Kingdom will hold a major meeting in Brussels. Leaders want to discuss their long-term relationship, including rules and youth mobility. Key politicians like the UK prime minister will attend the summit.",
+   "summary_zh": "歐洲聯盟與英國將在布魯塞爾舉行一場重大會議。領導人希望討論包括規定和青年交流在內的長期關係。英國首相等重要政治人物將出席這場峰會。",
+   "why_important_en": "This meeting can reshape post-Brexit cooperation between the UK and the European Union. It directly affects trade rules, work opportunities, and travel.",
+   "why_important_zh": "這場會議可能會重塑英國與歐盟在脫歐後的合作關係。這將直接影響貿易法規、工作機會和旅遊。",
+   "vocab": [
+    {
+     "word": "summit",
+     "pos": "n.",
+     "kk": "[ˈsʌmɪt]",
+     "meaning_zh": "高峰會；首腦會議",
+     "definition_en": "an important formal meeting between leaders of governments",
+     "sentence_en": "The managers will attend the annual sales summit in Singapore next week.",
+     "sentence_zh": "經理們下週將出席在新加坡舉辦的年度銷售高峰會。",
+     "synonyms": [
+      "conference",
+      "meeting"
+     ],
+     "collocations": [
+      "hold a summit",
+      "attend a summit"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "ease",
+     "pos": "v.",
+     "kk": "[iːz]",
+     "meaning_zh": "減輕；放寬",
+     "definition_en": "to make something less difficult, strict, or painful",
+     "sentence_en": "Taking a short walk during lunch can help ease your workday stress.",
+     "sentence_zh": "午餐時間散步一下可以幫助減輕你的工作壓力。",
+     "synonyms": [
+      "reduce",
+      "relieve"
+     ],
+     "collocations": [
+      "ease restrictions",
+      "ease stress"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "restore",
+     "pos": "v.",
+     "kk": "[rɪˈstɔːr]",
+     "meaning_zh": "恢復；修復",
+     "definition_en": "to bring something back to an earlier good condition or position",
+     "sentence_en": "The technical support team quickly worked to restore our internet connection.",
+     "sentence_zh": "技術支援團隊迅速搶修，恢復了我們的網路連線。",
+     "synonyms": [
+      "recover",
+      "reinstate"
+     ],
+     "collocations": [
+      "restore order",
+      "restore service"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "attend",
+     "pos": "v.",
+     "kk": "[əˈtɛnd]",
+     "meaning_zh": "參加；出席",
+     "definition_en": "to go to or be present at an event, meeting, or class",
+     "sentence_en": "All team members must attend the morning training session on Monday.",
+     "sentence_zh": "所有團隊成員週一都必須參加早上的培訓課程。",
+     "synonyms": [
+      "participate in",
+      "go to"
+     ],
+     "collocations": [
+      "attend a meeting",
+      "attend a conference"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "How did Anthropic's stock market debut unfold?",
+   "title_zh": "Anthropic 首次公開上市的表現如何？",
+   "summary_en": "The artificial intelligence company Anthropic made its debut on the stock market. A BBC report explains what happened on its first day as a public company. The company had a strong start, with its shares closing up by 17%.",
+   "summary_zh": "人工智慧公司 Anthropic 正式登陸股票市場。英國廣播公司（BBC）報導解析了其作為上市公司的首日表現。該公司迎來了強勁開局，股價收盤上漲 17%。",
+   "why_important_en": "This stock debut shows strong investor confidence in the generative AI industry. The market's reaction can influence future tech investments.",
+   "why_important_zh": "這次上市展示了投資人對生成式人工智慧產業的強烈信心。市場的反響可能會影響未來的科技投資動向。",
+   "vocab": [
+    {
+     "word": "debut",
+     "pos": "n.",
+     "kk": "[deɪˈbjuː]",
+     "meaning_zh": "初次登場；首次亮相",
+     "definition_en": "the first public appearance or launch of a product, company, or person",
+     "sentence_en": "The new smartphone made its official debut at the electronics show.",
+     "sentence_zh": "這款新智慧型手機在電子展上正式亮相。",
+     "synonyms": [
+      "launch",
+      "introduction"
+     ],
+     "collocations": [
+      "market debut",
+      "make a debut"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "unfold",
+     "pos": "v.",
+     "kk": "[ʌnˈfoʊld]",
+     "meaning_zh": "展開；發生",
+     "definition_en": "to develop or become known over time",
+     "sentence_en": "We watched the exciting football game unfold on the big TV screen.",
+     "sentence_zh": "我們在大電視螢幕上看著刺激的足球比賽進行。",
+     "synonyms": [
+      "develop",
+      "happen"
+     ],
+     "collocations": [
+      "events unfold",
+      "story unfolds"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "share",
+     "pos": "n.",
+     "kk": "[ʃɛr]",
+     "meaning_zh": "股票；股份",
+     "definition_en": "one of the equal parts into which a company's total capital is divided",
+     "sentence_en": "She decided to buy some shares in a popular coffee shop chain.",
+     "sentence_zh": "她決定買進一些這家知名連鎖咖啡店的股票。",
+     "synonyms": [
+      "stock",
+      "equity"
+     ],
+     "collocations": [
+      "buy shares",
+      "market share"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "break down",
+     "pos": "v.",
+     "kk": "[breɪk daʊn]",
+     "meaning_zh": "分析；詳細解釋",
+     "definition_en": "to separate information into parts to make it easier to understand",
+     "sentence_en": "Could you please break down the budget numbers for this quarter?",
+     "sentence_zh": "你能為大家詳細拆解分析一下這一季的預算數字嗎？",
+     "synonyms": [
+      "analyze",
+      "explain"
+     ],
+     "collocations": [
+      "break down the data",
+      "break down the costs"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-20/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-20/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-20/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-20/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-20/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-20/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-20/n1-w3-ex.mp3",
+  "n1-w4": "audio/2026-11-20/n1-w4.mp3",
+  "n1-w4-ex": "audio/2026-11-20/n1-w4-ex.mp3",
+  "n2-summary": "audio/2026-11-20/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-20/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-20/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-20/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-20/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-20/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-20/n2-w3-ex.mp3",
+  "n2-w4": "audio/2026-11-20/n2-w4.mp3",
+  "n2-w4-ex": "audio/2026-11-20/n2-w4-ex.mp3",
+  "n3-summary": "audio/2026-11-20/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-20/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-20/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-20/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-20/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-20/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-20/n3-w3-ex.mp3",
+  "n3-w4": "audio/2026-11-20/n3-w4.mp3",
+  "n3-w4-ex": "audio/2026-11-20/n3-w4-ex.mp3",
+  "n4-summary": "audio/2026-11-20/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-20/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-20/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-20/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-20/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-20/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-20/n4-w3-ex.mp3",
+  "n4-w4": "audio/2026-11-20/n4-w4.mp3",
+  "n4-w4-ex": "audio/2026-11-20/n4-w4-ex.mp3",
+  "n5-summary": "audio/2026-11-20/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-20/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-20/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-20/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-20/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-20/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-20/n5-w3-ex.mp3",
+  "n5-w4": "audio/2026-11-20/n5-w4.mp3",
+  "n5-w4-ex": "audio/2026-11-20/n5-w4-ex.mp3"
+ }
+}
