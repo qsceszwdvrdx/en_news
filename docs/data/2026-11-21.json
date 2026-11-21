@@ -1,0 +1,489 @@
+{
+ "date": "2026-11-21",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Trump turns White House press conference into a 2028 succession audition",
+   "title_zh": "川普將白宮記者會變成 2028 年接班人的試鏡會",
+   "summary_en": "Donald Trump held a press conference at the White House that felt like a test for future leaders. Key members of his team seemed to compete for his attention and support for 2028. However, Stephen Miller unexpectedly became the center of attention.",
+   "summary_zh": "唐納·川普在白宮舉行了一場記者會，場面感覺就像是對未來領導人的考驗。他的團隊核心成員似乎在爭奪他的青睞與 2028 年的支持。然而，史蒂芬·米勒出乎意料地成為全場焦點。",
+   "why_important_en": "It shows early competition among politicians who want to run for US president in 2028.",
+   "why_important_zh": "這顯示出有意角逐 2028 年美國總統職位的政治人物之間已展開早期競爭。",
+   "vocab": [
+    {
+     "word": "press",
+     "pos": "n.",
+     "kk": "[prɛs]",
+     "meaning_zh": "新聞媒體；記者",
+     "definition_en": "newspapers, magazines, and journalists",
+     "sentence_en": "The manager talked to the local press about the new store opening.",
+     "sentence_zh": "經理向當地媒體談論了新店開幕的事宜。",
+     "synonyms": [
+      "media",
+      "journalists"
+     ],
+     "collocations": [
+      "press conference",
+      "the local press"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "potential",
+     "pos": "adj.",
+     "kk": "[pəˈtɛnʃəl]",
+     "meaning_zh": "潛在的；可能的",
+     "definition_en": "possible in the future",
+     "sentence_en": "We need to send an email to potential clients today.",
+     "sentence_zh": "我們今天需要發送電子郵件給潛在客戶。",
+     "synonyms": [
+      "possible",
+      "likely"
+     ],
+     "collocations": [
+      "potential customer",
+      "potential problem"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "compete",
+     "pos": "v.",
+     "kk": "[kəmˈpit]",
+     "meaning_zh": "競爭；角逐",
+     "definition_en": "to try to win or be better than others",
+     "sentence_en": "Many companies compete for the top spot in this market.",
+     "sentence_zh": "許多公司都在爭奪該市場的第一名寶座。",
+     "synonyms": [
+      "contend",
+      "rival"
+     ],
+     "collocations": [
+      "compete with",
+      "compete for"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "briefing",
+     "pos": "n.",
+     "kk": "[ˈbrifɪŋ]",
+     "meaning_zh": "簡報；簡短會議",
+     "definition_en": "a meeting where information or instructions are given",
+     "sentence_en": "Please join the morning briefing in the main conference room.",
+     "sentence_zh": "請參加在主會議室舉行的晨間簡報會。",
+     "synonyms": [
+      "meeting",
+      "update"
+     ],
+     "collocations": [
+      "briefing session",
+      "attend a briefing"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "French police officers found guilty of racist assault on black music producer",
+   "title_zh": "法國警員因對黑人音樂製作人進行種族歧視性攻擊而被判有罪",
+   "summary_en": "Three French police officers were convicted of beating a black music producer in 2020. The attack happened because they said he was not wearing a mask, and it was recorded on camera. This court decision is seen as an important step against police violence.",
+   "summary_zh": "三名法國警員因在 2020 年毆打一名黑人音樂製作人而被定罪。當時警方聲稱他未戴口罩而動手，該攻擊過程全被監視器拍下。這項判決被視為打擊警察暴力的重要一步。",
+   "why_important_en": "This legal decision addresses serious issues of police brutality and racial fairness in France.",
+   "why_important_zh": "這項司法判決處理了法國嚴重的警察暴力與種族平等問題。",
+   "vocab": [
+    {
+     "word": "officer",
+     "pos": "n.",
+     "kk": "[ˈɔfəsɚ]",
+     "meaning_zh": "官員；職員；警官",
+     "definition_en": "a person who holds a position of authority",
+     "sentence_en": "The security officer checked everyone's ID badge at the entrance.",
+     "sentence_zh": "警衛在入口處檢查了每個人的識別證。",
+     "synonyms": [
+      "official",
+      "guard"
+     ],
+     "collocations": [
+      "police officer",
+      "security officer"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "guilty",
+     "pos": "adj.",
+     "kk": "[ˈɡɪlti]",
+     "meaning_zh": "有罪的；有過失的",
+     "definition_en": "responsible for doing something bad or illegal",
+     "sentence_en": "The jury found the driver guilty of breaking the speed limit.",
+     "sentence_zh": "陪審團認定該駕駛違反速限有罪。",
+     "synonyms": [
+      "culpable",
+      "at fault"
+     ],
+     "collocations": [
+      "found guilty",
+      "plead guilty"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "security",
+     "pos": "n.",
+     "kk": "[sɪˈkjʊrəti]",
+     "meaning_zh": "保全；安全",
+     "definition_en": "protection against danger or crime",
+     "sentence_en": "Please pass through airport security before heading to your gate.",
+     "sentence_zh": "前往登機門之前，請先通過機場安檢。",
+     "synonyms": [
+      "safety",
+      "protection"
+     ],
+     "collocations": [
+      "security camera",
+      "airport security"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "trial",
+     "pos": "n.",
+     "kk": "[ˈtraɪəl]",
+     "meaning_zh": "審訊；審判；試驗",
+     "definition_en": "a legal process in court to decide if someone is guilty",
+     "sentence_en": "You can sign up for a thirty-day free trial on our website.",
+     "sentence_zh": "你可以在我們的網站上註冊三十天的免費試用。",
+     "synonyms": [
+      "hearing",
+      "test"
+     ],
+     "collocations": [
+      "free trial",
+      "clinical trial"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+   "title_zh": "第二位法官叫停川普拱門建設，稱其在法庭上勝訴機率低",
+   "summary_en": "A federal judge in Virginia has decided to stop the building of Donald Trump's arch. This is the second judge to take action against the project this week. The judge explained that the project is not likely to win in court.",
+   "summary_zh": "維吉尼亞州的一名聯邦法官決定停止唐納·川普拱門的興建工程。這是本週第二位對該項目採取行動的法官。法官解釋說，該計畫在法庭上勝訴的可能性很小。",
+   "why_important_en": "It shows how US courts can stop controversial building projects approved by political leaders.",
+   "why_important_zh": "這顯示了美國法院如何能夠叫停由政治領袖核准但具爭議的建築工程。",
+   "vocab": [
+    {
+     "word": "judge",
+     "pos": "n.",
+     "kk": "[dʒʌdʒ]",
+     "meaning_zh": "法官；裁判",
+     "definition_en": "a person in a court who decides legal cases",
+     "sentence_en": "The judge listened carefully to both sides of the story.",
+     "sentence_zh": "法官仔細聆聽了雙方的說法。",
+     "synonyms": [
+      "magistrate",
+      "referee"
+     ],
+     "collocations": [
+      "federal judge",
+      "court judge"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "issue",
+     "pos": "v.",
+     "kk": "[ˈɪʃu]",
+     "meaning_zh": "核發；發行；發布",
+     "definition_en": "to officially give or make something available",
+     "sentence_en": "The bank will issue a new credit card to you next week.",
+     "sentence_zh": "銀行下週會發行一張新的信用卡給你。",
+     "synonyms": [
+      "publish",
+      "release"
+     ],
+     "collocations": [
+      "issue a refund",
+      "issue a statement"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "construction",
+     "pos": "n.",
+     "kk": "[kənˈstrʌkʃən]",
+     "meaning_zh": "建造；施工；工程",
+     "definition_en": "the process of building things like houses or roads",
+     "sentence_en": "Road construction caused heavy traffic delays on my way to work.",
+     "sentence_zh": "道路施工在我上班途中造成了嚴重的交通延誤。",
+     "synonyms": [
+      "building",
+      "creation"
+     ],
+     "collocations": [
+      "under construction",
+      "construction site"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "temporarily",
+     "pos": "adv.",
+     "kk": "[ˌtɛmpəˈrɛrəli]",
+     "meaning_zh": "暫時地",
+     "definition_en": "for a limited time only; not permanently",
+     "sentence_en": "Our office is temporarily closed for repairs until Friday morning.",
+     "sentence_zh": "我們的辦公室暫時關閉維修，直到週五早上。",
+     "synonyms": [
+      "briefly",
+      "for now"
+     ],
+     "collocations": [
+      "temporarily closed",
+      "temporarily unavailable"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "title_zh": "丹麥指控俄羅斯密謀暗殺美籍烏克蘭裔饒舌歌手",
+   "summary_en": "Denmark said Russia had a secret plan to kill a US-Ukrainian rapper. Russia denied the claim, saying it is not true. Because of this problem, Denmark forced a Russian military official to leave the country.",
+   "summary_zh": "丹麥表示俄羅斯有一項企圖殺害一名美籍烏克蘭裔饒舌歌手的秘密計畫。俄羅斯否認了這項指控，表示這不是事實。由於這起事件，丹麥已迫使一名俄羅斯武官離境。",
+   "why_important_en": "It increases political tension between European nations and Russia.",
+   "why_important_zh": "這加劇了歐洲國家與俄羅斯之間的政治緊張局勢。",
+   "vocab": [
+    {
+     "word": "accuse",
+     "pos": "v.",
+     "kk": "[əˈkjuz]",
+     "meaning_zh": "指責；指控",
+     "definition_en": "to say that someone has done something wrong",
+     "sentence_en": "Do not accuse him of taking the files without clear proof.",
+     "sentence_zh": "在沒有明確證據的情況下，不要指控他拿走了文件。",
+     "synonyms": [
+      "charge",
+      "blame"
+     ],
+     "collocations": [
+      "accuse someone of",
+      "wrongly accuse"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "embassy",
+     "pos": "n.",
+     "kk": "[ˈɛmbəsi]",
+     "meaning_zh": "大使館",
+     "definition_en": "the official office of an ambassador in another country",
+     "sentence_en": "She visited the American embassy to apply for a travel visa.",
+     "sentence_zh": "她前往美國大使館申請旅行簽證。",
+     "synonyms": [
+      "consulate",
+      "mission"
+     ],
+     "collocations": [
+      "foreign embassy",
+      "embassy official"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "deny",
+     "pos": "v.",
+     "kk": "[dɪˈnaɪ]",
+     "meaning_zh": "否認；拒絕承認",
+     "definition_en": "to state that something is not true",
+     "sentence_en": "The company spokesman was quick to deny the rumor of layoffs.",
+     "sentence_zh": "公司發言人迅速否認了解僱的傳聞。",
+     "synonyms": [
+      "reject",
+      "refuse"
+     ],
+     "collocations": [
+      "strongly deny",
+      "deny access"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "defence",
+     "pos": "n.",
+     "kk": "[dɪˈfɛns]",
+     "meaning_zh": "防禦；保衛",
+     "definition_en": "protection against attack or danger",
+     "sentence_en": "Good sleep is the best defence against getting sick during winter.",
+     "sentence_zh": "充足的睡眠是冬天預防生病的最好防禦手段。",
+     "synonyms": [
+      "protection",
+      "shield"
+     ],
+     "collocations": [
+      "in defence of",
+      "national defence"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Trump threatens ban on US firms building AI data centres overseas",
+   "title_zh": "川普威脅禁止美國企業在海外興建人工智慧數據中心",
+   "summary_en": "Donald Trump said he might ban American companies from building AI data centers in foreign countries. However, he shared very few details about this plan. Even members of his own team said this was their first time hearing about it.",
+   "summary_zh": "唐納·川普表示他可能禁止美國企業在國外建造人工智慧數據中心。然而，他幾乎沒有透露這項計畫的任何細節。甚至他自己團隊的成員也表示這是他們第一次聽說這件事。",
+   "why_important_en": "This policy could affect big tech investments and global technology development.",
+   "why_important_zh": "這項政策可能會影響大型科技投資以及全球技術發展。",
+   "vocab": [
+    {
+     "word": "threaten",
+     "pos": "v.",
+     "kk": "[ˈθrɛtn]",
+     "meaning_zh": "威脅；揚言",
+     "definition_en": "to say you will cause harm if you do not get what you want",
+     "sentence_en": "Dark clouds threaten heavy rain, so remember to bring an umbrella.",
+     "sentence_zh": "烏雲預示著可能下大雨，所以記得帶把傘。",
+     "synonyms": [
+      "warn",
+      "menace"
+     ],
+     "collocations": [
+      "threaten to",
+      "threaten action"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "ban",
+     "pos": "n.",
+     "kk": "[bæn]",
+     "meaning_zh": "禁令",
+     "definition_en": "an official rule that says something is not allowed",
+     "sentence_en": "The hotel has a strict ban on smoking inside guest rooms.",
+     "sentence_zh": "這家飯店嚴格禁止客房內吸菸。",
+     "synonyms": [
+      "prohibition",
+      "restriction"
+     ],
+     "collocations": [
+      "lift a ban",
+      "put a ban on"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "firm",
+     "pos": "n.",
+     "kk": "[fɝm]",
+     "meaning_zh": "公司；商號",
+     "definition_en": "a business company",
+     "sentence_en": "She works as an accountant at an international consulting firm.",
+     "sentence_zh": "她在一家國際顧問公司擔任會計師。",
+     "synonyms": [
+      "company",
+      "business"
+     ],
+     "collocations": [
+      "law firm",
+      "accounting firm"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "overseas",
+     "pos": "adv.",
+     "kk": "[ˌovɚˈsiz]",
+     "meaning_zh": "在海外；向國外",
+     "definition_en": "in or to another country across the sea",
+     "sentence_en": "My brother plans to travel overseas for his summer vacation.",
+     "sentence_zh": "我哥哥計畫暑假去海外旅行。",
+     "synonyms": [
+      "abroad",
+      "internationally"
+     ],
+     "collocations": [
+      "travel overseas",
+      "study overseas"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-21/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-21/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-21/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-21/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-21/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-21/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-21/n1-w3-ex.mp3",
+  "n1-w4": "audio/2026-11-21/n1-w4.mp3",
+  "n1-w4-ex": "audio/2026-11-21/n1-w4-ex.mp3",
+  "n2-summary": "audio/2026-11-21/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-21/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-21/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-21/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-21/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-21/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-21/n2-w3-ex.mp3",
+  "n2-w4": "audio/2026-11-21/n2-w4.mp3",
+  "n2-w4-ex": "audio/2026-11-21/n2-w4-ex.mp3",
+  "n3-summary": "audio/2026-11-21/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-21/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-21/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-21/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-21/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-21/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-21/n3-w3-ex.mp3",
+  "n3-w4": "audio/2026-11-21/n3-w4.mp3",
+  "n3-w4-ex": "audio/2026-11-21/n3-w4-ex.mp3",
+  "n4-summary": "audio/2026-11-21/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-21/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-21/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-21/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-21/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-21/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-21/n4-w3-ex.mp3",
+  "n4-w4": "audio/2026-11-21/n4-w4.mp3",
+  "n4-w4-ex": "audio/2026-11-21/n4-w4-ex.mp3",
+  "n5-summary": "audio/2026-11-21/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-21/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-21/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-21/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-21/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-21/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-21/n5-w3-ex.mp3",
+  "n5-w4": "audio/2026-11-21/n5-w4.mp3",
+  "n5-w4-ex": "audio/2026-11-21/n5-w4-ex.mp3"
+ }
+}

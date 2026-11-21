@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-20（[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)）
+## 最新一期：2026-11-21（[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)）
 
-1. Myanmar committed genocide against Rohingya minority, world’s top court rules
-2. California targets Nvidia in China AI chip probe
-3. Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo
-4. What is at stake at the EU-UK summit in Brussels?
-5. How did Anthropic's stock market debut unfold?
+1. Trump turns White House press conference into a 2028 succession audition
+2. French police officers found guilty of racist assault on black music producer
+3. A second judge blocks Trump's arch, saying it's unlikely to succeed in court
+4. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper
+5. Trump threatens ban on US firms building AI data centres overseas
 
 ## 歷史清單
 
+- 2026-11-21：[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)｜[Anki](anki/2026-11-21.csv)
 - 2026-11-20：[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)｜[Anki](anki/2026-11-20.csv)
 - 2026-11-19：[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)｜[Anki](anki/2026-11-19.csv)
 - 2026-11-18：[中文版](news/2026-11-18.md)｜[English only](news_en/2026-11-18.md)｜[Anki](anki/2026-11-18.csv)
