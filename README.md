@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-21（[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)）
+## 最新一期：2026-11-22（[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)）
 
-1. Trump turns White House press conference into a 2028 succession audition
-2. French police officers found guilty of racist assault on black music producer
-3. A second judge blocks Trump's arch, saying it's unlikely to succeed in court
-4. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper
-5. Trump threatens ban on US firms building AI data centres overseas
+1. Trump orders contractors to check with White House over any congressional inquiries
+2. Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles
+3. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+4. Bahrain says Iranian attack hits industrial facility as air defences intercept attacks
+5. Russia-bound ship attacked in Gulf of Finland
 
 ## 歷史清單
 
+- 2026-11-22：[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)｜[Anki](anki/2026-11-22.csv)
 - 2026-11-21：[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)｜[Anki](anki/2026-11-21.csv)
 - 2026-11-20：[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)｜[Anki](anki/2026-11-20.csv)
 - 2026-11-19：[中文版](news/2026-11-19.md)｜[English only](news_en/2026-11-19.md)｜[Anki](anki/2026-11-19.csv)

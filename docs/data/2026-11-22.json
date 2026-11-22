@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-22",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "Reuters (Google News)",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Trump orders contractors to check with White House over any congressional inquiries",
+   "title_zh": "川普下令承包商在回應國會調查前須先諮詢白宮",
+   "summary_en": "President Trump issued an order for federal contractors. They must talk to the White House before answering questions from Congress. If they do not follow this, they might lose their contracts.",
+   "summary_zh": "川普總統對聯邦承包商發布了一項命令。他們在回答國會的問題之前，必須先與白宮溝通。如果不遵守規定，他們可能會失去合約。",
+   "why_important_en": "This order changes how the government handles oversight and information sharing with Congress.",
+   "why_important_zh": "這項命令改變了政府處理監督事務以及與國會共享資訊的方式。",
+   "vocab": [
+    {
+     "word": "contractor",
+     "pos": "n.",
+     "kk": "[kənˈtræktɚ]",
+     "meaning_zh": "承包商",
+     "definition_en": "A person or company that does work for others under a written agreement.",
+     "sentence_en": "We hired a contractor to fix our kitchen last month.",
+     "sentence_zh": "我們上個月請了一位承包商來修理廚房。",
+     "synonyms": [
+      "builder",
+      "supplier"
+     ],
+     "collocations": [
+      "independent contractor",
+      "hire a contractor"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "comply",
+     "pos": "v.",
+     "kk": "[kəmˈplaɪ]",
+     "meaning_zh": "遵守",
+     "definition_en": "To act according to an order, set of rules, or request.",
+     "sentence_en": "You must comply with the safety rules in the factory.",
+     "sentence_zh": "你必須遵守工廠的安全規定。",
+     "synonyms": [
+      "obey",
+      "follow"
+     ],
+     "collocations": [
+      "comply with",
+      "fail to comply"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "title_zh": "聯邦陪審團裁定一名男子縱火導致2025年洛杉磯帕利塞茲致命大火",
+   "summary_en": "A jury found a man guilty of starting a fire in Los Angeles. The fire happened in 2025 and caused 12 deaths. Prosecutors said the man was very angry before the event.",
+   "summary_zh": "陪審團裁定一名男子在洛杉磯縱火罪名成立。這場火災發生於2025年，造成12人死亡。檢察官表示該男子在事件發生前情緒非常憤怒。",
+   "why_important_en": "This verdict brings legal closure to a major tragedy that resulted in significant loss of life.",
+   "why_important_zh": "這項判決為一場造成重大生命損失的悲劇帶來了法律上的終結。",
+   "vocab": [
+    {
+     "word": "convict",
+     "pos": "v.",
+     "kk": "[kənˈvɪkt]",
+     "meaning_zh": "判決有罪",
+     "definition_en": "To decide officially in a court of law that someone is guilty of a crime.",
+     "sentence_en": "The jury will convict him if they find enough evidence.",
+     "sentence_zh": "如果陪審團找到足夠的證據，他們將會判他有罪。",
+     "synonyms": [
+      "find guilty",
+      "sentence"
+     ],
+     "collocations": [
+      "convict of",
+      "wrongfully convict"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "deadly",
+     "pos": "adj.",
+     "kk": "[ˈdɛdli]",
+     "meaning_zh": "致命的",
+     "definition_en": "Likely to cause death.",
+     "sentence_en": "The flu can be deadly for very young children.",
+     "sentence_zh": "流感對年幼的孩子來說可能是致命的。",
+     "synonyms": [
+      "fatal",
+      "lethal"
+     ],
+     "collocations": [
+      "deadly weapon",
+      "deadly accident"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "title_zh": "澤倫斯基會見英國衛生大臣時稱克里米亞大橋遇襲是「公平的回應」",
+   "summary_en": "President Zelensky said attacking the Crimean Bridge was a fair action. He explained that Russia had attacked many bridges in Ukraine first. He shared this while meeting a UK official.",
+   "summary_zh": "澤倫斯基總統表示攻擊克里米亞大橋是公平的行動。他解釋說，俄羅斯先攻擊了烏克蘭境內的許多橋樑。他在會見英國官員時表達了此看法。",
+   "why_important_en": "This highlights the ongoing military conflict and the justification used by Ukrainian leadership for their actions.",
+   "why_important_zh": "這凸顯了持續中的軍事衝突，以及烏克蘭領導層為其行動所做的辯護。",
+   "vocab": [
+    {
+     "word": "response",
+     "pos": "n.",
+     "kk": "[rɪˈspɑns]",
+     "meaning_zh": "回應",
+     "definition_en": "An answer or reaction to something.",
+     "sentence_en": "I am waiting for a response to my email.",
+     "sentence_zh": "我正在等待對我電子郵件的回覆。",
+     "synonyms": [
+      "reply",
+      "reaction"
+     ],
+     "collocations": [
+      "in response to",
+      "quick response"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "official",
+     "pos": "n.",
+     "kk": "[əˈfɪʃəl]",
+     "meaning_zh": "官員",
+     "definition_en": "A person who has an important position in a company or government.",
+     "sentence_en": "The government official will visit our office tomorrow.",
+     "sentence_zh": "政府官員明天將會拜訪我們的辦公室。",
+     "synonyms": [
+      "representative",
+      "administrator"
+     ],
+     "collocations": [
+      "government official",
+      "senior official"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+   "title_zh": "巴林稱伊朗攻擊擊中工業設施，防空系統攔截了部分攻擊",
+   "summary_en": "Bahrain reported that an Iranian attack hit an industrial building. The country's air defense systems were able to stop some of the incoming attacks.",
+   "summary_zh": "巴林報告稱，伊朗的攻擊擊中了一座工業建築。該國的防空系統成功攔截了部分來襲的攻擊。",
+   "why_important_en": "This incident shows rising tensions in the region and the role of defense systems in protecting infrastructure.",
+   "why_important_zh": "此事件顯示了該地區緊張局勢的升溫，以及防禦系統在保護基礎設施方面的重要性。",
+   "vocab": [
+    {
+     "word": "facility",
+     "pos": "n.",
+     "kk": "[fəˈsɪləti]",
+     "meaning_zh": "設施",
+     "definition_en": "A place or building used for a particular activity or purpose.",
+     "sentence_en": "The hotel has a great fitness facility for guests.",
+     "sentence_zh": "這家飯店為房客提供了很棒的健身設施。",
+     "synonyms": [
+      "building",
+      "center"
+     ],
+     "collocations": [
+      "industrial facility",
+      "storage facility"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "intercept",
+     "pos": "v.",
+     "kk": "[ˌɪntɚˈsɛpt]",
+     "meaning_zh": "攔截",
+     "definition_en": "To stop something from reaching its intended destination.",
+     "sentence_en": "The police tried to intercept the package before it arrived.",
+     "sentence_zh": "警方試圖在包裹送達前將其攔截。",
+     "synonyms": [
+      "stop",
+      "block"
+     ],
+     "collocations": [
+      "intercept a message",
+      "intercept an attack"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Russia-bound ship attacked in Gulf of Finland",
+   "title_zh": "一艘前往俄羅斯的船隻在芬蘭灣遇襲",
+   "summary_en": "A ship traveling to Russia was attacked in the Gulf of Finland. Finnish defense forces believe Ukraine used a drone for this attack.",
+   "summary_zh": "一艘前往俄羅斯的船隻在芬蘭灣遭到攻擊。芬蘭國防軍認為烏克蘭使用了無人機進行這次攻擊。",
+   "why_important_en": "The use of drones against maritime vessels indicates new methods of warfare in the ongoing conflict.",
+   "why_important_zh": "針對海上船隻使用無人機，顯示了在持續衝突中出現了新的戰爭手段。",
+   "vocab": [
+    {
+     "word": "vessel",
+     "pos": "n.",
+     "kk": "[ˈvɛsəl]",
+     "meaning_zh": "船隻",
+     "definition_en": "A large boat or ship.",
+     "sentence_en": "The large vessel carried goods across the ocean.",
+     "sentence_zh": "這艘大型船隻載運貨物橫跨海洋。",
+     "synonyms": [
+      "ship",
+      "boat"
+     ],
+     "collocations": [
+      "cargo vessel",
+      "naval vessel"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "attack",
+     "pos": "v.",
+     "kk": "[əˈtæk]",
+     "meaning_zh": "攻擊",
+     "definition_en": "To try to hurt or damage something using violence.",
+     "sentence_en": "The dog will not attack if you stay calm.",
+     "sentence_zh": "如果你保持冷靜，那隻狗就不會攻擊你。",
+     "synonyms": [
+      "strike",
+      "assault"
+     ],
+     "collocations": [
+      "attack a target",
+      "under attack"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-22/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-22/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-22/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-22/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-22/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-22/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-22/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-22/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-22/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-22/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-22/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-22/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-22/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-22/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-22/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-22/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-22/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-22/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-22/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-22/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-22/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-22/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-22/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-22/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-22/n5-w2-ex.mp3"
+ }
+}
