@@ -259,31 +259,5 @@
    ]
   }
  ],
- "audio": {
-  "n1-summary": "audio/2026-11-15/n1-summary.mp3",
-  "n1-w1": "audio/2026-11-15/n1-w1.mp3",
-  "n1-w1-ex": "audio/2026-11-15/n1-w1-ex.mp3",
-  "n1-w2": "audio/2026-11-15/n1-w2.mp3",
-  "n1-w2-ex": "audio/2026-11-15/n1-w2-ex.mp3",
-  "n2-summary": "audio/2026-11-15/n2-summary.mp3",
-  "n2-w1": "audio/2026-11-15/n2-w1.mp3",
-  "n2-w1-ex": "audio/2026-11-15/n2-w1-ex.mp3",
-  "n2-w2": "audio/2026-11-15/n2-w2.mp3",
-  "n2-w2-ex": "audio/2026-11-15/n2-w2-ex.mp3",
-  "n3-summary": "audio/2026-11-15/n3-summary.mp3",
-  "n3-w1": "audio/2026-11-15/n3-w1.mp3",
-  "n3-w1-ex": "audio/2026-11-15/n3-w1-ex.mp3",
-  "n3-w2": "audio/2026-11-15/n3-w2.mp3",
-  "n3-w2-ex": "audio/2026-11-15/n3-w2-ex.mp3",
-  "n4-summary": "audio/2026-11-15/n4-summary.mp3",
-  "n4-w1": "audio/2026-11-15/n4-w1.mp3",
-  "n4-w1-ex": "audio/2026-11-15/n4-w1-ex.mp3",
-  "n4-w2": "audio/2026-11-15/n4-w2.mp3",
-  "n4-w2-ex": "audio/2026-11-15/n4-w2-ex.mp3",
-  "n5-summary": "audio/2026-11-15/n5-summary.mp3",
-  "n5-w1": "audio/2026-11-15/n5-w1.mp3",
-  "n5-w1-ex": "audio/2026-11-15/n5-w1-ex.mp3",
-  "n5-w2": "audio/2026-11-15/n5-w2.mp3",
-  "n5-w2-ex": "audio/2026-11-15/n5-w2-ex.mp3"
- }
+ "audio": {}
 }

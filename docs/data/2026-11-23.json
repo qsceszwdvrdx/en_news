@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-23",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Cop31 climate talks break down as key deal rejected",
+   "title_zh": "Cop31 氣候談判破裂，關鍵協議遭否決",
+   "summary_en": "The EU and UK rejected a climate deal at the Cop31 talks in Turkey. They felt the deal did not address fossil fuels properly. Officials said the agreement failed to meet the needs of the current situation.",
+   "summary_zh": "歐盟與英國在土耳其舉行的 Cop31 氣候談判中否決了一項協議。他們認為該協議未能妥善處理化石燃料問題。官員表示，這項協議未能滿足當前局勢的需求。",
+   "why_important_en": "This failure shows the difficulty of reaching global agreements on climate change.",
+   "why_important_zh": "這次談判失敗顯示了在氣候變遷議題上達成全球共識的困難度。",
+   "vocab": [
+    {
+     "word": "reject",
+     "pos": "v.",
+     "kk": "[rɪˈdʒɛkt]",
+     "meaning_zh": "拒絕",
+     "definition_en": "To refuse to accept or agree to something.",
+     "sentence_en": "The manager had to reject my request for a vacation.",
+     "sentence_zh": "經理不得不拒絕我的休假申請。",
+     "synonyms": [
+      "decline",
+      "refuse"
+     ],
+     "collocations": [
+      "reject a proposal",
+      "reject an offer"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "fail",
+     "pos": "v.",
+     "kk": "[fel]",
+     "meaning_zh": "失敗；未能做到",
+     "definition_en": "To not succeed in what you are trying to do.",
+     "sentence_en": "Do not fail to call me when you arrive home.",
+     "sentence_zh": "你到家時千萬別忘了打電話給我。",
+     "synonyms": [
+      "miss",
+      "lose"
+     ],
+     "collocations": [
+      "fail to do",
+      "fail a test"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "title_zh": "俄羅斯軍艦在班加西沉沒，疑似遭烏克蘭無人機攻擊",
+   "summary_en": "A Russian warship sank in Libya after a suspected drone attack. The ship was stopping to get fuel and supplies. No one has taken responsibility for the explosion.",
+   "summary_zh": "一艘俄羅斯軍艦在利比亞因疑似無人機攻擊而沉沒。該船當時正停靠補給燃料與物資。目前沒有人承認發動這起爆炸攻擊。",
+   "why_important_en": "This incident highlights the ongoing conflict and the use of new technology in naval warfare.",
+   "why_important_zh": "此事件凸顯了持續進行的衝突以及海戰中新技術的應用。",
+   "vocab": [
+    {
+     "word": "suspect",
+     "pos": "v.",
+     "kk": "[səˈspɛkt]",
+     "meaning_zh": "懷疑",
+     "definition_en": "To think that something is true or likely to happen.",
+     "sentence_en": "I suspect that the meeting will be moved to tomorrow.",
+     "sentence_zh": "我懷疑會議會改到明天舉行。",
+     "synonyms": [
+      "doubt",
+      "distrust"
+     ],
+     "collocations": [
+      "highly suspect",
+      "suspect that"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "supply",
+     "pos": "n.",
+     "kk": "[səˈplaɪ]",
+     "meaning_zh": "補給品；供應",
+     "definition_en": "An amount of something that is available to be used.",
+     "sentence_en": "We need to check our office supply before ordering more.",
+     "sentence_zh": "我們在訂購更多之前，需要先檢查辦公室用品庫存。",
+     "synonyms": [
+      "provision",
+      "stock"
+     ],
+     "collocations": [
+      "office supplies",
+      "short supply"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "South Korean minister quits after AI cheating scandal engulfs university exams",
+   "title_zh": "南韓部長因 AI 作弊醜聞引發大學入學考試風波而辭職",
+   "summary_en": "South Korea's education minister resigned after a cheating scandal involving AI. A student used a camera and smartphone to get a high score on an exam. This happened just before the important university entrance tests.",
+   "summary_zh": "南韓教育部長因涉及 AI 的作弊醜聞而辭職。一名學生利用攝影機與智慧型手機在考試中獲得高分。此事發生在重要的大學入學考試前夕。",
+   "why_important_en": "The scandal raises concerns about the integrity of exams in the age of artificial intelligence.",
+   "why_important_zh": "這起醜聞引發了人們對人工智慧時代考試誠信的擔憂。",
+   "vocab": [
+    {
+     "word": "resign",
+     "pos": "v.",
+     "kk": "[rɪˈzaɪn]",
+     "meaning_zh": "辭職",
+     "definition_en": "To officially stop working for an organization.",
+     "sentence_en": "The CEO decided to resign after ten years of service.",
+     "sentence_zh": "執行長在任職十年後決定辭職。",
+     "synonyms": [
+      "quit",
+      "leave"
+     ],
+     "collocations": [
+      "resign from a post",
+      "resign as manager"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "scandal",
+     "pos": "n.",
+     "kk": "[ˈskændl]",
+     "meaning_zh": "醜聞",
+     "definition_en": "An action or event that causes public shock or anger.",
+     "sentence_en": "The company faced a big scandal regarding its financial reports.",
+     "sentence_zh": "該公司面臨了一起關於財務報告的重大醜聞。",
+     "synonyms": [
+      "disgrace",
+      "shame"
+     ],
+     "collocations": [
+      "cause a scandal",
+      "financial scandal"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Democrats capture at least 258 House seats in largest sweep since 1992",
+   "title_zh": "民主黨贏得至少 258 席眾議院席次，創 1992 年以來最大勝選",
+   "summary_en": "Democrats won many seats in the US House of Representatives. This is their biggest win since 1992. They now have more pressure to keep their promises to voters.",
+   "summary_zh": "民主黨在美國眾議院贏得了許多席次。這是他們自 1992 年以來最大的勝利。他們現在面臨更大的壓力，必須兌現對選民的承諾。",
+   "why_important_en": "This result significantly changes the balance of power in the US government.",
+   "why_important_zh": "此結果顯著改變了美國政府內部的權力平衡。",
+   "vocab": [
+    {
+     "word": "capture",
+     "pos": "v.",
+     "kk": "[ˈkæptʃɚ]",
+     "meaning_zh": "贏得；奪取",
+     "definition_en": "To succeed in getting something, like a prize or a position.",
+     "sentence_en": "Our team managed to capture the first prize in the competition.",
+     "sentence_zh": "我們的團隊成功贏得了比賽的第一名。",
+     "synonyms": [
+      "win",
+      "secure"
+     ],
+     "collocations": [
+      "capture a market",
+      "capture attention"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "promise",
+     "pos": "n.",
+     "kk": "[ˈprɑmɪs]",
+     "meaning_zh": "承諾",
+     "definition_en": "A statement that you will definitely do something.",
+     "sentence_en": "I made a promise to finish the report by Friday.",
+     "sentence_zh": "我承諾會在週五前完成報告。",
+     "synonyms": [
+      "vow",
+      "guarantee"
+     ],
+     "collocations": [
+      "keep a promise",
+      "break a promise"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+   "title_zh": "印尼糖果工廠火災造成至少三人死亡，數十人失蹤",
+   "summary_en": "A fire happened at a candy factory in Indonesia. Three people died and many are still missing. Rescuers are searching the building for victims.",
+   "summary_zh": "印尼一家糖果工廠發生火災。三人死亡，許多人仍然失蹤。救援人員正在建築物內搜尋受害者。",
+   "why_important_en": "This is a tragic industrial accident that highlights the need for better workplace safety.",
+   "why_important_zh": "這是一起悲慘的工業事故，凸顯了加強工作場所安全的需求。",
+   "vocab": [
+    {
+     "word": "missing",
+     "pos": "adj.",
+     "kk": "[ˈmɪsɪŋ]",
+     "meaning_zh": "失蹤的；遺失的",
+     "definition_en": "Not able to be found.",
+     "sentence_en": "I have a missing file on my computer desktop.",
+     "sentence_zh": "我的電腦桌面上遺失了一個檔案。",
+     "synonyms": [
+      "lost",
+      "gone"
+     ],
+     "collocations": [
+      "go missing",
+      "missing person"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "search",
+     "pos": "v.",
+     "kk": "[sɝtʃ]",
+     "meaning_zh": "搜尋",
+     "definition_en": "To look carefully for someone or something.",
+     "sentence_en": "I need to search for a new apartment near the station.",
+     "sentence_zh": "我需要搜尋車站附近的新公寓。",
+     "synonyms": [
+      "look for",
+      "seek"
+     ],
+     "collocations": [
+      "search for",
+      "conduct a search"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-23/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-23/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-23/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-23/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-23/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-23/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-23/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-23/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-23/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-23/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-23/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-23/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-23/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-23/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-23/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-23/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-23/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-23/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-23/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-23/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-23/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-23/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-23/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-23/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-23/n5-w2-ex.mp3"
+ }
+}

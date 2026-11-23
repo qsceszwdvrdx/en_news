@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-22（[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)）
+## 最新一期：2026-11-23（[中文版](news/2026-11-23.md)｜[English only](news_en/2026-11-23.md)）
 
-1. Trump orders contractors to check with White House over any congressional inquiries
-2. Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles
-3. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
-4. Bahrain says Iranian attack hits industrial facility as air defences intercept attacks
-5. Russia-bound ship attacked in Gulf of Finland
+1. Cop31 climate talks break down as key deal rejected
+2. Russian warship sinks in Benghazi after suspected Ukrainian drone attack
+3. South Korean minister quits after AI cheating scandal engulfs university exams
+4. Democrats capture at least 258 House seats in largest sweep since 1992
+5. Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing
 
 ## 歷史清單
 
+- 2026-11-23：[中文版](news/2026-11-23.md)｜[English only](news_en/2026-11-23.md)｜[Anki](anki/2026-11-23.csv)
 - 2026-11-22：[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)｜[Anki](anki/2026-11-22.csv)
 - 2026-11-21：[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)｜[Anki](anki/2026-11-21.csv)
 - 2026-11-20：[中文版](news/2026-11-20.md)｜[English only](news_en/2026-11-20.md)｜[Anki](anki/2026-11-20.csv)

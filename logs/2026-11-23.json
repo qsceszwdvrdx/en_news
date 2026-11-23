@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-23",
+  "runs": [
+    {
+      "started_at": "2026-11-23T08:48:11+08:00",
+      "seconds": 221.1,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/45090864827",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 35,
+          "entries_recent": 14,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.18
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 27,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.24
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 8,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.11
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.41
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "The Guardian World",
+          "title": "Cop31 climate talks break down as key deal rejected",
+          "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+          "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+          "cluster_sources": [
+            "BBC World",
+            "The Guardian World"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 503,
+            "message": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+            "seconds": 29.0
+          },
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 2,
+            "result": "error",
+            "code": 504,
+            "message": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+            "seconds": 118.6
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 6.4
+          }
+        ],
+        "used_model": "gemini-3.1-flash-lite",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 147,
+      "tts": {
+        "enabled": true,
+        "ok": 25,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}
