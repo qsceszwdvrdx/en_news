@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-24",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "title_zh": "川普介入後，黃仁勳復職輝達執行長",
+   "summary_en": "Nvidia brought back Jensen Huang as CEO. This happened after US President Trump talked to the company's board. The company's stock price went up after the news.",
+   "summary_zh": "輝達讓黃仁勳回任執行長。這是美國總統川普與公司董事會溝通後發生的結果。消息傳出後，該公司股價上漲。",
+   "why_important_en": "This shows how political leaders can directly influence major business decisions. It also highlights the high market value of Nvidia.",
+   "why_important_zh": "這顯示了政治領袖如何直接影響重大商業決策，也凸顯了輝達的高市場價值。",
+   "vocab": [
+    {
+     "word": "decision",
+     "pos": "n.",
+     "kk": "[dɪˈsɪʒən]",
+     "meaning_zh": "決定",
+     "definition_en": "A choice that you make after thinking about it.",
+     "sentence_en": "I made a final decision to buy this laptop.",
+     "sentence_zh": "我做出了購買這台筆電的最終決定。",
+     "synonyms": [
+      "choice",
+      "selection"
+     ],
+     "collocations": [
+      "make a decision",
+      "reach a decision"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "announce",
+     "pos": "v.",
+     "kk": "[əˈnaʊns]",
+     "meaning_zh": "宣布",
+     "definition_en": "To tell people about something officially.",
+     "sentence_en": "The manager will announce the new office hours today.",
+     "sentence_zh": "經理今天會宣布新的辦公時間。",
+     "synonyms": [
+      "declare",
+      "state"
+     ],
+     "collocations": [
+      "officially announce",
+      "publicly announce"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+   "title_zh": "美國將輝達醜聞核心 AI 公司 Megaspeed 列入貿易黑名單",
+   "summary_en": "The US government put a Singapore-based company, Megaspeed, on a trade blacklist. The company is accused of sending AI chips to China. Now, they need special permission to get US goods.",
+   "summary_zh": "美國政府將總部位於新加坡的 Megaspeed 公司列入貿易黑名單。該公司被指控將 AI 晶片運往中國。現在，他們需要特別許可才能獲得美國商品。",
+   "why_important_en": "This action shows the US government's strict control over AI technology exports. It affects global supply chains.",
+   "why_important_zh": "此舉顯示了美國政府對 AI 技術出口的嚴格控管，並影響了全球供應鏈。",
+   "vocab": [
+    {
+     "word": "official",
+     "pos": "adj.",
+     "kk": "[əˈfɪʃəl]",
+     "meaning_zh": "官方的",
+     "definition_en": "Approved by people in authority.",
+     "sentence_en": "Please check the official website for more information.",
+     "sentence_zh": "請查看官方網站以獲取更多資訊。",
+     "synonyms": [
+      "authorized",
+      "formal"
+     ],
+     "collocations": [
+      "official document",
+      "official website"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "obtain",
+     "pos": "v.",
+     "kk": "[əbˈteɪn]",
+     "meaning_zh": "獲得",
+     "definition_en": "To get something, especially by effort.",
+     "sentence_en": "You need to obtain a permit to park here.",
+     "sentence_zh": "你需要獲得許可證才能在這裡停車。",
+     "synonyms": [
+      "get",
+      "acquire"
+     ],
+     "collocations": [
+      "obtain permission",
+      "obtain information"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+   "title_zh": "烏克蘭證實使用海軍無人機襲擊利比亞外海的兩艘俄羅斯船艦",
+   "summary_en": "Ukraine used naval drones to attack two Russian ships near Libya. One of the ships, the Merkury, sank. The operation was launched from a mothership.",
+   "summary_zh": "烏克蘭使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船艦。其中一艘名為「梅爾庫里號」的船艦沉沒。這次行動是由一艘母艦發起的。",
+   "why_important_en": "This demonstrates the use of new drone technology in modern naval warfare. It shows how drones can change battlefield outcomes.",
+   "why_important_zh": "這展示了無人機技術在現代海戰中的應用，並顯示了無人機如何改變戰場結果。",
+   "vocab": [
+    {
+     "word": "confirm",
+     "pos": "v.",
+     "kk": "[kənˈfɜːrm]",
+     "meaning_zh": "確認",
+     "definition_en": "To say that something is true.",
+     "sentence_en": "Can you confirm your email address for the booking?",
+     "sentence_zh": "你能確認一下預訂用的電子郵件地址嗎？",
+     "synonyms": [
+      "verify",
+      "validate"
+     ],
+     "collocations": [
+      "confirm a reservation",
+      "confirm the details"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "operate",
+     "pos": "v.",
+     "kk": "[ˈɑːpəreɪt]",
+     "meaning_zh": "操作",
+     "definition_en": "To use or control a machine or system.",
+     "sentence_en": "It is easy to operate this coffee machine.",
+     "sentence_zh": "操作這台咖啡機很容易。",
+     "synonyms": [
+      "run",
+      "handle"
+     ],
+     "collocations": [
+      "operate a machine",
+      "operate a business"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+   "title_zh": "吉賽兒·佩利科對裸照被用於宣傳書籍感到「深感震驚」",
+   "summary_en": "Gisèle Pelicot is upset because her nude photos were used to promote a book without her permission. The book suggests she was involved in her own abuse. She plans to take legal action.",
+   "summary_zh": "吉賽兒·佩利科感到非常難過，因為她的裸照在未經許可的情況下被用於宣傳一本書。該書暗示她參與了對自己的虐待。她計畫採取法律行動。",
+   "why_important_en": "This raises important questions about privacy and consent in media. It also highlights the ongoing struggle against sexual violence.",
+   "why_important_zh": "這引發了關於媒體隱私與同意的重要問題，也凸顯了對抗性暴力的持續努力。",
+   "vocab": [
+    {
+     "word": "promote",
+     "pos": "v.",
+     "kk": "[prəˈmoʊt]",
+     "meaning_zh": "宣傳",
+     "definition_en": "To help something to happen or increase.",
+     "sentence_en": "The company wants to promote its new product line.",
+     "sentence_zh": "公司想要宣傳他們的新產品系列。",
+     "synonyms": [
+      "advertise",
+      "market"
+     ],
+     "collocations": [
+      "promote a product",
+      "promote an event"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "legal",
+     "pos": "adj.",
+     "kk": "[ˈliːɡəl]",
+     "meaning_zh": "法律的",
+     "definition_en": "Connected with the law.",
+     "sentence_en": "We need to get some legal advice before signing.",
+     "sentence_zh": "簽署前我們需要尋求一些法律建議。",
+     "synonyms": [
+      "lawful",
+      "judicial"
+     ],
+     "collocations": [
+      "legal action",
+      "legal advice"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+   "title_zh": "笑柄：川普模仿者在加拿大媒體晚宴上嘲諷總統",
+   "summary_en": "At a dinner in Canada, a comedian dressed as Donald Trump mocked the US president. The audience of politicians and journalists laughed at the performance. The comedian made fun of Trump's trade policies.",
+   "summary_zh": "在加拿大的一場晚宴上，一名喜劇演員裝扮成唐納·川普並嘲諷了這位美國總統。現場的政治人物與記者對表演感到好笑。該演員嘲弄了川普的貿易政策。",
+   "why_important_en": "This event shows how political satire is used in public life. It also highlights the tense relationship between some international leaders.",
+   "why_important_zh": "此活動顯示了政治諷刺在公共生活中的運用，也凸顯了部分國際領袖之間緊張的關係。",
+   "vocab": [
+    {
+     "word": "mock",
+     "pos": "v.",
+     "kk": "[mɑːk]",
+     "meaning_zh": "嘲笑",
+     "definition_en": "To laugh at someone in an unkind way.",
+     "sentence_en": "It is not nice to mock people for their mistakes.",
+     "sentence_zh": "因為別人的錯誤而嘲笑他們是不好的。",
+     "synonyms": [
+      "ridicule",
+      "tease"
+     ],
+     "collocations": [
+      "mock someone",
+      "mock a situation"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "performance",
+     "pos": "n.",
+     "kk": "[pərˈfɔːrməns]",
+     "meaning_zh": "表演",
+     "definition_en": "The act of entertaining people by acting or singing.",
+     "sentence_en": "The band gave a great performance last night.",
+     "sentence_zh": "樂團昨晚有很棒的表演。",
+     "synonyms": [
+      "show",
+      "presentation"
+     ],
+     "collocations": [
+      "give a performance",
+      "live performance"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-24/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-24/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-24/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-24/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-24/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-24/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-24/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-24/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-24/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-24/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-24/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-24/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-24/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-24/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-24/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-24/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-24/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-24/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-24/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-24/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-24/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-24/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-24/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-24/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-24/n5-w2-ex.mp3"
+ }
+}

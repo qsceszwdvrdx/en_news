@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-23（[中文版](news/2026-11-23.md)｜[English only](news_en/2026-11-23.md)）
+## 最新一期：2026-11-24（[中文版](news/2026-11-24.md)｜[English only](news_en/2026-11-24.md)）
 
-1. Cop31 climate talks break down as key deal rejected
-2. Russian warship sinks in Benghazi after suspected Ukrainian drone attack
-3. South Korean minister quits after AI cheating scandal engulfs university exams
-4. Democrats capture at least 258 House seats in largest sweep since 1992
-5. Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing
+1. Jensen Huang reinstated as Nvidia CEO after Trump intervenes
+2. US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist
+3. Ukraine confirms it used naval drones to strike two Russian ships off Libya
+4. Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book
+5. Butt of the joke: Trump impersonator mocks president at Canada press dinner
 
 ## 歷史清單
 
+- 2026-11-24：[中文版](news/2026-11-24.md)｜[English only](news_en/2026-11-24.md)｜[Anki](anki/2026-11-24.csv)
 - 2026-11-23：[中文版](news/2026-11-23.md)｜[English only](news_en/2026-11-23.md)｜[Anki](anki/2026-11-23.csv)
 - 2026-11-22：[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)｜[Anki](anki/2026-11-22.csv)
 - 2026-11-21：[中文版](news/2026-11-21.md)｜[English only](news_en/2026-11-21.md)｜[Anki](anki/2026-11-21.csv)
