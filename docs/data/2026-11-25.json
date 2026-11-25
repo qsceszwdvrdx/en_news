@@ -1,0 +1,286 @@
+{
+ "date": "2026-11-25",
+ "news": [
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
+  },
+  {
+   "source": "Reuters (Google News)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "title_zh": "法國前總統薩科齊與妻子卡拉·布魯尼將面臨審判",
+   "summary_en": "Former French President Nicolas Sarkozy will face a new trial. His wife, Carla Bruni, is also involved in this legal case. This follows his jail sentence last year.",
+   "summary_zh": "法國前總統尼古拉·薩科齊將面臨新的審判。他的妻子卡拉·布魯尼也捲入了這起法律案件。此前，他去年已被判入獄。",
+   "why_important_en": "It shows that even high-level political figures must follow the law.",
+   "why_important_zh": "這顯示即使是高層政治人物也必須遵守法律。",
+   "vocab": [
+    {
+     "word": "trial",
+     "pos": "n.",
+     "kk": "[ˈtraɪəl]",
+     "meaning_zh": "審判",
+     "definition_en": "A formal meeting in a court to decide if someone is guilty of a crime.",
+     "sentence_en": "The company will face a trial next month.",
+     "sentence_zh": "這家公司下個月將面臨審判。",
+     "synonyms": [
+      "court case"
+     ],
+     "collocations": [
+      "face a trial",
+      "go to trial"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "involve",
+     "pos": "v.",
+     "kk": "[ɪnˈvɑlv]",
+     "meaning_zh": "涉及",
+     "definition_en": "To include someone or something as a necessary part of an activity.",
+     "sentence_en": "Does your new job involve a lot of travel?",
+     "sentence_zh": "你的新工作需要經常出差嗎？",
+     "synonyms": [
+      "include"
+     ],
+     "collocations": [
+      "involve in",
+      "be involved in"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "US attorney general dodges questions about Nvidia investigation",
+   "title_zh": "美國司法部長迴避有關輝達調查的問題",
+   "summary_en": "The US attorney general did not answer questions about an investigation into Nvidia. Nvidia's stock price dropped by 7%. Lawmakers want to know more about the situation.",
+   "summary_zh": "美國司法部長沒有回答關於輝達調查的問題。輝達的股價下跌了 7%。立法者希望了解更多關於此情況的資訊。",
+   "why_important_en": "It highlights concerns about government influence on major technology companies.",
+   "why_important_zh": "這凸顯了人們對政府影響大型科技公司的擔憂。",
+   "vocab": [
+    {
+     "word": "investigation",
+     "pos": "n.",
+     "kk": "[ɪnˌvɛstɪˈɡeɪʃən]",
+     "meaning_zh": "調查",
+     "definition_en": "The act of examining a problem or crime to find the truth.",
+     "sentence_en": "The police started an investigation into the accident.",
+     "sentence_zh": "警方對這起事故展開了調查。",
+     "synonyms": [
+      "inquiry",
+      "probe"
+     ],
+     "collocations": [
+      "conduct an investigation",
+      "under investigation"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "demand",
+     "pos": "v.",
+     "kk": "[dɪˈmænd]",
+     "meaning_zh": "要求",
+     "definition_en": "To ask for something in a very firm way.",
+     "sentence_en": "Customers demand better service from the airline.",
+     "sentence_zh": "顧客要求航空公司提供更好的服務。",
+     "synonyms": [
+      "request",
+      "insist"
+     ],
+     "collocations": [
+      "demand answers",
+      "meet the demand"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+   "title_zh": "洩漏數據顯示，莫斯科支持馬利軍政府，超過 300 名俄羅斯人喪生",
+   "summary_en": "Leaked documents show that over 300 Russians died in Mali. They were helping the local military government. The fighting was very intense.",
+   "summary_zh": "洩漏的文件顯示，超過 300 名俄羅斯人在馬利死亡。他們當時正在協助當地的軍事政府。戰鬥非常激烈。",
+   "why_important_en": "It reveals the hidden cost of Russia's military involvement in Africa.",
+   "why_important_zh": "這揭示了俄羅斯在非洲軍事介入的隱藏代價。",
+   "vocab": [
+    {
+     "word": "reveal",
+     "pos": "v.",
+     "kk": "[rɪˈvil]",
+     "meaning_zh": "揭露",
+     "definition_en": "To show or make known something that was secret.",
+     "sentence_en": "The report will reveal the company's annual profit.",
+     "sentence_zh": "這份報告將揭露公司的年度利潤。",
+     "synonyms": [
+      "disclose",
+      "show"
+     ],
+     "collocations": [
+      "reveal the truth",
+      "data reveals"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "remote",
+     "pos": "adj.",
+     "kk": "[rɪˈmoʊt]",
+     "meaning_zh": "偏遠的",
+     "definition_en": "Far away from cities or other people.",
+     "sentence_en": "We stayed in a remote village during our vacation.",
+     "sentence_zh": "我們度假時住在一個偏遠的村莊。",
+     "synonyms": [
+      "isolated",
+      "faraway"
+     ],
+     "collocations": [
+      "remote area",
+      "remote location"
+     ],
+     "toeic_common": false
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+   "title_zh": "關稅、燃料和肥料成本如何擠壓美國最大的蘋果產區",
+   "summary_en": "Farmers in Washington are struggling with high costs. Tariffs and expensive fuel make it hard to sell apples. A strong dollar also makes it difficult to export.",
+   "summary_zh": "華盛頓州的農民正為高成本所苦。關稅和昂貴的燃料讓蘋果銷售變得困難。強勢美元也使得出口更加困難。",
+   "why_important_en": "It shows how global economic policies affect local food production.",
+   "why_important_zh": "這顯示了全球經濟政策如何影響當地的糧食生產。",
+   "vocab": [
+    {
+     "word": "cost",
+     "pos": "n.",
+     "kk": "[kɔst]",
+     "meaning_zh": "成本",
+     "definition_en": "The amount of money you need to pay for something.",
+     "sentence_en": "The cost of living in this city is very high.",
+     "sentence_zh": "這座城市的生活成本非常高。",
+     "synonyms": [
+      "price",
+      "expense"
+     ],
+     "collocations": [
+      "high cost",
+      "cut costs"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "purchase",
+     "pos": "v.",
+     "kk": "[ˈpɜrtʃəs]",
+     "meaning_zh": "購買",
+     "definition_en": "To buy something.",
+     "sentence_en": "You can purchase your tickets online before you arrive.",
+     "sentence_zh": "你可以在抵達前線上購買票券。",
+     "synonyms": [
+      "buy"
+     ],
+     "collocations": [
+      "purchase online",
+      "purchase order"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+   "title_zh": "人工智慧反彈受挫，關稅威脅逼近，股市回落",
+   "summary_en": "Stock prices are going down. The AI market is not growing as fast as before. Also, people are worried about new tariffs.",
+   "summary_zh": "股價正在下跌。人工智慧市場的成長速度不如以往。此外，人們也擔心新的關稅政策。",
+   "why_important_en": "It reflects investor uncertainty about future trade and technology growth.",
+   "why_important_zh": "這反映了投資者對未來貿易和科技成長的不確定性。",
+   "vocab": [
+    {
+     "word": "retreat",
+     "pos": "v.",
+     "kk": "[rɪˈtrit]",
+     "meaning_zh": "後退",
+     "definition_en": "To move back or go down in value.",
+     "sentence_en": "The stock market began to retreat after the news.",
+     "sentence_zh": "消息傳出後，股市開始回落。",
+     "synonyms": [
+      "fall",
+      "drop"
+     ],
+     "collocations": [
+      "stocks retreat",
+      "market retreat"
+     ],
+     "toeic_common": false
+    },
+    {
+     "word": "threat",
+     "pos": "n.",
+     "kk": "[θrɛt]",
+     "meaning_zh": "威脅",
+     "definition_en": "A statement or situation that suggests something bad will happen.",
+     "sentence_en": "The new law is a threat to small businesses.",
+     "sentence_zh": "這項新法律對小型企業構成威脅。",
+     "synonyms": [
+      "danger",
+      "risk"
+     ],
+     "collocations": [
+      "pose a threat",
+      "threat of"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-25/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-25/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-25/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-25/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-25/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-25/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-25/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-25/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-25/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-25/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-25/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-25/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-25/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-25/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-25/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-25/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-25/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-25/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-25/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-25/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-25/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-25/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-25/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-25/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-25/n5-w2-ex.mp3"
+ }
+}

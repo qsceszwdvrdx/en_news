@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-24（[中文版](news/2026-11-24.md)｜[English only](news_en/2026-11-24.md)）
+## 最新一期：2026-11-25（[中文版](news/2026-11-25.md)｜[English only](news_en/2026-11-25.md)）
 
-1. Jensen Huang reinstated as Nvidia CEO after Trump intervenes
-2. US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist
-3. Ukraine confirms it used naval drones to strike two Russian ships off Libya
-4. Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book
-5. Butt of the joke: Trump impersonator mocks president at Canada press dinner
+1. French ex-President Sarkozy and wife Carla Bruni to face trial
+2. US attorney general dodges questions about Nvidia investigation
+3. More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals
+4. How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region
+5. Stocks retreat as AI rebound stumbles, tariff threats loom
 
 ## 歷史清單
 
+- 2026-11-25：[中文版](news/2026-11-25.md)｜[English only](news_en/2026-11-25.md)｜[Anki](anki/2026-11-25.csv)
 - 2026-11-24：[中文版](news/2026-11-24.md)｜[English only](news_en/2026-11-24.md)｜[Anki](anki/2026-11-24.csv)
 - 2026-11-23：[中文版](news/2026-11-23.md)｜[English only](news_en/2026-11-23.md)｜[Anki](anki/2026-11-23.csv)
 - 2026-11-22：[中文版](news/2026-11-22.md)｜[English only](news_en/2026-11-22.md)｜[Anki](anki/2026-11-22.csv)

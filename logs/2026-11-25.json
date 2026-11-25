@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-25",
+  "runs": [
+    {
+      "started_at": "2026-11-25T11:31:26+08:00",
+      "seconds": 131.4,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/45540528188",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 31,
+          "entries_recent": 16,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.05
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 33,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.1
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.06
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.59
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "BBC World",
+          "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+          "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+          "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+          "cluster_sources": [
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+          "cluster_sources": [
+            "NPR News"
+          ]
+        },
+        {
+          "source": "Reuters (Google News)",
+          "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+          "cluster_sources": [
+            "Reuters (Google News)"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 504,
+            "message": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+            "seconds": 117.2
+          },
+          {
+            "model": "gemini-2.5-flash",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature",
+            "seconds": 0.1
+          },
+          {
+            "model": "gemini-2.5-flash-lite",
+            "attempt": 1,
+            "result": "error",
+            "code": 404,
+            "message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the late",
+            "seconds": 0.2
+          },
+          {
+            "model": "gemini-3.1-flash-lite",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 6.3
+          }
+        ],
+        "used_model": "gemini-3.1-flash-lite",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 159,
+      "tts": {
+        "enabled": true,
+        "ok": 25,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}
