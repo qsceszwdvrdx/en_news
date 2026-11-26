@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-26",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+   "title_zh": "開羅高速公路油罐車車禍引發大火，至少 31 人死亡",
+   "summary_en": "A fuel tanker crashed on a highway in Cairo. The accident caused a big fire. Many people died and others were hurt.",
+   "summary_zh": "一輛油罐車在開羅的高速公路上發生車禍。這場意外引發了大火。許多人不幸喪生，也有多人受傷。",
+   "why_important_en": "This is a major traffic accident that caused many deaths. It highlights road safety issues in the city.",
+   "why_important_zh": "這是一起造成多人死亡的重大交通事故。它凸顯了該城市的道路安全問題。",
+   "vocab": [
+    {
+     "word": "crash",
+     "pos": "n.",
+     "kk": "[kræʃ]",
+     "meaning_zh": "車禍",
+     "definition_en": "A sudden accident where a vehicle hits something.",
+     "sentence_en": "I was late for work because of a car crash.",
+     "sentence_zh": "我因為一場車禍上班遲到了。",
+     "synonyms": [
+      "accident",
+      "collision"
+     ],
+     "collocations": [
+      "car crash",
+      "avoid a crash"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "injured",
+     "pos": "adj.",
+     "kk": "[ˈɪndʒərd]",
+     "meaning_zh": "受傷的",
+     "definition_en": "Hurt or physically damaged.",
+     "sentence_en": "He got injured while playing soccer yesterday.",
+     "sentence_zh": "他昨天踢足球時受傷了。",
+     "synonyms": [
+      "hurt",
+      "wounded"
+     ],
+     "collocations": [
+      "seriously injured",
+      "get injured"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+   "title_zh": "紐約梅西感恩節遊行因天氣因素延期",
+   "summary_en": "The Macy's Thanksgiving Day parade in New York is moved to Saturday. Strong winds make it unsafe for the big balloons. Officials want to keep everyone safe.",
+   "summary_zh": "紐約的梅西感恩節遊行改期至週六舉行。強風讓大型氣球的飛行變得不安全。官員希望確保所有人的安全。",
+   "why_important_en": "The parade is a famous event. Changing the date affects many people's holiday plans.",
+   "why_important_zh": "這場遊行是著名的活動。更改日期會影響許多人的假期計畫。",
+   "vocab": [
+    {
+     "word": "postpone",
+     "pos": "v.",
+     "kk": "[poˈspon]",
+     "meaning_zh": "延期",
+     "definition_en": "To arrange for an event to take place at a later time.",
+     "sentence_en": "We had to postpone our meeting until next week.",
+     "sentence_zh": "我們必須將會議延期到下週。",
+     "synonyms": [
+      "delay",
+      "put off"
+     ],
+     "collocations": [
+      "postpone a meeting",
+      "postpone the event"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "due to",
+     "pos": "prep.",
+     "kk": "[dju tu]",
+     "meaning_zh": "由於",
+     "definition_en": "Because of something.",
+     "sentence_en": "The flight was canceled due to bad weather.",
+     "sentence_zh": "航班因為惡劣天氣而取消了。",
+     "synonyms": [
+      "because of",
+      "caused by"
+     ],
+     "collocations": [
+      "due to rain",
+      "due to delay"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+   "title_zh": "測試地球防禦系統的小行星影像顯示出體育場大小的隕石坑",
+   "summary_en": "A spacecraft crashed into an asteroid four years ago. New pictures show a very large hole on the surface. This test helps scientists protect Earth.",
+   "summary_zh": "四年前，一艘太空船撞向了一顆小行星。新的照片顯示表面有一個非常大的坑。這項測試有助於科學家保護地球。",
+   "why_important_en": "This shows how humans can protect the planet from space objects. It is a big step for science.",
+   "why_important_zh": "這顯示了人類如何保護地球免受太空物體撞擊。這是科學上的一大進步。",
+   "vocab": [
+    {
+     "word": "surface",
+     "pos": "n.",
+     "kk": "[ˈsɜrfɪs]",
+     "meaning_zh": "表面",
+     "definition_en": "The outside part of something.",
+     "sentence_en": "Please wipe the surface of the table clean.",
+     "sentence_zh": "請把桌子的表面擦乾淨。",
+     "synonyms": [
+      "exterior",
+      "outside"
+     ],
+     "collocations": [
+      "on the surface",
+      "smooth surface"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "test",
+     "pos": "v.",
+     "kk": "[tɛst]",
+     "meaning_zh": "測試",
+     "definition_en": "To check how something works.",
+     "sentence_en": "I need to test the new software before the meeting.",
+     "sentence_zh": "會議前我需要測試一下新軟體。",
+     "synonyms": [
+      "check",
+      "examine"
+     ],
+     "collocations": [
+      "test a product",
+      "run a test"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "title_zh": "美國陸軍稱愛荷華州的受控爆炸測試「非常成功」",
+   "summary_en": "The US Army did a controlled explosion in Iowa. People were worried, but the results were good. Officials say the air is safe.",
+   "summary_zh": "美國陸軍在愛荷華州進行了一次受控爆炸。民眾原本很擔心，但結果很好。官員表示空氣是安全的。",
+   "why_important_en": "It shows that military tests can be done safely near people. It helps calm public fears.",
+   "why_important_zh": "這顯示軍事測試可以在靠近民眾的地方安全進行。這有助於平息大眾的恐懼。",
+   "vocab": [
+    {
+     "word": "success",
+     "pos": "n.",
+     "kk": "[səkˈsɛs]",
+     "meaning_zh": "成功",
+     "definition_en": "The achievement of a goal.",
+     "sentence_en": "The new marketing project was a big success.",
+     "sentence_zh": "新的行銷專案非常成功。",
+     "synonyms": [
+      "achievement",
+      "victory"
+     ],
+     "collocations": [
+      "a big success",
+      "achieve success"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "concern",
+     "pos": "n.",
+     "kk": "[kənˈsɜrn]",
+     "meaning_zh": "擔憂",
+     "definition_en": "A feeling of worry about something.",
+     "sentence_en": "The manager expressed concern about the low sales.",
+     "sentence_zh": "經理表達了對低銷售額的擔憂。",
+     "synonyms": [
+      "worry",
+      "anxiety"
+     ],
+     "collocations": [
+      "express concern",
+      "major concern"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "All hostages rescued after Colombian security forces storm supermarket, police say",
+   "title_zh": "哥倫比亞警方表示，安全部隊突襲超市後所有人質獲救",
+   "summary_en": "Police in Colombia saved all the hostages in a supermarket. The event lasted all day. One person who took the hostages died.",
+   "summary_zh": "哥倫比亞警方救出了超市內的所有人質。這起事件持續了一整天。其中一名劫持人質的人死亡。",
+   "why_important_en": "This was a dangerous situation in a public place. The rescue saved many lives.",
+   "why_important_zh": "這是在公共場所發生的危險情況。這次救援挽救了許多生命。",
+   "vocab": [
+    {
+     "word": "rescue",
+     "pos": "v.",
+     "kk": "[ˈrɛskju]",
+     "meaning_zh": "營救",
+     "definition_en": "To save someone from a dangerous situation.",
+     "sentence_en": "The firefighters were able to rescue the cat.",
+     "sentence_zh": "消防員成功救出了那隻貓。",
+     "synonyms": [
+      "save",
+      "help"
+     ],
+     "collocations": [
+      "rescue mission",
+      "rescue someone"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "force",
+     "pos": "n.",
+     "kk": "[fɔrs]",
+     "meaning_zh": "部隊",
+     "definition_en": "A group of people trained for a specific job, like the police or army.",
+     "sentence_en": "She decided to join the police force last year.",
+     "sentence_zh": "她去年決定加入警隊。",
+     "synonyms": [
+      "group",
+      "unit"
+     ],
+     "collocations": [
+      "security force",
+      "police force"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-26/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-26/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-26/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-26/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-26/n1-w2-ex.mp3",
+  "n2-summary": "audio/2026-11-26/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-26/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-26/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-26/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-26/n2-w2-ex.mp3",
+  "n3-summary": "audio/2026-11-26/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-26/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-26/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-26/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-26/n3-w2-ex.mp3",
+  "n4-summary": "audio/2026-11-26/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-26/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-26/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-26/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-26/n4-w2-ex.mp3",
+  "n5-summary": "audio/2026-11-26/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-26/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-26/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-26/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-26/n5-w2-ex.mp3"
+ }
+}
