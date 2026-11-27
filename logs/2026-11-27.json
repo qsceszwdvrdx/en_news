@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-27",
+  "runs": [
+    {
+      "started_at": "2026-11-27T10:48:04+08:00",
+      "seconds": 113.5,
+      "status": "success",
+      "error": null,
+      "run_trigger": "schedule",
+      "run_url": "https://github.com/qsceszwdvrdx/en_news/actions/runs/45930428016",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "ok",
+          "entries_total": 31,
+          "entries_recent": 28,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.19
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "status": "ok",
+          "entries_total": 45,
+          "entries_recent": 29,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.19
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "status": "ok",
+          "entries_total": 10,
+          "entries_recent": 10,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.14
+        },
+        {
+          "name": "Reuters (Google News)",
+          "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+          "status": "ok",
+          "entries_total": 100,
+          "entries_recent": 100,
+          "error": null,
+          "http_status": 200,
+          "seconds": 0.69
+        }
+      ],
+      "fallback_used": false,
+      "picked": [
+        {
+          "source": "NPR News",
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "cluster_sources": [
+            "NPR News",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "The Guardian World",
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+          "cluster_sources": [
+            "Reuters (Google News)",
+            "The Guardian World"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        },
+        {
+          "source": "NPR News",
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+          "cluster_sources": [
+            "BBC World",
+            "NPR News"
+          ]
+        },
+        {
+          "source": "BBC World",
+          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "cluster_sources": [
+            "BBC World",
+            "Reuters (Google News)"
+          ]
+        }
+      ],
+      "gemini": {
+        "attempts": [
+          {
+            "model": "gemini-3.8-flash",
+            "attempt": 1,
+            "result": "ok",
+            "seconds": 101.9
+          }
+        ],
+        "used_model": "gemini-3.8-flash",
+        "candidate_models": [
+          "gemini-3.8-flash",
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite",
+          "gemini-3.1-flash-lite",
+          "gemini-3.5-flash",
+          "gemini-3.5-flash-lite",
+          "gemini-omni-flash-preview",
+          "gemini-3.6-flash",
+          "gemini-3.7-flash"
+        ]
+      },
+      "articles_after_dedupe": 167,
+      "tts": {
+        "enabled": true,
+        "ok": 43,
+        "failed": 0,
+        "skipped": 0,
+        "errors": [],
+        "voice": "en-US-AriaNeural"
+      }
+    }
+  ]
+}

@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-26（[中文版](news/2026-11-26.md)｜[English only](news_en/2026-11-26.md)）
+## 最新一期：2026-11-27（[中文版](news/2026-11-27.md)｜[English only](news_en/2026-11-27.md)）
 
-1. At least 31 killed as fuel tanker crash ignites large fire on Cairo highway
-2. New York City’s Macy’s Thanksgiving Day parade postponed due to weather
-3. Images of asteroid targeted to test Earth's defences reveal stadium-sized crater
-4. US Army says controlled blast of explosives in Iowa was 'huge success'
-5. All hostages rescued after Colombian security forces storm supermarket, police say
+1. Congo Ebola outbreak reaches 12,000 cases as some responders evacuate
+2. Spain’s Pablo Hernández de Cos wins race to be next ECB president
+3. Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
+4. FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
+5. Two Italians killed in strike in Kuwait, as Iran denies responsibility
 
 ## 歷史清單
 
+- 2026-11-27：[中文版](news/2026-11-27.md)｜[English only](news_en/2026-11-27.md)｜[Anki](anki/2026-11-27.csv)
 - 2026-11-26：[中文版](news/2026-11-26.md)｜[English only](news_en/2026-11-26.md)｜[Anki](anki/2026-11-26.csv)
 - 2026-11-25：[中文版](news/2026-11-25.md)｜[English only](news_en/2026-11-25.md)｜[Anki](anki/2026-11-25.csv)
 - 2026-11-24：[中文版](news/2026-11-24.md)｜[English only](news_en/2026-11-24.md)｜[Anki](anki/2026-11-24.csv)

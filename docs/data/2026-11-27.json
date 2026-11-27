@@ -1,0 +1,469 @@
+{
+ "date": "2026-11-27",
+ "news": [
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "NPR News",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+   "title_zh": "剛果伊波拉疫情達1萬2千例，部分救援人員撤離",
+   "summary_en": "An Ebola outbreak is spreading quickly in eastern Congo and has reached 12,000 cases. Fighting between rebels and the army makes it difficult for workers to stop the disease. Because of the danger, some responders have to evacuate.",
+   "summary_zh": "伊波拉疫情在剛果東部快速蔓延，病例已達1萬2千例。叛軍與政府軍之間的衝突，讓工作人員難以控制疾病的擴散。由於局勢危險，部分救援人員不得不撤離。",
+   "why_important_en": "This outbreak is a serious global health issue because fighting makes medical help very dangerous.",
+   "why_important_zh": "這場疫情是嚴重的全球公共衛生問題，因為武裝衝突使得提供醫療援助變得非常危險。",
+   "vocab": [
+    {
+     "word": "reach",
+     "pos": "v.",
+     "kk": "[ritʃ]",
+     "meaning_zh": "達到、抵達",
+     "definition_en": "to arrive at a particular point, level, or number",
+     "sentence_en": "Sales reached a new high this month thanks to our marketing team.",
+     "sentence_zh": "多虧我們的行銷團隊，這個月的銷售額達到了新高。",
+     "synonyms": [
+      "arrive at",
+      "attain"
+     ],
+     "collocations": [
+      "reach a goal",
+      "reach an agreement"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "evacuate",
+     "pos": "v.",
+     "kk": "[ɪˈvækjʊˌet]",
+     "meaning_zh": "撤離、疏散",
+     "definition_en": "to move people away from a dangerous place to a safer place",
+     "sentence_en": "All employees had to evacuate the office during the fire drill yesterday.",
+     "sentence_zh": "昨天消防演習期間，所有員工都必須撤離辦公室。",
+     "synonyms": [
+      "leave",
+      "vacate"
+     ],
+     "collocations": [
+      "evacuate the building",
+      "order to evacuate"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "spread",
+     "pos": "v.",
+     "kk": "[sprɛd]",
+     "meaning_zh": "擴散、蔓延",
+     "definition_en": "to reach or affect a larger area or more people",
+     "sentence_en": "Good news spreads fast in a small office like ours.",
+     "sentence_zh": "在我們這種小型辦公室裡，好消息傳播得特別快。",
+     "synonyms": [
+      "expand",
+      "circulate"
+     ],
+     "collocations": [
+      "spread quickly",
+      "spread the word"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "disrupt",
+     "pos": "v.",
+     "kk": "[dɪsˈrʌpt]",
+     "meaning_zh": "擾亂、中斷",
+     "definition_en": "to stop something from continuing in the normal way",
+     "sentence_en": "Heavy snow disrupted train services across the city this morning.",
+     "sentence_zh": "今天早上的大雪擾亂了全城的火車營運。",
+     "synonyms": [
+      "interrupt",
+      "disturb"
+     ],
+     "collocations": [
+      "disrupt traffic",
+      "disrupt service"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "contain",
+     "pos": "v.",
+     "kk": "[kənˈten]",
+     "meaning_zh": "控制、遏制",
+     "definition_en": "to keep something harmful within limits and stop it from growing",
+     "sentence_en": "The manager acted quickly to contain the problem before clients noticed.",
+     "sentence_zh": "經理迅速採取行動遏制問題，以免客戶察覺。",
+     "synonyms": [
+      "control",
+      "restrain"
+     ],
+     "collocations": [
+      "contain costs",
+      "contain a crisis"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+   "title_zh": "西班牙央行前總裁赫南德茲德柯斯將接任歐洲央行總裁",
+   "summary_en": "Pablo Hernández de Cos from Spain has been selected as the next president of the European Central Bank. He will succeed Christine Lagarde after getting support from major European countries. He is the first person from Spain to hold this important position.",
+   "summary_zh": "來自西班牙的赫南德茲德柯斯被選為下一任歐洲央行總裁。在獲得歐洲主要國家的支持後，他將接替拉加德。他是第一位出任該重要職位的西班牙人。",
+   "why_important_en": "The ECB president makes big decisions about interest rates and money across Europe.",
+   "why_important_zh": "歐洲央行總裁負責制定攸關全歐洲利率與貨幣政策的重大決策。",
+   "vocab": [
+    {
+     "word": "succeed",
+     "pos": "v.",
+     "kk": "[səkˈsid]",
+     "meaning_zh": "接替、繼任",
+     "definition_en": "to take an official job or position after someone else",
+     "sentence_en": "Lisa will succeed Mr. Green as the department manager next month.",
+     "sentence_zh": "麗莎下個月將接替格林先生成為部門經理。",
+     "synonyms": [
+      "replace",
+      "take over"
+     ],
+     "collocations": [
+      "succeed someone as",
+      "succeed to the position"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "support",
+     "pos": "n.",
+     "kk": "[səˈport]",
+     "meaning_zh": "支持、贊同",
+     "definition_en": "agreement with an idea, group, or person",
+     "sentence_en": "The new proposal received strong support from our team members.",
+     "sentence_zh": "這項新提案得到了我們團隊成員的全力支持。",
+     "synonyms": [
+      "backing",
+      "approval"
+     ],
+     "collocations": [
+      "win support",
+      "show support"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "defeat",
+     "pos": "v.",
+     "kk": "[dɪˈfit]",
+     "meaning_zh": "戰勝、擊敗",
+     "definition_en": "to win against someone in a fight, war, or competition",
+     "sentence_en": "Our basketball team defeated the champion in the final game yesterday.",
+     "sentence_zh": "我們的籃球隊在昨天的決賽中擊敗了冠軍隊。",
+     "synonyms": [
+      "beat",
+      "overcome"
+     ],
+     "collocations": [
+      "defeat a rival",
+      "defeat an opponent"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "rival",
+     "pos": "n.",
+     "kk": "[ˈraɪvl]",
+     "meaning_zh": "競爭對手",
+     "definition_en": "a person or business competing with another for the same thing",
+     "sentence_en": "The company launched a new phone to compete with its main rival.",
+     "sentence_zh": "該公司推出了一款新手機，以與其主要對手競爭。",
+     "synonyms": [
+      "competitor",
+      "opponent"
+     ],
+     "collocations": [
+      "chief rival",
+      "rival company"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "title_zh": "法院裁定傑哈德巴狄厄將因涉嫌於2018年性侵女演員而受審",
+   "summary_en": "A court in Paris has ruled that actor Gérard Depardieu must stand trial. He faces charges for an alleged sexual assault against actress Charlotte Arnould in 2018.",
+   "summary_zh": "巴黎一家法院裁定，演員傑哈德巴狄厄必須接受審判。他面臨涉嫌於2018年對女演員夏洛特阿諾進行性侵的指控。",
+   "why_important_en": "This case shows that famous people can still be brought to trial for serious legal charges.",
+   "why_important_zh": "這起案件顯示，公眾人物若面臨嚴重的法律指控，依然必須接受法庭審判。",
+   "vocab": [
+    {
+     "word": "trial",
+     "pos": "n.",
+     "kk": "[ˈtraɪəl]",
+     "meaning_zh": "審訊、審判",
+     "definition_en": "a legal process in a court to decide if someone is guilty",
+     "sentence_en": "The lawyer spent several days preparing documents for the court trial.",
+     "sentence_zh": "律師花了幾天時間為法庭審判準備文件。",
+     "synonyms": [
+      "hearing",
+      "court case"
+     ],
+     "collocations": [
+      "stand trial",
+      "go on trial"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "rule",
+     "pos": "v.",
+     "kk": "[rul]",
+     "meaning_zh": "裁定、裁決",
+     "definition_en": "to make an official legal decision",
+     "sentence_en": "The judge ruled in favor of the customer after the hearing.",
+     "sentence_zh": "聽證會結束後，法官做出了對顧客有利的裁決。",
+     "synonyms": [
+      "decide",
+      "judge"
+     ],
+     "collocations": [
+      "rule against",
+      "rule in favor of"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "alleged",
+     "pos": "adj.",
+     "kk": "[əˈlɛdʒd]",
+     "meaning_zh": "被指控的、聲稱的（尚未證實）",
+     "definition_en": "stated to be true, although not yet proven",
+     "sentence_en": "Police are looking into the alleged theft at the jewelry store.",
+     "sentence_zh": "警方正在調查那起涉嫌發生在珠寶店的竊案。",
+     "synonyms": [
+      "claimed",
+      "supposed"
+     ],
+     "collocations": [
+      "alleged crime",
+      "alleged victim"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+   "title_zh": "美FCC批准SpaceX在太空部署100萬顆衛星建數據中心，科學家持懷疑態度",
+   "summary_en": "The FCC has approved SpaceX to launch 1 million satellites into space to build data centers. However, many scientists are skeptical about this ambitious plan.",
+   "summary_zh": "美國聯邦通訊委員會（FCC）已批准SpaceX發射100萬顆衛星至太空以建造數據中心。然而，許多科學家對這項龐大的計畫抱持懷疑態度。",
+   "why_important_en": "Putting so many satellites into orbit could change space technology, but it also creates concerns about space safety.",
+   "why_important_zh": "在軌道上發射如此多的衛星可能會改變太空科技，但也引發了對太空安全的擔憂。",
+   "vocab": [
+    {
+     "word": "deploy",
+     "pos": "v.",
+     "kk": "[dɪˈplɔɪ]",
+     "meaning_zh": "部署、設置",
+     "definition_en": "to put something into use or into an effective position",
+     "sentence_en": "The IT team will deploy the new software update this weekend.",
+     "sentence_zh": "資訊團隊將於本週末部署並啟用新的軟體更新。",
+     "synonyms": [
+      "set up",
+      "position"
+     ],
+     "collocations": [
+      "deploy resources",
+      "deploy a system"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "skeptical",
+     "pos": "adj.",
+     "kk": "[ˈskɛptɪkl]",
+     "meaning_zh": "懷疑的、持保留態度的",
+     "definition_en": "doubting that something is true or useful",
+     "sentence_en": "My boss was skeptical about the idea until she saw the numbers.",
+     "sentence_zh": "我老闆在看到數據之前，對這個點子一直抱持懷疑態度。",
+     "synonyms": [
+      "doubtful",
+      "distrustful"
+     ],
+     "collocations": [
+      "skeptical about",
+      "remain skeptical"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "create",
+     "pos": "v.",
+     "kk": "[kriˈet]",
+     "meaning_zh": "建立、產生",
+     "definition_en": "to make something new exist or happen",
+     "sentence_en": "We need to create a simple plan for the project by Friday.",
+     "sentence_zh": "我們必須在星期五之前為這個專案制定一個簡單的計畫。",
+     "synonyms": [
+      "produce",
+      "generate"
+     ],
+     "collocations": [
+      "create an opportunity",
+      "create jobs"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "raise",
+     "pos": "v.",
+     "kk": "[rez]",
+     "meaning_zh": "引起、提出",
+     "definition_en": "to cause something to exist, or bring up a topic",
+     "sentence_en": "Several customers raised concerns about the high shipping costs.",
+     "sentence_zh": "幾位顧客對昂貴的運費提出了疑慮。",
+     "synonyms": [
+      "bring up",
+      "provoke"
+     ],
+     "collocations": [
+      "raise questions",
+      "raise concerns"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "title_zh": "兩名義大利人在科威特襲擊中喪生，伊朗否認涉案",
+   "summary_en": "Two Italian workers were killed in a strike in Kuwait. They worked as technicians for a German firm called Rheinmetall. Iran has stated that it was not responsible for the attack.",
+   "summary_zh": "兩名義大利籍工作人員在科威特的一場襲擊中喪生。他們是德國萊茵金屬公司的技術人員。伊朗則表示對此次襲擊不承擔任何責任。",
+   "why_important_en": "Attacks on international workers can increase political tension and raise security concerns across the region.",
+   "why_important_zh": "針對外籍工作人員的攻擊可能升高政治緊張局勢，並引發對該區域安全情勢的擔憂。",
+   "vocab": [
+    {
+     "word": "technician",
+     "pos": "n.",
+     "kk": "[tɛkˈnɪʃən]",
+     "meaning_zh": "技術人員、技師",
+     "definition_en": "a worker trained with special skills, especially in machines or science",
+     "sentence_en": "The technician repaired our office air conditioner in less than an hour.",
+     "sentence_zh": "技師不到一個小時就修好了我們辦公室的冷氣。",
+     "synonyms": [
+      "specialist",
+      "mechanic"
+     ],
+     "collocations": [
+      "lab technician",
+      "service technician"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "deny",
+     "pos": "v.",
+     "kk": "[dɪˈnaɪ]",
+     "meaning_zh": "否認",
+     "definition_en": "to say that something is not true",
+     "sentence_en": "He denied taking the missing laptop from the conference room.",
+     "sentence_zh": "他否認從會議室拿走了那台失蹤的筆記型電腦。",
+     "synonyms": [
+      "reject",
+      "refuse"
+     ],
+     "collocations": [
+      "deny responsibility",
+      "firmly deny"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "responsibility",
+     "pos": "n.",
+     "kk": "[rɪˌspɑnsəˈbɪləti]",
+     "meaning_zh": "責任",
+     "definition_en": "the state of being the person or cause behind an event or problem",
+     "sentence_en": "Taking responsibility for your own mistakes is very important at work.",
+     "sentence_zh": "在工作上，為自己的錯誤承擔責任非常重要。",
+     "synonyms": [
+      "duty",
+      "blame"
+     ],
+     "collocations": [
+      "take responsibility",
+      "accept responsibility"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-27/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-27/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-27/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-27/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-27/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-27/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-27/n1-w3-ex.mp3",
+  "n1-w4": "audio/2026-11-27/n1-w4.mp3",
+  "n1-w4-ex": "audio/2026-11-27/n1-w4-ex.mp3",
+  "n1-w5": "audio/2026-11-27/n1-w5.mp3",
+  "n1-w5-ex": "audio/2026-11-27/n1-w5-ex.mp3",
+  "n2-summary": "audio/2026-11-27/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-27/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-27/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-27/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-27/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-27/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-27/n2-w3-ex.mp3",
+  "n2-w4": "audio/2026-11-27/n2-w4.mp3",
+  "n2-w4-ex": "audio/2026-11-27/n2-w4-ex.mp3",
+  "n3-summary": "audio/2026-11-27/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-27/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-27/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-27/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-27/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-27/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-27/n3-w3-ex.mp3",
+  "n4-summary": "audio/2026-11-27/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-27/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-27/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-27/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-27/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-27/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-27/n4-w3-ex.mp3",
+  "n4-w4": "audio/2026-11-27/n4-w4.mp3",
+  "n4-w4-ex": "audio/2026-11-27/n4-w4-ex.mp3",
+  "n5-summary": "audio/2026-11-27/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-27/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-27/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-27/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-27/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-27/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-27/n5-w3-ex.mp3"
+ }
+}
