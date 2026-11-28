@@ -1,0 +1,389 @@
+{
+ "date": "2026-11-28",
+ "news": [
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "source": "The Guardian World",
+   "link": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+  },
+  {
+   "source": "BBC World",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+  }
+ ],
+ "items": [
+  {
+   "index": 1,
+   "title_en": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+   "title_zh": "加拿大最高法院維持魁北克法律，禁止公部門員工配戴宗教象徵物",
+   "summary_en": "Canada's top court decided to support a law in Quebec. This law stops government workers from wearing visible religious items at work. The decision shows a conflict between personal rights and government rules.",
+   "summary_zh": "加拿大最高法院決定支持魁北克的一項法律。該法律禁止公部門員工在工作時配戴顯眼的宗教物品。這項裁決凸顯了個人權利與政府規範之間的衝突。",
+   "why_important_en": "This case is important because it balances personal religious freedom with government rules. It affects many public workers and sets an example for civil rights debates.",
+   "why_important_zh": "這起案件非常重要，因為它平衡了個人宗教自由與政府規範。這項決定影響了許多公部門員工，也為人權爭議樹立了判例。",
+   "vocab": [
+    {
+     "word": "uphold",
+     "pos": "v.",
+     "kk": "[ʌpˈhold]",
+     "meaning_zh": "維持，支持（判決、決定）",
+     "definition_en": "to agree with a previous decision or rule",
+     "sentence_en": "The manager decided to uphold the company rule about late arrivals.",
+     "sentence_zh": "經理決定維持公司關於遲到的規定。",
+     "synonyms": [
+      "support",
+      "maintain"
+     ],
+     "collocations": [
+      "uphold a decision",
+      "uphold the law"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "sector",
+     "pos": "n.",
+     "kk": "[ˈsɛktɚ]",
+     "meaning_zh": "部門，行業",
+     "definition_en": "one part of a country's business or economic activities",
+     "sentence_en": "She works in the financial sector and travels often for business.",
+     "sentence_zh": "她在金融領域工作，經常因公出差。",
+     "synonyms": [
+      "area",
+      "part"
+     ],
+     "collocations": [
+      "public sector",
+      "private sector"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "challenge",
+     "pos": "n.",
+     "kk": "[ˈtʃælɪndʒ]",
+     "meaning_zh": "質疑，挑戰",
+     "definition_en": "a questioning of whether something is right or fair",
+     "sentence_en": "Learning a new computer program was a big challenge for him.",
+     "sentence_zh": "學習一套新的電腦程式對他來說是一大挑戰。",
+     "synonyms": [
+      "difficulty",
+      "test"
+     ],
+     "collocations": [
+      "face a challenge",
+      "major challenge"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "title_en": "OpenAI countersues Apple for allegedly stealing trade secrets",
+   "title_zh": "OpenAI 反訴蘋果，指控其涉嫌竊取商業機密",
+   "summary_en": "OpenAI has filed a lawsuit against Apple in a federal court. It claims Apple stole trade secrets and stopped suppliers from working with OpenAI. This action comes after Apple first sued OpenAI over hiring employees.",
+   "summary_zh": "OpenAI 已在聯邦法院對蘋果提起訴訟。該公司聲稱蘋果竊取商業機密，並阻礙供應商與 OpenAI 合作。在此之前，蘋果也曾針對挖角員工一事起訴 OpenAI。",
+   "why_important_en": "This lawsuit involves two major tech leaders fighting over important technology and workers. It could change how tech companies compete and protect their ideas.",
+   "why_important_zh": "這起訴訟涉及兩大科技巨頭在關鍵技術與人才上的爭奪。它可能會改變科技公司競爭以及保護技術創新的方式。",
+   "vocab": [
+    {
+     "word": "lawsuit",
+     "pos": "n.",
+     "kk": "[ˈlɔˌsut]",
+     "meaning_zh": "訴訟，官司",
+     "definition_en": "a legal disagreement brought to a court for a decision",
+     "sentence_en": "The two partners settled their lawsuit before going to court.",
+     "sentence_zh": "兩位合夥人在上法庭之前解決了他們的訴訟。",
+     "synonyms": [
+      "suit",
+      "case"
+     ],
+     "collocations": [
+      "file a lawsuit",
+      "win a lawsuit"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "supplier",
+     "pos": "n.",
+     "kk": "[səˈplaɪɚ]",
+     "meaning_zh": "供應商",
+     "definition_en": "a company that provides goods or services to another business",
+     "sentence_en": "We need to find a new supplier for office paper.",
+     "sentence_zh": "我們需要為辦公用紙尋找新的供應商。",
+     "synonyms": [
+      "vendor",
+      "provider"
+     ],
+     "collocations": [
+      "key supplier",
+      "reliable supplier"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "access",
+     "pos": "n.",
+     "kk": "[ˈæksɛs]",
+     "meaning_zh": "使用權限，存取途徑",
+     "definition_en": "the right or opportunity to use or enter something",
+     "sentence_en": "Do you have access to the building after six in the evening?",
+     "sentence_zh": "晚上六點之後你有進入大樓的權限嗎？",
+     "synonyms": [
+      "entry",
+      "admission"
+     ],
+     "collocations": [
+      "have access to",
+      "gain access"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "title_en": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "title_zh": "肯亞末日教派領袖因另外 123 人死亡被定罪",
+   "summary_en": "A Kenyan cult leader has been found guilty of causing 123 more deaths of his followers. This verdict comes shortly after he was already sent to prison for other killings.",
+   "summary_zh": "一名肯亞教派領袖因導致另外 123 名追隨者死亡而被判有罪。在此判決之前不久，他才因其他謀殺罪行被送進監獄。",
+   "why_important_en": "This case brings legal justice to many victims and their families. It also warns people about the dangers of extreme religious groups.",
+   "why_important_zh": "這起判決為眾多受害者及其家屬伸張了法律正義，同時也向大眾警示極端宗教團體的危險性。",
+   "vocab": [
+    {
+     "word": "convict",
+     "pos": "v.",
+     "kk": "[kənˈvɪkt]",
+     "meaning_zh": "宣判有罪，定罪",
+     "definition_en": "to officially state in court that someone is guilty of a crime",
+     "sentence_en": "The jury took only two hours to convict the thief.",
+     "sentence_zh": "陪審團只花了兩個小時就判定小偷有罪。",
+     "synonyms": [
+      "sentence",
+      "find guilty"
+     ],
+     "collocations": [
+      "convict someone of",
+      "be convicted of a crime"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "further",
+     "pos": "adj.",
+     "kk": "[ˈfɝðɚ]",
+     "meaning_zh": "進一步的，額外的",
+     "definition_en": "more, or extra beyond what is already there",
+     "sentence_en": "Please contact our office if you need any further information.",
+     "sentence_zh": "如果您需要進一步的資訊，請聯絡我們的辦公室。",
+     "synonyms": [
+      "additional",
+      "extra"
+     ],
+     "collocations": [
+      "further information",
+      "further details"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "guilty",
+     "pos": "adj.",
+     "kk": "[ˈɡɪlti]",
+     "meaning_zh": "有罪的",
+     "definition_en": "responsible for doing something illegal or bad",
+     "sentence_en": "He felt guilty about leaving the dinner party so early.",
+     "sentence_zh": "他因為這麼早就離開晚宴而感到內疚。",
+     "synonyms": [
+      "culpable",
+      "blameworthy"
+     ],
+     "collocations": [
+      "plead guilty",
+      "feel guilty"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "title_en": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+   "title_zh": "北方大西洋航空申請破產並取消所有未來航班",
+   "summary_en": "Norse Atlantic Airways has filed for bankruptcy and stopped all future flights. The airline lost money mainly because of high fuel prices caused by the war. Many passengers are now stranded and told not to go to airports.",
+   "summary_zh": "北方大西洋航空已申請破產，並取消所有後續航班。該航空公司因戰爭導致燃油價格飆升而蒙受巨大財務損失。許多旅客目前滯留外地，並被通知不要前往機場。",
+   "why_important_en": "This shutdown leaves thousands of travelers without flights and disrupts travel plans. It also shows how global conflicts and fuel costs hurt the airline industry.",
+   "why_important_zh": "該航空公司的倒閉使成千上萬的旅客無法搭機並打亂旅遊計畫，也顯示出全球衝突與高油價對航空業的嚴重打擊。",
+   "vocab": [
+    {
+     "word": "cancel",
+     "pos": "v.",
+     "kk": "[ˈkænsəl]",
+     "meaning_zh": "取消",
+     "definition_en": "to decide that a planned event will not happen",
+     "sentence_en": "I need to cancel my hotel reservation for next weekend.",
+     "sentence_zh": "我需要取消下週末的飯店預訂。",
+     "synonyms": [
+      "call off",
+      "drop"
+     ],
+     "collocations": [
+      "cancel a flight",
+      "cancel an order"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "passenger",
+     "pos": "n.",
+     "kk": "[ˈpæsəndʒɚ]",
+     "meaning_zh": "乘客，旅客",
+     "definition_en": "a person who is traveling in a vehicle, train, or plane",
+     "sentence_en": "Every passenger must fasten their seatbelt before the car moves.",
+     "sentence_zh": "每位乘客在車子開動前都必須繫好安全帶。",
+     "synonyms": [
+      "traveler",
+      "commuter"
+     ],
+     "collocations": [
+      "train passenger",
+      "passenger flight"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "critical",
+     "pos": "adj.",
+     "kk": "[ˈkrɪtɪkəl]",
+     "meaning_zh": "危急的，關鍵的",
+     "definition_en": "very important, serious, or urgent",
+     "sentence_en": "It is critical that you finish this report before Friday afternoon.",
+     "sentence_zh": "你在週五下午之前完成這份報告是極其關鍵的。",
+     "synonyms": [
+      "crucial",
+      "vital"
+     ],
+     "collocations": [
+      "critical condition",
+      "play a critical role"
+     ],
+     "toeic_common": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "title_en": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "title_zh": "西班牙首相與對手號召支持者進行最後拉票",
+   "summary_en": "The Prime Minister of Spain and his political opponents are gathering supporters to win votes. The leader hopes to beat poor poll results. Meanwhile, his rivals are attacking him and saying he is not honest.",
+   "summary_zh": "西班牙首相與其政治對手正在集結支持者以爭取選票。該位領袖希望打破不佳的民調結果，而其對手則抨擊他不誠實。",
+   "why_important_en": "The final campaign events could decide the outcome of the Spanish election. The result will determine Spain's next government and its future policies.",
+   "why_important_zh": "選前的最後造勢活動可能會決定西班牙大選的結果，並決定誰將組成下一屆政府以及未來的施政方針。",
+   "vocab": [
+    {
+     "word": "rally",
+     "pos": "v.",
+     "kk": "[ˈræli]",
+     "meaning_zh": "召集，集合",
+     "definition_en": "to bring people together to support an effort or cause",
+     "sentence_en": "The team manager tried to rally the workers to meet the deadline.",
+     "sentence_zh": "團隊經理試圖召集員工一同趕上截止日期。",
+     "synonyms": [
+      "gather",
+      "assemble"
+     ],
+     "collocations": [
+      "rally support",
+      "rally together"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "rival",
+     "pos": "n.",
+     "kk": "[ˈraɪvəl]",
+     "meaning_zh": "競爭對手",
+     "definition_en": "a person or business competing with another for the same goal",
+     "sentence_en": "Our company just bought products from our main rival in town.",
+     "sentence_zh": "我們公司剛向城裡的主要競爭對手購買了產品。",
+     "synonyms": [
+      "competitor",
+      "opponent"
+     ],
+     "collocations": [
+      "chief rival",
+      "business rival"
+     ],
+     "toeic_common": true
+    },
+    {
+     "word": "supporter",
+     "pos": "n.",
+     "kk": "[səˈpɔrtɚ]",
+     "meaning_zh": "支持者",
+     "definition_en": "a person who agrees with and helps an idea, team, or person",
+     "sentence_en": "He has been a strong supporter of the local soccer team for years.",
+     "sentence_zh": "多年來他一直是這支當地足球隊的堅定支持者。",
+     "synonyms": [
+      "fan",
+      "follower"
+     ],
+     "collocations": [
+      "strong supporter",
+      "staunch supporter"
+     ],
+     "toeic_common": true
+    }
+   ]
+  }
+ ],
+ "audio": {
+  "n1-summary": "audio/2026-11-28/n1-summary.mp3",
+  "n1-w1": "audio/2026-11-28/n1-w1.mp3",
+  "n1-w1-ex": "audio/2026-11-28/n1-w1-ex.mp3",
+  "n1-w2": "audio/2026-11-28/n1-w2.mp3",
+  "n1-w2-ex": "audio/2026-11-28/n1-w2-ex.mp3",
+  "n1-w3": "audio/2026-11-28/n1-w3.mp3",
+  "n1-w3-ex": "audio/2026-11-28/n1-w3-ex.mp3",
+  "n2-summary": "audio/2026-11-28/n2-summary.mp3",
+  "n2-w1": "audio/2026-11-28/n2-w1.mp3",
+  "n2-w1-ex": "audio/2026-11-28/n2-w1-ex.mp3",
+  "n2-w2": "audio/2026-11-28/n2-w2.mp3",
+  "n2-w2-ex": "audio/2026-11-28/n2-w2-ex.mp3",
+  "n2-w3": "audio/2026-11-28/n2-w3.mp3",
+  "n2-w3-ex": "audio/2026-11-28/n2-w3-ex.mp3",
+  "n3-summary": "audio/2026-11-28/n3-summary.mp3",
+  "n3-w1": "audio/2026-11-28/n3-w1.mp3",
+  "n3-w1-ex": "audio/2026-11-28/n3-w1-ex.mp3",
+  "n3-w2": "audio/2026-11-28/n3-w2.mp3",
+  "n3-w2-ex": "audio/2026-11-28/n3-w2-ex.mp3",
+  "n3-w3": "audio/2026-11-28/n3-w3.mp3",
+  "n3-w3-ex": "audio/2026-11-28/n3-w3-ex.mp3",
+  "n4-summary": "audio/2026-11-28/n4-summary.mp3",
+  "n4-w1": "audio/2026-11-28/n4-w1.mp3",
+  "n4-w1-ex": "audio/2026-11-28/n4-w1-ex.mp3",
+  "n4-w2": "audio/2026-11-28/n4-w2.mp3",
+  "n4-w2-ex": "audio/2026-11-28/n4-w2-ex.mp3",
+  "n4-w3": "audio/2026-11-28/n4-w3.mp3",
+  "n4-w3-ex": "audio/2026-11-28/n4-w3-ex.mp3",
+  "n5-summary": "audio/2026-11-28/n5-summary.mp3",
+  "n5-w1": "audio/2026-11-28/n5-w1.mp3",
+  "n5-w1-ex": "audio/2026-11-28/n5-w1-ex.mp3",
+  "n5-w2": "audio/2026-11-28/n5-w2.mp3",
+  "n5-w2-ex": "audio/2026-11-28/n5-w2-ex.mp3",
+  "n5-w3": "audio/2026-11-28/n5-w3.mp3",
+  "n5-w3-ex": "audio/2026-11-28/n5-w3-ex.mp3"
+ }
+}

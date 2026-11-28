@@ -4,16 +4,17 @@
 
 🎧 **網站版（可播放英文語音）：https://qsceszwdvrdx.github.io/en_news/**
 
-## 最新一期：2026-11-27（[中文版](news/2026-11-27.md)｜[English only](news_en/2026-11-27.md)）
+## 最新一期：2026-11-28（[中文版](news/2026-11-28.md)｜[English only](news_en/2026-11-28.md)）
 
-1. Congo Ebola outbreak reaches 12,000 cases as some responders evacuate
-2. Spain’s Pablo Hernández de Cos wins race to be next ECB president
-3. Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
-4. FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
-5. Two Italians killed in strike in Kuwait, as Iran denies responsibility
+1. Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols
+2. OpenAI countersues Apple for allegedly stealing trade secrets
+3. Kenyan doomsday cult leader convicted over further 123 deaths
+4. Norse Atlantic Airways files for bankruptcy and cancels all future flights
+5. Spanish PM and rivals rally supporters in final pitch for votes
 
 ## 歷史清單
 
+- 2026-11-28：[中文版](news/2026-11-28.md)｜[English only](news_en/2026-11-28.md)｜[Anki](anki/2026-11-28.csv)
 - 2026-11-27：[中文版](news/2026-11-27.md)｜[English only](news_en/2026-11-27.md)｜[Anki](anki/2026-11-27.csv)
 - 2026-11-26：[中文版](news/2026-11-26.md)｜[English only](news_en/2026-11-26.md)｜[Anki](anki/2026-11-26.csv)
 - 2026-11-25：[中文版](news/2026-11-25.md)｜[English only](news_en/2026-11-25.md)｜[Anki](anki/2026-11-25.csv)
